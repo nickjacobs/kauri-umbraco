@@ -1,0 +1,1 @@
+tinyMCE.addToLang("",{insert_advhr_desc:"Vložiť/editovať vodorovný oddeľova�?",insert_advhr_width:"Š�rka",insert_advhr_size:"Výška",insert_advhr_noshade:"Nestieňovať"});

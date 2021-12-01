@@ -1,0 +1,2 @@
+﻿<%@ Master Language="C#" MasterPageFile="/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server"><umbraco:Macro rssNoItems="10" rssTitle="Your Company's news and events RSS feed" rssDescription="This is a list of Your Company's news and events that are going on." Alias="CWS_NewsEventsRSS" runat="server"></umbraco:Macro></asp:Content>

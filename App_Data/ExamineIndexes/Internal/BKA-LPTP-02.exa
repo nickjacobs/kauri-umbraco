@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <EXAFields>Name</EXAFields>
+    </key>
+    <value>
+      <string>BKA-LPTP-02</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>Created</EXAFields>
+    </key>
+    <value>
+      <string>2010-09-02 07:17:47.625</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>Updated</EXAFields>
+    </key>
+    <value>
+      <string>2010-09-02 21:37:48.203</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>IsMaster</EXAFields>
+    </key>
+    <value>
+      <string>True</string>
+    </value>
+  </item>
+</dictionary>

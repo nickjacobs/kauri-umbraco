@@ -1,0 +1,59 @@
+﻿.left
+{
+    float:left;
+}  
+
+.container
+{
+    margin:15px 0;
+}
+    
+h1
+{
+    margin:0;
+}
+    
+.xsltResults 
+{
+    width:30%;
+    margin:0 15px 0;
+}
+
+.displayLog
+{
+    width:60%;
+    border:1px solid #ccc;
+    padding:20px;
+}
+    
+ul.form_logs
+{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+    ul.form_logs li.selected 
+    {
+        background-color:#FFF6BF;
+    }
+    
+    ul.form_logs li a
+    {
+        display:block;
+        padding:3px 5px 3px 15px;
+    }
+    
+    ul.form_logs li a:hover
+    {
+        background-color:#CCC;
+    }
+    
+    ul.form_logs li.selected a:hover
+    {
+        background-color:#FFF6BF;
+    }
+    
+        ul.form_logs li ul 
+        {
+            display:none;
+        }

@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" MasterPageFile="/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="HeadContent" runat="server">
+</asp:Content>
+<asp:Content ContentPlaceHolderId="ChildContent" runat="server">
+<div class="lightBoxContainer" onclick="return false;">
+</div>
+
+<div class="lightBox" onclick="return false;">
+	<a href="#" class="btnClose" onclick="return false;">CLOSE</a>
+	<h2><umbraco:Item ID="Item3" field="formTitle" runat="server"></umbraco:Item></h2>
+	<umbraco:Item ID="Item4" field="formBodyText" runat="server"></umbraco:Item>
+	
+    <div class="formContainer">
+    <input type="hidden" id="fileName" />
+        <fieldset class="clearfix">
+		    <label>Your Name</label>
+		    <input id="dl_userName" />
+		    <label>Your Email</label>
+		    <input id="dl_userEmail" />
+		    <p class="dl_success">Thanks for registering</p>
+		    <p class="dl_error">Please enter a correct email address</p>
+	    </fieldset>
+    </div>
+    <a href="#" class="btnDownload"><umbraco:Item ID="Item5" field="buttonText" runat="server"></umbraco:Item></a>  	
+</div>
+<div class="content clearfix">
+		<h1><umbraco:Item ID="Item1" field="title" stripParagraph="true" runat="server"></umbraco:Item></h1>
+		<div class="col w540 mr60">     
+        <h2><umbraco:Item ID="Item2" field="synopsis" runat="server"></umbraco:Item></h2> 
+        <umbraco:Macro ID="Macro1" Alias="[XSLT]ListPublications" runat="server"></umbraco:Macro>
+		</div>
+		<div class="col w300">           	
+            <umbraco:Macro ID="Macro2" Alias="[XSLT]RightPanelAdverts" runat="server"></umbraco:Macro>
+		</div>
+	</div>   
+</asp:Content>

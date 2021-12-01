@@ -1,0 +1,88 @@
+body, form {
+  margin: 10px;
+  width: 100%;
+  height: 100%;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 23px;
+  color: #3F433E;
+  margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+  padding: 0;
+  margin: 0;
+}
+
+
+ul {
+  margin: 10px 0 30px 10px;
+  list-style:none;
+}
+ul li{
+  margin: 0 0 5px 0;
+  padding:  0 0 0 15px;
+  background:url(../Images/UI/DEFINETHIS.gif) no-repeat center left;  
+  font-size:13px;
+  color:#333;
+  line-height:160%;
+}
+
+ol {
+  margin: 10px 0 30px 30px;
+}
+ol li{
+  margin: 0 0 5px 0;
+  padding:  0 ;
+  font-size:13px;
+  color:#333;
+  line-height:160%;
+}
+
+/***** Tables *****/
+table{
+  margin:0 0 20px 0;
+  color:#666;
+  font-size:13px;
+  background:#EEE;
+}
+th{
+  padding:3px;  
+  background:#FFF;
+}
+td{
+  padding:3px;  
+  background:#FFF;
+}
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
+H1 {
+	font-family: 'dinprolight', Arial, Helvetica, sans-serif; 	font-size: 37px; 	line-height: 44px; 	color: #3F433E; 	font-weight: normal; 	margin-bottom: 15px;
+}
+
+H2 {
+font-family: 'dinprolight', Arial, Helvetica, sans-serif; 	font-size: 23px; 	line-height: 26px; 	color: #3F433E; 	font-weight: normal; 	margin-bottom: 23px;
+}
+
+H3 {
+font-family: 'dinprobold', Arial, Helvetica, sans-serif; 	font-size: 18px; 	line-height: 23px; 	color: #3F433E; 	font-weight: normal; 	margin-bottom: 12px;
+}
+
+H4 {
+font-family: 'dinprobold', Arial, Helvetica, sans-serif; 	font-size: 14px; 	line-height: 14px; 	font-weight: normal; 	color: #3F433E;
+}
+
+H5 {
+	font-family: Arial, Helvetica, sans-serif; 	font-size: 14px; 	line-height: 14px; 	font-weight: normal; 	color: #999999;
+}
+

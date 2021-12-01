@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" CodeFile="~/masterpages/Sitemap.master.cs" Inherits="Sitemap" %>
+
+<asp:content ID="Content1" ContentPlaceHolderId="HeadContent" runat="server">
+
+</asp:content>
+<asp:content ID="Content2" ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="leftColumn">
+    </div>
+    <div class="centerColumn">
+        <h1><umbraco:Item ID="Item1" field="pageName" stripParagraph="true" runat="server"></umbraco:Item></h1>
+        <umbraco:Item ID="Item2" field="bodyText" runat="server"></umbraco:Item>       
+               
+        <asp:Literal ID="litSitemap" runat="server"></asp:Literal>
+        
+                
+        <!-- page buttons style start -->                
+        <!--<div class="pageButtons">
+            <a class="backButton" href="JavaScript:history.go(-1)">Back</a>
+            <a class="topButton" href="#">Top</a>
+            <a class="printButton" href="javascript: window.print()">Print</a>
+            <a class="tellAFriendButton" href="#tellFriend" onclick="showLBMain('lightBox');">TELL A FRIEND</a>
+        </div>-->
+
+        <!-- page buttons style end -->
+                
+        <div class="clearer"></div>
+    </div>
+    <div class="rightColumn">
+
+    </div>
+    <div class="clearer"></div>
+</asp:content>

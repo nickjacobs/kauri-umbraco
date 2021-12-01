@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\DevelopmentProjects\umbraco\clean\App_Data\ClientDependency\1_b27f9f2d438b48c0bb35a1c99cab9da9.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczs=" file="D:\DevelopmentProjects\umbraco\clean\App_Data\ClientDependency\1_cf311422b27246aab1cd89990741d88b.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\panel\javascript.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\jqueryui.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L2luc3RhbGwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="D:\DevelopmentProjects\umbraco\clean\App_Data\ClientDependency\1_772b25d228d542798f4d9cda6bbe27b6.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\install\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L3Bhc3N3b3JkU3RyZW5ndGgvcGFzc3dvcmRzdHJlbmd0aC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOw==" file="D:\DevelopmentProjects\umbraco\clean\App_Data\ClientDependency\1_0c6cba4e1498443ba1caefa5ad3ffbf8.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\passwordStrength\passwordstrength.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\panel\javascript.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvL2Nzcy91bWJyYWNvR3VpLmNzczs=" file="D:\DevelopmentProjects\umbraco\clean\App_Data\ClientDependency\1_7dbeed7a141b4f689a231fcbefe251ee.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco\css\umbracoGui.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjby9TZWFyY2gvcXVpY2tTZWFyY2guanM7L3VtYnJhY28vanMvZ3VpRnVuY3Rpb25zLmpzOy91bWJyYWNvL2pzL1VtYnJhY29TcGVlY2hCdWJibGVCYWNrZW5kLmpzOy91bWJyYWNvL2pzL2xhbmd1YWdlLmFzcHg7L3VtYnJhY29fY2xpZW50L3VpL2pRdWVyeVdyZXNpemUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkuYXV0b2NvbXBsZXRlLmpzOw==" file="D:\DevelopmentProjects\umbraco\clean\App_Data\ClientDependency\1_e7e34499be4a477fb5ca762e89b2e443.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\jQuery\jquery.ba-bbq.min.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\HistoryManager.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\panel\javascript.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco\Search\quickSearch.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco\js\guiFunctions.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco\js\UmbracoSpeechBubbleBackend.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\jQueryWresize.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\JQuery\jquery.autocomplete.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOw==" file="D:\DevelopmentProjects\umbraco\clean\App_Data\ClientDependency\1_81dc552778914142aca4fb640894201a.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="D:\DevelopmentProjects\umbraco\clean\App_Data\ClientDependency\1_e0fd41a21f09460c9754a9cc75db9abf.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\panel\javascript.js" />
+      <file name="D:\DevelopmentProjects\umbraco\clean\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+</map>

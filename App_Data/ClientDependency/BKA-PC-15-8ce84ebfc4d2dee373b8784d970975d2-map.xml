@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_bccdd58e1cb640eea880ee0b5d51e0ac.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_0f9c2ad4beb247b9b39e79f8fdd5fde9.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvL2Nzcy91bWJyYWNvR3VpLmNzczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_4d0063e1ea8e4e27b93e12454508df56.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\css\umbracoGui.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjby9TZWFyY2gvcXVpY2tTZWFyY2guanM7L3VtYnJhY28vanMvZ3VpRnVuY3Rpb25zLmpzOy91bWJyYWNvL2pzL1VtYnJhY29TcGVlY2hCdWJibGVCYWNrZW5kLmpzOy91bWJyYWNvL2pzL2xhbmd1YWdlLmFzcHg7L3VtYnJhY29fY2xpZW50L3VpL2pRdWVyeVdyZXNpemUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkuYXV0b2NvbXBsZXRlLmpzOw==" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_13f69c12b643474ba635282596002b2e.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.ba-bbq.min.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\HistoryManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\Search\quickSearch.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\guiFunctions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\UmbracoSpeechBubbleBackend.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jQueryWresize.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\JQuery\jquery.autocomplete.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOw==" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_5f06b16799494dbeb9ca840960ce5170.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_a8858680dd1946b1b4a64af3dda531af.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_e5e3d5ab01874c2e8bbda64fd2c7c615.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_4f72de0cbced4a83a4bdededf994505f.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9HZW5lcmljUHJvcGVydHkvZ2VuZXJpY3Byb3BlcnR5LmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9UaGVtZXMvdW1icmFjby9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RkLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS90cmVlSWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOw==" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_082b3b95f6d14ed9ba335ebb91a53911.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\GenericProperty\genericproperty.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\dd.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnkuZGQuanM7L3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy9VbWJyYWNvQ2FzaW5nUnVsZXMuYXNweDs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_f98c41f2405045b78f2a0ba19f02ef0e.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.dd.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\GenericProperty\genericproperty.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_54f42155a95448e6804d6f8c47494a56.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_748ccc8a470c4aa9a17c10e007c3b3b4.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_5f879e0c78ed4ec8aa209dfafba7685b.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOw==" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_c28357a9e3f74f58aeb4be44dd8aeb1f.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvc3R5bGVzLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_d5b3cfac52a74aedaec4cf3c8436849c.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\CodeArea\styles.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS1maWVsZHNlbGVjdGlvbi5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL2NvZGVtaXJyb3IuanM7L3VtYnJhY29fY2xpZW50L0NvZGVBcmVhL1VtYnJhY29FZGl0b3IuanM7L3VtYnJhY29fY2xpZW50L0NvZGVBcmVhL2phdmFzY3JpcHQuanM7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_300ddf31aa994d2686cd2371f6a9bf79.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery-fieldselection.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\CodeMirror\js\codemirror.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\CodeArea\UmbracoEditor.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\CodeArea\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_e3c525b74c7646e48f3ffb4d53daa0fc.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\panel\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOw==" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_4022dee361c94f8fb240391e2c76f592.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_eb56c396409640a09925cb0a27879478.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_e6fa696c40684964820d78a39f4b7c38.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNoZWNrYm94LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL05vZGVEZWZpbml0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29Db250ZXh0LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29UcmVlLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_2b43fe19f2094e0eace0761d3f385129.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_f1401019a8fb469d8ce42ba234787c2e.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\umbracoCheckKeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_a7beee75cc98414696a867c990531269.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_2f60e1746bbf42178def769c52f2eef8.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\datetimepicker.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_23dea5786b8940a09b21679d62ddb6bb.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\timepicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvZGF0ZXRpbWVwaWNrZXIuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_a1be119e995e4f0ab207291a12436cba.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy91bWJyYWNvQ2hlY2tLZXlzLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9JbWFnZVZpZXdlci5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci91bWJEYXRlVGltZVBpY2tlci5qczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_6370791fb74b4d9a839bfa9036bbc807.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\controls\Images\ImageViewer.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy91bWJyYWNvQ2hlY2tLZXlzLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3VtYkRhdGVUaW1lUGlja2VyLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci90aW1lcGlja2VyLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9JbWFnZVZpZXdlci5qczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_52c455ebe20348cd9ce019eb5f37c453.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\controls\Images\ImageViewer.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_11bbad3be2524547bce7d6f251675b43.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3VtYkRhdGVUaW1lUGlja2VyLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci90aW1lcGlja2VyLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9JbWFnZVZpZXdlci5qczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_87fc0b68797c4e809f4b59e6bfde084c.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\controls\Images\ImageViewer.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOw==" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_6f194d81157f447c9d5bd9e325c603a9.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_d574101a7dfd424d9894d8d9b6e24b5d.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\datetimepicker.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_e8d8ed00cca54b7ba4c1a3c2f2e740c3.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy91bWJyYWNvQ2hlY2tLZXlzLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY28vY29udHJvbHMvSW1hZ2VzL0ltYWdlVmlld2VyLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci91bWJEYXRlVGltZVBpY2tlci5qczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_ec84331ce52e42d7a61b095916bba321.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\controls\Images\ImageViewer.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_92d59941478d49fca2c7b2fbb0e3f988.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_25ef3afb70ee4d05b712949096096463.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy91bWJyYWNvQ2hlY2tLZXlzLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9JbWFnZVZpZXdlci5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci91bWJEYXRlVGltZVBpY2tlci5qczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_28e917c5ff284f2cb8f7f663fdd80272.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\modal\modal.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\controls\Images\ImageViewer.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_0529c41e1f2741e7ba06e4239dfcfc92.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\propertypane\style.css" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL05vZGVEZWZpbml0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNoZWNrYm94LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29Db250ZXh0LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29UcmVlLmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczs=" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_96aef542c31342af909340e383210df5.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoUtils.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L3RhYmxlc29ydGluZy90YWJsZURyYWdBbmREcm9wLmpzOy91bWJyYWNvX2NsaWVudC90YWJsZXNvcnRpbmcvdGFibGVGaWx0ZXIuanM7" file="D:\DevelopmentProjects\keep kauri standing\development\www\App_Data\ClientDependency\1_e659235485234152acae5885efc40fc8.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\jquery.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\ui\default.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tablesorting\tableDragAndDrop.js" />
+      <file name="D:\DevelopmentProjects\keep kauri standing\development\www\umbraco_client\tablesorting\tableFilter.js" />
+    </files>
+  </item>
+</map>

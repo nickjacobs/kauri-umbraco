@@ -1,0 +1,22 @@
+﻿<%@ Master Language="C#" MasterPageFile="/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+
+<asp:content ID="Content1" ContentPlaceHolderId="ChildContent" runat="server">
+ <div class="content clearfix">
+		<h1><umbraco:Item ID="Item1" field="title" stripParagraph="true" runat="server"></umbraco:Item></h1>
+		<div class="col w540 mr60">
+			<h2><umbraco:Item ID="Item2" field="intro" stripParagraph="true" runat="server"></umbraco:Item></h2>
+            <umbraco:Item ID="Item3" field="bodyText"  runat="server"></umbraco:Item>
+            <umbraco:Macro ID="Macro4" Alias="[XSLT]YouTube" runat="server"></umbraco:Macro>  
+			<div class="mediaLinks">          
+                <umbraco:Macro ID="Macro2" Alias="[XSLT]MediaLinks" runat="server"></umbraco:Macro>                
+			</div>
+		</div>
+		<div class="col w300">
+            <umbraco:Macro ID="Macro5" Alias="CWS_SubNavi" runat="server"></umbraco:Macro>
+            <umbraco:Macro ID="Macro3" Alias="[XSLT]RightPanelAdverts" runat="server"></umbraco:Macro>
+             <%--<umbraco:Macro ID="Macro1" Alias="[XSLT]NewsAndMediaSubMenu" runat="server"></umbraco:Macro>--%>
+             	
+		</div>
+	</div>
+</asp:content>

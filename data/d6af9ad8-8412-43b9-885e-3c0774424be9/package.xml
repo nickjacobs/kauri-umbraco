@@ -1,0 +1,4925 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>ContactForm.ascx</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>ContactForm.ascx</orgName>
+    </file>
+    <file>
+      <guid>EmailAFriendForm.ascx</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>EmailAFriendForm.ascx</orgName>
+    </file>
+    <file>
+      <guid>SearchBox.ascx</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>SearchBox.ascx</orgName>
+    </file>
+    <file>
+      <guid>DateFormat.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>DateFormat.xslt</orgName>
+    </file>
+    <file>
+      <guid>DisplayArticleImage.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>DisplayArticleImage.xslt</orgName>
+    </file>
+    <file>
+      <guid>EmailAFriendLink.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>EmailAFriendLink.xslt</orgName>
+    </file>
+    <file>
+      <guid>ListGalleries.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>ListGalleries.xslt</orgName>
+    </file>
+    <file>
+      <guid>ListNewsEvents.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>ListNewsEvents.xslt</orgName>
+    </file>
+    <file>
+      <guid>ListPhotos.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>ListPhotos.xslt</orgName>
+    </file>
+    <file>
+      <guid>Navi.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>Navi.xslt</orgName>
+    </file>
+    <file>
+      <guid>NewsEventsRSS.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>NewsEventsRSS.xslt</orgName>
+    </file>
+    <file>
+      <guid>NewsEventsSubNavi.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>NewsEventsSubNavi.xslt</orgName>
+    </file>
+    <file>
+      <guid>PageTitle.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>PageTitle.xslt</orgName>
+    </file>
+    <file>
+      <guid>ParentPageLink.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>ParentPageLink.xslt</orgName>
+    </file>
+    <file>
+      <guid>PhotoPager.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>PhotoPager.xslt</orgName>
+    </file>
+    <file>
+      <guid>PhotoText.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>PhotoText.xslt</orgName>
+    </file>
+    <file>
+      <guid>SubNavi.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>SubNavi.xslt</orgName>
+    </file>
+    <file>
+      <guid>XMLSitemap.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>XMLSitemap.xslt</orgName>
+    </file>
+    <file>
+      <guid>XSLTsearch.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>XSLTsearch.xslt</orgName>
+    </file>
+    <file>
+      <guid>royal-crescent_thumb.jpg</guid>
+      <orgPath>/media/1014</orgPath>
+      <orgName>royal-crescent_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>royal-crescent_thumb_thumb.jpg</guid>
+      <orgPath>/media/1014</orgPath>
+      <orgName>royal-crescent_thumb_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_gallery.jpg</guid>
+      <orgPath>/media/1239</orgPath>
+      <orgName>bookhouse-boys_gallery.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_gallery_thumb.jpg</guid>
+      <orgPath>/media/1239</orgPath>
+      <orgName>bookhouse-boys_gallery_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_1.jpg</guid>
+      <orgPath>/media/1250</orgPath>
+      <orgName>bookhouse-boys_1.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_1_thumb.jpg</guid>
+      <orgPath>/media/1250</orgPath>
+      <orgName>bookhouse-boys_1_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_3.jpg</guid>
+      <orgPath>/media/1277</orgPath>
+      <orgName>bookhouse-boys_3.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_3_thumb.jpg</guid>
+      <orgPath>/media/1277</orgPath>
+      <orgName>bookhouse-boys_3_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>8673caca-d521-4452-b9de-551e8a4e36c6_bookhouse-boys_1_thumb.jpg</guid>
+      <orgPath>/media/1296</orgPath>
+      <orgName>bookhouse-boys_1_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_1_thumb_thumb.jpg</guid>
+      <orgPath>/media/1296</orgPath>
+      <orgName>bookhouse-boys_1_thumb_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>b778a803-b1e3-41ab-915e-2e667f5fd430_bookhouse-boys_3_thumb.jpg</guid>
+      <orgPath>/media/1314</orgPath>
+      <orgName>bookhouse-boys_3_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_3_thumb_thumb.jpg</guid>
+      <orgPath>/media/1314</orgPath>
+      <orgName>bookhouse-boys_3_thumb_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_2.jpg</guid>
+      <orgPath>/media/1331</orgPath>
+      <orgName>bookhouse-boys_2.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_2_thumb.jpg</guid>
+      <orgPath>/media/1331</orgPath>
+      <orgName>bookhouse-boys_2_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bbb01845-618e-471d-8070-b3db45a37629_bookhouse-boys_2_thumb.jpg</guid>
+      <orgPath>/media/1350</orgPath>
+      <orgName>bookhouse-boys_2_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bookhouse-boys_2_thumb_thumb.jpg</guid>
+      <orgPath>/media/1350</orgPath>
+      <orgName>bookhouse-boys_2_thumb_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>umbraco_tshirt.jpg</guid>
+      <orgPath>/media/171</orgPath>
+      <orgName>umbraco_tshirt.jpg</orgName>
+    </file>
+    <file>
+      <guid>umbraco_tshirt_thumb.jpg</guid>
+      <orgPath>/media/171</orgPath>
+      <orgName>umbraco_tshirt_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>warren-buckley.jpg</guid>
+      <orgPath>/media/227</orgPath>
+      <orgName>warren-buckley.jpg</orgName>
+    </file>
+    <file>
+      <guid>warren-buckley_thumb.jpg</guid>
+      <orgPath>/media/227</orgPath>
+      <orgName>warren-buckley_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>sam-grady.jpg</guid>
+      <orgPath>/media/228</orgPath>
+      <orgName>sam-grady.jpg</orgName>
+    </file>
+    <file>
+      <guid>sam-grady_thumb.jpg</guid>
+      <orgPath>/media/228</orgPath>
+      <orgName>sam-grady_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>codegarden08-t-shirt.jpg</guid>
+      <orgPath>/media/394</orgPath>
+      <orgName>codegarden08-t-shirt.jpg</orgName>
+    </file>
+    <file>
+      <guid>codegarden08-t-shirt_thumb.jpg</guid>
+      <orgPath>/media/394</orgPath>
+      <orgName>codegarden08-t-shirt_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bf522c2e-f631-48f2-9616-97b36c024b8a_umbraco_tshirt.jpg</guid>
+      <orgPath>/media/445</orgPath>
+      <orgName>umbraco_tshirt.jpg</orgName>
+    </file>
+    <file>
+      <guid>8642dfeb-cc3e-46f0-bd02-0d395682b5dc_umbraco_tshirt_thumb.jpg</guid>
+      <orgPath>/media/445</orgPath>
+      <orgName>umbraco_tshirt_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>home_photo.jpg</guid>
+      <orgPath>/media/49</orgPath>
+      <orgName>home_photo.jpg</orgName>
+    </file>
+    <file>
+      <guid>home_photo_thumb.jpg</guid>
+      <orgPath>/media/49</orgPath>
+      <orgName>home_photo_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>a9dec4ac-6620-433d-8570-568e95b81ac2_codegarden08-t-shirt_thumb.jpg</guid>
+      <orgPath>/media/799</orgPath>
+      <orgName>codegarden08-t-shirt_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>codegarden08-t-shirt_thumb_thumb.jpg</guid>
+      <orgPath>/media/799</orgPath>
+      <orgName>codegarden08-t-shirt_thumb_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>Thumbs.db</guid>
+      <orgPath>/media/799</orgPath>
+      <orgName>Thumbs.db</orgName>
+    </file>
+    <file>
+      <guid>darren-ferguson_david-conlisk.jpg</guid>
+      <orgPath>/media/825</orgPath>
+      <orgName>darren-ferguson_david-conlisk.jpg</orgName>
+    </file>
+    <file>
+      <guid>darren-ferguson_david-conlisk_thumb.jpg</guid>
+      <orgPath>/media/825</orgPath>
+      <orgName>darren-ferguson_david-conlisk_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>c01b8cb5-eccc-46cc-a68e-c65c7458a5b9_darren-ferguson_david-conlisk_thumb.jpg</guid>
+      <orgPath>/media/835</orgPath>
+      <orgName>darren-ferguson_david-conlisk_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>darren-ferguson_david-conlisk_thumb_thumb.jpg</guid>
+      <orgPath>/media/835</orgPath>
+      <orgName>darren-ferguson_david-conlisk_thumb_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bingo-callers.jpg</guid>
+      <orgPath>/media/852</orgPath>
+      <orgName>bingo-callers.jpg</orgName>
+    </file>
+    <file>
+      <guid>bingo-callers_thumb.jpg</guid>
+      <orgPath>/media/852</orgPath>
+      <orgName>bingo-callers_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>b35dc1ec-576e-4e49-8e04-7d952a42e5c0_bingo-callers_thumb.jpg</guid>
+      <orgPath>/media/871</orgPath>
+      <orgName>bingo-callers_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bingo-callers_thumb_thumb.jpg</guid>
+      <orgPath>/media/871</orgPath>
+      <orgName>bingo-callers_thumb_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>christian-palm.jpg</guid>
+      <orgPath>/media/879</orgPath>
+      <orgName>christian-palm.jpg</orgName>
+    </file>
+    <file>
+      <guid>christian-palm_thumb.jpg</guid>
+      <orgPath>/media/879</orgPath>
+      <orgName>christian-palm_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>ff07bf15-f0a4-483c-8579-a7f14bd00db3_Thumbs.db</guid>
+      <orgPath>/media/879</orgPath>
+      <orgName>Thumbs.db</orgName>
+    </file>
+    <file>
+      <guid>f9bb07bc-c187-4bc6-9b36-6510fa52281a_christian-palm_thumb.jpg</guid>
+      <orgPath>/media/889</orgPath>
+      <orgName>christian-palm_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>christian-palm_thumb_thumb.jpg</guid>
+      <orgPath>/media/889</orgPath>
+      <orgName>christian-palm_thumb_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>bath_gallery.jpg</guid>
+      <orgPath>/media/935</orgPath>
+      <orgName>bath_gallery.jpg</orgName>
+    </file>
+    <file>
+      <guid>bath_gallery_thumb.jpg</guid>
+      <orgPath>/media/935</orgPath>
+      <orgName>bath_gallery_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>codegarden-08_gallery.jpg</guid>
+      <orgPath>/media/993</orgPath>
+      <orgName>codegarden-08_gallery.jpg</orgName>
+    </file>
+    <file>
+      <guid>codegarden-08_gallery_thumb.jpg</guid>
+      <orgPath>/media/993</orgPath>
+      <orgName>codegarden-08_gallery_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>royal-crescent.jpg</guid>
+      <orgPath>/media/995</orgPath>
+      <orgName>royal-crescent.jpg</orgName>
+    </file>
+    <file>
+      <guid>2fd7ba57-b452-4dc9-975b-a266bd020050_royal-crescent_thumb.jpg</guid>
+      <orgPath>/media/995</orgPath>
+      <orgName>royal-crescent_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>arrow_left.gif</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>arrow_left.gif</orgName>
+    </file>
+    <file>
+      <guid>arrow_right.gif</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>arrow_right.gif</orgName>
+    </file>
+    <file>
+      <guid>cws_logo.gif</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>cws_logo.gif</orgName>
+    </file>
+    <file>
+      <guid>dotted_border.gif</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>dotted_border.gif</orgName>
+    </file>
+    <file>
+      <guid>footer_border.gif</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>footer_border.gif</orgName>
+    </file>
+    <file>
+      <guid>g72_logo.gif</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>g72_logo.gif</orgName>
+    </file>
+    <file>
+      <guid>rss_logo.gif</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>rss_logo.gif</orgName>
+    </file>
+    <file>
+      <guid>f6c68b3c-d069-494f-95cc-f4c2175a8fd8_Thumbs.db</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>Thumbs.db</orgName>
+    </file>
+    <file>
+      <guid>tick_icon.gif</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>tick_icon.gif</orgName>
+    </file>
+    <file>
+      <guid>white_30_bg.png</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>white_30_bg.png</orgName>
+    </file>
+    <file>
+      <guid>white_60_bg.png</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>white_60_bg.png</orgName>
+    </file>
+    <file>
+      <guid>white_90_bg.png</guid>
+      <orgPath>/media/Assets</orgPath>
+      <orgName>white_90_bg.png</orgName>
+    </file>
+    <file>
+      <guid>7b7d66b6-4a67-4dc1-afbb-f539ff91720c_home_photo.jpg</guid>
+      <orgPath>/media/Assets/Photos</orgPath>
+      <orgName>home_photo.jpg</orgName>
+    </file>
+    <file>
+      <guid>placeholder-photo.jpg</guid>
+      <orgPath>/media/Assets/Photos</orgPath>
+      <orgName>placeholder-photo.jpg</orgName>
+    </file>
+    <file>
+      <guid>placeholder.jpg</guid>
+      <orgPath>/media/Assets/Photos</orgPath>
+      <orgName>placeholder.jpg</orgName>
+    </file>
+    <file>
+      <guid>2d28705c-a687-41b3-995e-b10dd8daed39_Sam-Grady.jpg</guid>
+      <orgPath>/media/Assets/Photos</orgPath>
+      <orgName>Sam-Grady.jpg</orgName>
+    </file>
+    <file>
+      <guid>904c4f30-79b3-45f5-a3b4-ab0f8b56f3f3_Warren-Buckley.jpg</guid>
+      <orgPath>/media/Assets/Photos</orgPath>
+      <orgName>Warren-Buckley.jpg</orgName>
+    </file>
+    <file>
+      <guid>gallery_placeholder.gif</guid>
+      <orgPath>/media/Assets/Placeholders</orgPath>
+      <orgName>gallery_placeholder.gif</orgName>
+    </file>
+    <file>
+      <guid>photo_placeholder.gif</guid>
+      <orgPath>/media/Assets/Placeholders</orgPath>
+      <orgName>photo_placeholder.gif</orgName>
+    </file>
+    <file>
+      <guid>Amasis_MT.swf</guid>
+      <orgPath>/media/Assets/sIFR</orgPath>
+      <orgName>Amasis_MT.swf</orgName>
+    </file>
+    <file>
+      <guid>jquery-1.3.1.min.js</guid>
+      <orgPath>/scripts</orgPath>
+      <orgName>jquery-1.3.1.min.js</orgName>
+    </file>
+    <file>
+      <guid>script.js</guid>
+      <orgPath>/scripts</orgPath>
+      <orgName>script.js</orgName>
+    </file>
+    <file>
+      <guid>sifr-config.js</guid>
+      <orgPath>/scripts/sIFR</orgPath>
+      <orgName>sifr-config.js</orgName>
+    </file>
+    <file>
+      <guid>sifr.js</guid>
+      <orgPath>/scripts/sIFR</orgPath>
+      <orgName>sifr.js</orgName>
+    </file>
+    <file>
+      <guid>ContactForm_logs.ascx</guid>
+      <orgPath>/usercontrols/dashboards</orgPath>
+      <orgName>ContactForm_logs.ascx</orgName>
+    </file>
+    <file>
+      <guid>ContactForm_logs.ascx.cs</guid>
+      <orgPath>/usercontrols/dashboards</orgPath>
+      <orgName>ContactForm_logs.ascx.cs</orgName>
+    </file>
+    <file>
+      <guid>ContactForm_logs.ascx.designer.cs</guid>
+      <orgPath>/usercontrols/dashboards</orgPath>
+      <orgName>ContactForm_logs.ascx.designer.cs</orgName>
+    </file>
+    <file>
+      <guid>EmailAFriendForm_logs.ascx</guid>
+      <orgPath>/usercontrols/dashboards</orgPath>
+      <orgName>EmailAFriendForm_logs.ascx</orgName>
+    </file>
+    <file>
+      <guid>EmailAFriendForm_logs.ascx.cs</guid>
+      <orgPath>/usercontrols/dashboards</orgPath>
+      <orgName>EmailAFriendForm_logs.ascx.cs</orgName>
+    </file>
+    <file>
+      <guid>EmailAFriendForm_logs.ascx.designer.cs</guid>
+      <orgPath>/usercontrols/dashboards</orgPath>
+      <orgName>EmailAFriendForm_logs.ascx.designer.cs</orgName>
+    </file>
+    <file>
+      <guid>log.css</guid>
+      <orgPath>/usercontrols/dashboards</orgPath>
+      <orgName>log.css</orgName>
+    </file>
+    <file>
+      <guid>log_script.js</guid>
+      <orgPath>/usercontrols/dashboards</orgPath>
+      <orgName>log_script.js</orgName>
+    </file>
+    <file>
+      <guid>ContactForm.ascx.cs</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>ContactForm.ascx.cs</orgName>
+    </file>
+    <file>
+      <guid>ContactForm.ascx.designer.cs</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>ContactForm.ascx.designer.cs</orgName>
+    </file>
+    <file>
+      <guid>EmailAFriendForm.ascx.cs</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>EmailAFriendForm.ascx.cs</orgName>
+    </file>
+    <file>
+      <guid>EmailAFriendForm.ascx.designer.cs</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>EmailAFriendForm.ascx.designer.cs</orgName>
+    </file>
+    <file>
+      <guid>SearchBox.ascx.cs</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>SearchBox.ascx.cs</orgName>
+    </file>
+    <file>
+      <guid>SearchBox.ascx.designer.cs</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>SearchBox.ascx.designer.cs</orgName>
+    </file>
+    <file>
+      <guid>form_log.xslt</guid>
+      <orgPath>/data</orgPath>
+      <orgName>form_log.xslt</orgName>
+    </file>
+    <file>
+      <guid>CWS_date.png</guid>
+      <orgPath>/umbraco/images/thumbnails</orgPath>
+      <orgName>CWS_date.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_email_a_friend.png</guid>
+      <orgPath>/umbraco/images/thumbnails</orgPath>
+      <orgName>CWS_email_a_friend.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_image2.png</guid>
+      <orgPath>/umbraco/images/thumbnails</orgPath>
+      <orgName>CWS_image2.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_kfm_home.png</guid>
+      <orgPath>/umbraco/images/thumbnails</orgPath>
+      <orgName>CWS_kfm_home.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_knewsticker.png</guid>
+      <orgPath>/umbraco/images/thumbnails</orgPath>
+      <orgName>CWS_knewsticker.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_konqsidebar_news.png</guid>
+      <orgPath>/umbraco/images/thumbnails</orgPath>
+      <orgName>CWS_konqsidebar_news.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_kontact_mail.png</guid>
+      <orgPath>/umbraco/images/thumbnails</orgPath>
+      <orgName>CWS_kontact_mail.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_wordprocessing.png</guid>
+      <orgPath>/umbraco/images/thumbnails</orgPath>
+      <orgName>CWS_wordprocessing.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_calendar.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_calendar.png</orgName>
+    </file>
+    <file>
+      <guid>60ac83c8-edeb-4682-a0cd-a4e256a4927e_CWS_date.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_date.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_email.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_email.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_email_go.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_email_go.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_feed.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_feed.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_house.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_house.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_newspaper.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_newspaper.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_picture.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_picture.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_pictures.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_pictures.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_sitemap_color.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_sitemap_color.png</orgName>
+    </file>
+    <file>
+      <guid>CWS_vcard.png</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>CWS_vcard.png</orgName>
+    </file>
+    <file>
+      <guid>PackageActionsContrib.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>PackageActionsContrib.dll</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>Creative Website Starter</name>
+      <version>2.0.2</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://umbracocws.codeplex.com</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Warren Buckley</name>
+      <website>http://www.creativewebspecialist.co.uk</website>
+    </author>
+    <readme><![CDATA[This package will install a basic site that will allow you to understand how all the components of an Umbraco site works together.
+
+If you have any Bugs/Problems please report them at Codeplex
+http://umbracocws.codeplex.com
+
+Many Thanks,
+Warren Buckley]]></readme>
+  </info>
+  <Documents>
+    <DocumentSet importMode="root">
+      <node id="1082" version="86f18079-5426-4e60-9e79-38e02b20b4a1" parentID="-1" level="1" writerID="0" creatorID="0" nodeType="1057" template="1075" sortOrder="0" createDate="2009-02-26T18:39:39" updateDate="2009-03-27T13:52:25" nodeName="Home" urlName="home" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Home" path="-1,1082">
+        <data alias="umbracoUrlName" />
+        <data alias="umbracoUrlAlias" />
+        <data alias="metaDescription"><![CDATA[]]></data>
+        <data alias="metaKeywords"><![CDATA[]]></data>
+        <data alias="umbracoRedirect" />
+        <data alias="umbracoNaviHide">0</data>
+        <data alias="siteName">Your logo/name</data>
+        <data alias="headerText"><![CDATA[
+<p><strong>Sam Grady designed this for Warren Buckley.</strong>
+"This" idea was first created by the incredible Robert Brownjohn
+and has been copied many times since.</p>
+]]></data>
+        <data alias="homepagePhoto">/media/49/home_photo.jpg</data>
+        <data alias="bodyText"><![CDATA[
+<p>Thank you for installing the umbraco website package created and
+developed by Warren Buckley. This should website package be used to
+help you understand how all the components of an Umbraco site
+works.</p>
+]]></data>
+        <node id="1086" version="8cf28744-bc63-4ec9-be9c-4e9a7bb68533" parentID="1082" level="2" writerID="0" creatorID="0" nodeType="1066" template="1080" sortOrder="1" createDate="2009-02-26T18:47:46" updateDate="2009-03-20T10:00:35" nodeName="About" urlName="about" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Textpage" path="-1,1082,1086">
+          <data alias="umbracoUrlName" />
+          <data alias="umbracoUrlAlias" />
+          <data alias="metaDescription"><![CDATA[This is the META description for the about page.]]></data>
+          <data alias="metaKeywords"><![CDATA[about, creative web specialist, umbraco, warren buckley, sam grady]]></data>
+          <data alias="umbracoRedirect" />
+          <data alias="umbracoNaviHide">0</data>
+          <data alias="headerText"><![CDATA[
+<p>This is a good place to put a service message or something to
+help define your site or company.</p>
+]]></data>
+          <data alias="articlePhoto" />
+          <data alias="bodyText"><![CDATA[
+<p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Aliquam ullamcorper condimentum lorem. Curabitur placerat nunc ut
+leo. Integer eros ligula, vestibulum at, eleifend id, dignissim
+vel, est.</strong></p>
+
+<p>Fusce tristique. Cras faucibus porta nunc. Aliquam ultrices,
+arcu quis ornare sagittis, lectus augue ornare nulla, eu lobortis
+velit lectus id nibh. Aliquam condimentum aliquet purus. Quisque
+blandit ante non sapien. Sed justo libero, sollicitudin ac, pretium
+et, luctus nec, nisl. Nulla semper neque nec magna. Cras ut nibh ut
+urna bibendum sodales. Quisque venenatis euismod lacus.
+Pellentesque dapibus turpis at urna.</p>
+
+<h3>Sub Header</h3>
+
+<p>Sed scelerisque adipiscing mauris. Mauris egestas dapibus quam.
+Integer in libero eget eros dignissim pretium. Proin luctus sem nec
+lorem. Praesent lorem. Vivamus eget nunc quis sapien condimentum
+egestas. Maecenas facilisis, nunc at sodales facilisis, quam magna
+pretium nibh, vel ultrices lectus lorem quis neque. Nam sit amet
+leo ac lectus gravida convallis. Phasellus at enim vel dui porta
+porttitor. Morbi id dolor adipiscing erat egestas consequat.</p>
+
+<p><a href="http://www.google.co.uk">Phasellus diam. Morbi
+dolor.</a> Donec consequat sodales nunc. Nam dapibus lectus id
+lectus. Sed ultrices metus sit amet est. Morbi porttitor. Proin vel
+risus. Phasellus sodales convallis justo. <em>Sed luctus hendrerit
+risus. Sed est lorem, feugiat et, rutrum quis, condimentum non,
+nunc.</em> Aenean urna leo, sagittis a, commodo eget, lobortis nec,
+eros. Vivamus pharetra, lectus eu ultrices pulvinar, nunc quam
+consectetur nibh, sed pulvinar leo dolor ut felis.</p>
+
+<ol>
+<li>Item one</li>
+
+<li>Item two</li>
+
+<li>Item three</li>
+</ol>
+
+<p>Nullam lobortis, mi nec feugiat congue, dolor diam cursus lacus,
+a elementum ligula dolor vitae sem. Suspendisse at quam. Praesent
+neque. Vestibulum at justo. Nulla rutrum velit et eros.</p>
+
+<ul>
+<li>Integer convallis augue in tellus</li>
+
+<li>Magna quam sollicitudin mauris</li>
+</ul>
+
+<p>Nullam lobortis, mi nec feugiat congue, dolor diam cursus lacus,
+a elementum ligula dolor vitae sem. Suspendisse at quam.</p>
+]]></data>
+          <node id="1087" version="26ed27a4-8c19-41e0-81f4-3f7d56e5d3d8" parentID="1086" level="3" writerID="0" creatorID="0" nodeType="1066" template="1080" sortOrder="1" createDate="2009-02-26T18:51:52" updateDate="2009-03-20T10:00:42" nodeName="About Umbraco" urlName="about-umbraco" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Textpage" path="-1,1082,1086,1087">
+            <data alias="umbracoUrlName" />
+            <data alias="umbracoUrlAlias" />
+            <data alias="metaDescription"><![CDATA[]]></data>
+            <data alias="metaKeywords"><![CDATA[]]></data>
+            <data alias="umbracoRedirect" />
+            <data alias="umbracoNaviHide">0</data>
+            <data alias="headerText"><![CDATA[
+<p>It's the <strong>KING</strong> of all CMS's, what more do you
+need to know about it?</p>
+]]></data>
+            <data alias="articlePhoto">/media/171/umbraco_tshirt.jpg</data>
+            <data alias="bodyText"><![CDATA[
+<h3>Umbraco CMS is free</h3>
+
+<p>It means that you are not bound and locked to the licensing
+rules about the number of content items / processors / web /
+domains, etc. Many products are very expensive as the license cost
+escalates with the number of websites. In many cases, one is soon
+up in the 500' before one can even start to implement the
+solution.</p>
+
+<h3>Umbraco is Open Source</h3>
+
+<p>In an Open Source product one has at any time full access to
+source code. This provides insight and leads to better quality, as
+"shortcuts" and bad code can easily be penetrated. Moreover, one
+has the ability to influence and further develop the product.</p>
+
+<p>Umbraco is based on open source and is therefore not
+lisence-plated or subject to an enterprise's ownership. The Umbraco
+publishing tool places great emphasis on simplicity, standards,
+flexibility and integration. Umbraco was launched in 2005 and has
+had a tremendous growth since that time. Umbraco is today among the
+most popular systems based on open source for Microsoft. NET
+platform.</p>
+
+<h3>100% Microsoft .NET</h3>
+
+<p>Umbraco is built 100% on the Microsoft. NET 2.0. This means that
+you can use 3rd party .NET components directly in Umbraco.
+Moreover, integration with other .NET-based solutions is well
+adapted from Umbracos part. Umbraco won an award for the
+Integration possibilities on BNP Awards 2006.</p>
+
+<h3>Fast results</h3>
+
+<p>Umbraco is a powerful tool with a focus on core functionality
+and openness. This efficiently allows you to achieve exactly what
+you want - rather than be restricted to a "finished" module, which
+makes only half of what you really wanted.</p>
+
+<h3>Easy-to-use</h3>
+
+<p>Umbraco has a focus on content and facilitate rapid and
+intuitive content management. The system strives to be elegant,
+usable and effective.</p>
+
+<h3>Based on standards</h3>
+
+<p>Umbraco is based on standards from the W3C as XHTML, CSS, XML
+and XSLT. This gives a greater flexibility and independence, which
+in turn provides more value for the money.</p>
+
+<h3>Integration</h3>
+
+<p>Umbraco is known to be among the best CMS on integration. Much
+of the reason for this is the way to expose Microsoft ASP.NET
+components as elements of, or so-called "macro's" for use in
+templates, as well as in the WYSIWYG editor that writers and
+editors use. Elements is also possible to "cache" on several levels
+and is based on standard Microsoft .NET technology. Below are some
+examples:</p>
+
+<ul>
+<li>External XML sources (ex RSS) can be directly implemented via
+XSLT elements (macros).</li>
+
+<li>ASP.NET controls that retrieve data from external or internal
+posterior systems via standard Web Services.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></data>
+          </node>
+          <node id="1088" version="3936aefe-0e14-494b-86c1-a534574ed73b" parentID="1086" level="3" writerID="0" creatorID="0" nodeType="1067" template="1081" sortOrder="2" createDate="2009-02-26T18:56:06" updateDate="2009-03-20T10:00:56" nodeName="About this project" urlName="about-this-project" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_TextpageTwoCol" path="-1,1082,1086,1088">
+            <data alias="articlePhotoColOne">/media/227/warren-buckley.jpg</data>
+            <data alias="articlePhotoColTwo">/media/228/sam-grady.jpg</data>
+            <data alias="bodyTextColTwo"><![CDATA[
+<h3>Sam Grady</h3>
+
+<p>Sam Grady, me, is a graphic designer. I loves graphic design.
+Great graphic design and simple solutions makes this man very
+happy. Photography is also very close to my heart and I'd like to
+be better, so I practice a lot and annoy people with my
+requests.<br />
+<br />
+ I haven't got a blog, yet, don't Twitter and cancelled my Facebook
+account as I felt uncomfortable with people knowing my business.
+Anyone else feel that way? I do, however, have a Flickr account, so
+go check it out: <a
+href="http://www.flickr.com/photos/mrgrady">www.flickr.com/photos/mrgrady</a><br />
+<br />
+ I also have my own business, G72, which has a website that
+desperately needs updating. Also, as of today (03/03/09), it's
+currently down due to inept web hosts. Hopefully it won't be if you
+want to take a look: <a
+href="http://www.g-72.co.uk">www.g-72.co.uk</a><br />
+<br />
+ Regarding this project, Warren asked me if I wanted to design his
+website starter package for the fantastic Umbraco CMS, which I
+jumped at the chance to do. Hopefully you'll find the design
+appropriate and the package very useful, as that's what we really
+want from this project.<br />
+<br />
+ Finally, Warren says the layout is work in progress and I have a,
+typically fussy, list of designer layout requests that I've asked
+Warren to do, but time being what it is, these changes won't be
+made on version 2.0, so if you spot anything, do mail the man as
+we'll be compiling a list of tweaks to be made.<br />
+<br />
+ Enjoy.</p>
+]]></data>
+            <data alias="bodyTextColOne"><![CDATA[
+<h3>Warren Buckley</h3>
+
+<p>Warren Buckley is a web developer who specialises in using the
+Umbraco CMS platform to build content managed websites for Xeed in
+Norway. I run a blog called <a
+href="http://www.creativewebspecialist.co.uk">Creative Web
+Specialist</a>, where I mainly write tips and tutorial articles
+around Umbraco.</p>
+
+<p>I have teamed up with ex-collegue Sam Grady to help me design
+the new version of CWS as he produces wonderfully sexy designs for
+the web. If you have seen my previous version/s of CWS you will
+know that my design skills are far from stunning.</p>
+
+<p>I decided to create this website starter site nicknamed CWS
+(Creative Website Starter site) as a learning tool to help you
+understand how all the elements of a site work together in
+Umbraco.</p>
+
+<p>From this <strong>NEW</strong> CWS package comes the
+following:</p>
+
+<ul>
+<li>Obviously a <strong>BRAND NEW</strong> spanking design from
+ex-collegue Sam Grady of G-72</li>
+
+<li>A focus for this site to be used to help teach new users to the
+Umbraco CMS platform.</li>
+
+<li>.NET usercontrols written in C#</li>
+
+<li>XSLT &amp; .NET code heavily commented to help understand what
+is going on.</li>
+
+<li>With supporting documentation coming in the near future.</li>
+</ul>
+
+<p>Want to see where else you can find me on the net?<br />
+ Blog - <a
+href="http://www.creativewebspecialist.co.uk">www.creativewebspecialist.co.uk</a><br />
+ Flickr - <a
+href="http://www.flickr.com/photos/warrenbuckley">www.flickr.com/photos/warrenbuckley</a><br />
+ Last.FM - <a
+href="http://www.last.fm/user/warrenbuckley">www.last.fm/user/warrenbuckley</a><br />
+ Twitter - <a
+href="http://twitter.com/warrenbuckley">twitter.com/warrenbuckley</a></p>
+]]></data>
+            <data alias="umbracoUrlName" />
+            <data alias="umbracoUrlAlias" />
+            <data alias="metaDescription"><![CDATA[]]></data>
+            <data alias="metaKeywords"><![CDATA[]]></data>
+            <data alias="umbracoRedirect" />
+            <data alias="umbracoNaviHide">0</data>
+            <data alias="headerText"><![CDATA[
+<p>This website has been produced to help you understand
+Umbraco.</p>
+]]></data>
+          </node>
+        </node>
+        <node id="1089" version="63b04e40-3920-46ac-a974-aa7f51693831" parentID="1082" level="2" writerID="0" creatorID="0" nodeType="1061" template="1073" sortOrder="2" createDate="2009-02-27T09:39:54" updateDate="2009-03-20T10:01:08" nodeName="Gallery" urlName="gallery" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Galleries" path="-1,1082,1089">
+          <data alias="umbracoUrlName" />
+          <data alias="umbracoUrlAlias" />
+          <data alias="metaDescription"><![CDATA[]]></data>
+          <data alias="metaKeywords"><![CDATA[]]></data>
+          <data alias="umbracoRedirect" />
+          <data alias="umbracoNaviHide">0</data>
+          <data alias="headerText"><![CDATA[
+<p>This first page displays all the albums featured within your
+site.<br />
+ Please have a browse through.</p>
+]]></data>
+          <data alias="sortBy"><![CDATA[sortOrder]]></data>
+          <data alias="sortOrder"><![CDATA[ascending]]></data>
+          <node id="1105" version="140a5d9f-600e-431d-bb73-d6c13eda7c4e" parentID="1089" level="3" writerID="0" creatorID="0" nodeType="1062" template="1074" sortOrder="0" createDate="2009-03-02T17:58:22" updateDate="2009-03-31T19:03:37" nodeName="The Bookhouse Boys" urlName="the-bookhouse-boys" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Gallery" path="-1,1082,1089,1105">
+            <data alias="umbracoUrlName" />
+            <data alias="umbracoUrlAlias" />
+            <data alias="metaDescription"><![CDATA[I am the description]]></data>
+            <data alias="metaKeywords"><![CDATA[keywords, here]]></data>
+            <data alias="umbracoRedirect" />
+            <data alias="umbracoNaviHide">0</data>
+            <data alias="headerText"><![CDATA[
+<p>The Bookhouse Boys. Live at the ICA, London.</p>
+]]></data>
+            <data alias="sortBy"><![CDATA[sortOrder]]></data>
+            <data alias="sortOrder"><![CDATA[ascending]]></data>
+            <data alias="galleryThumbnail">/media/1239/bookhouse-boys_gallery.jpg</data>
+            <node id="1109" version="97da8e42-7f37-4661-8a76-c4435fcd65c0" parentID="1105" level="4" writerID="0" creatorID="0" nodeType="1065" template="1078" sortOrder="0" createDate="2009-03-03T18:08:55" updateDate="2009-03-31T13:41:07" nodeName="Catherine Turner and Paul Van Oestren" urlName="catherine-turner-and-paul-van-oestren" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Photo" path="-1,1082,1089,1105,1109">
+              <data alias="photoText">Credit: Sam Grady</data>
+              <data alias="photo">/media/1277/bookhouse-boys_3.jpg</data>
+              <data alias="photoThumbnail">/media/1314/bookhouse-boys_3_thumb.jpg</data>
+              <data alias="umbracoUrlName" />
+              <data alias="umbracoUrlAlias" />
+              <data alias="metaDescription"><![CDATA[]]></data>
+              <data alias="metaKeywords"><![CDATA[]]></data>
+              <data alias="umbracoRedirect" />
+              <data alias="umbracoNaviHide">0</data>
+            </node>
+            <node id="1107" version="a4ccbe77-2835-4b16-ae0a-8db6ed0cdaf4" parentID="1105" level="4" writerID="0" creatorID="0" nodeType="1065" template="1078" sortOrder="1" createDate="2009-03-03T18:08:19" updateDate="2009-03-20T10:01:26" nodeName="J.P.Fellows" urlName="jpfellows" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Photo" path="-1,1082,1089,1105,1107">
+              <data alias="photoText">Credit: Sam Grady</data>
+              <data alias="photo">/media/1250/bookhouse-boys_1.jpg</data>
+              <data alias="photoThumbnail">/media/1296/bookhouse-boys_1_thumb.jpg</data>
+              <data alias="umbracoUrlName" />
+              <data alias="umbracoUrlAlias" />
+              <data alias="metaDescription"><![CDATA[]]></data>
+              <data alias="metaKeywords"><![CDATA[]]></data>
+              <data alias="umbracoRedirect" />
+              <data alias="umbracoNaviHide">0</data>
+            </node>
+            <node id="1108" version="408fc683-912f-45b2-9473-c3847df92050" parentID="1105" level="4" writerID="0" creatorID="0" nodeType="1065" template="1078" sortOrder="2" createDate="2009-03-03T18:08:48" updateDate="2009-03-28T15:52:48" nodeName="Catherine Turner" urlName="catherine-turner" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Photo" path="-1,1082,1089,1105,1108">
+              <data alias="photoText">Credit: Sam Grady</data>
+              <data alias="photo">/media/1331/bookhouse-boys_2.jpg</data>
+              <data alias="photoThumbnail">/media/1350/bookhouse-boys_2_thumb.jpg</data>
+              <data alias="umbracoUrlName" />
+              <data alias="umbracoUrlAlias" />
+              <data alias="metaDescription"><![CDATA[]]></data>
+              <data alias="metaKeywords"><![CDATA[]]></data>
+              <data alias="umbracoRedirect" />
+              <data alias="umbracoNaviHide">0</data>
+            </node>
+          </node>
+          <node id="1090" version="81d0f1e4-d6e6-4fa7-942b-fb3ea1eab152" parentID="1089" level="3" writerID="0" creatorID="0" nodeType="1062" template="1074" sortOrder="1" createDate="2009-02-27T09:48:12" updateDate="2009-03-20T10:01:38" nodeName="Codegarden 08" urlName="codegarden-08" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Gallery" path="-1,1082,1089,1090">
+            <data alias="umbracoUrlName" />
+            <data alias="umbracoUrlAlias" />
+            <data alias="metaDescription"><![CDATA[]]></data>
+            <data alias="metaKeywords"><![CDATA[]]></data>
+            <data alias="umbracoRedirect" />
+            <data alias="umbracoNaviHide">0</data>
+            <data alias="headerText"><![CDATA[
+<p>Where all the great minds of umbraco meet!</p>
+]]></data>
+            <data alias="sortBy"><![CDATA[sortOrder]]></data>
+            <data alias="sortOrder"><![CDATA[ascending]]></data>
+            <data alias="galleryThumbnail">/media/993/codegarden-08_gallery.jpg</data>
+            <node id="1099" version="8d2f8a77-379b-4144-aa55-b196a725378e" parentID="1090" level="4" writerID="0" creatorID="0" nodeType="1065" template="1078" sortOrder="0" createDate="2009-03-02T15:40:01" updateDate="2009-03-20T10:01:41" nodeName="Darren and David have a chat" urlName="darren-and-david-have-a-chat" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Photo" path="-1,1082,1089,1090,1099">
+              <data alias="photoText">Credit: Douglas Robar</data>
+              <data alias="photo">/media/825/darren-ferguson_david-conlisk.jpg</data>
+              <data alias="photoThumbnail">/media/835/darren-ferguson_david-conlisk_thumb.jpg</data>
+              <data alias="umbracoUrlName" />
+              <data alias="umbracoUrlAlias" />
+              <data alias="metaDescription"><![CDATA[]]></data>
+              <data alias="metaKeywords"><![CDATA[]]></data>
+              <data alias="umbracoRedirect" />
+              <data alias="umbracoNaviHide">0</data>
+            </node>
+            <node id="1091" version="bc6dcacf-0dd4-4460-bb60-2b7bfaa0e983" parentID="1090" level="4" writerID="0" creatorID="0" nodeType="1065" template="1078" sortOrder="1" createDate="2009-02-27T09:54:07" updateDate="2009-03-20T10:01:44" nodeName="Codegarden 08 T-Shirt" urlName="codegarden-08-t-shirt" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Photo" path="-1,1082,1089,1090,1091">
+              <data alias="photoText">Credit: Warren Buckley</data>
+              <data alias="photo">/media/394/codegarden08-t-shirt.jpg</data>
+              <data alias="photoThumbnail">/media/799/codegarden08-t-shirt_thumb.jpg</data>
+              <data alias="umbracoUrlName" />
+              <data alias="umbracoUrlAlias" />
+              <data alias="metaDescription"><![CDATA[]]></data>
+              <data alias="metaKeywords"><![CDATA[]]></data>
+              <data alias="umbracoRedirect" />
+              <data alias="umbracoNaviHide">0</data>
+            </node>
+            <node id="1100" version="5f98a031-d373-448d-acfb-91bdf973115e" parentID="1090" level="4" writerID="0" creatorID="0" nodeType="1065" template="1078" sortOrder="2" createDate="2009-03-02T15:43:43" updateDate="2009-03-20T10:01:47" nodeName="The Umbraco BINGO callers" urlName="the-umbraco-bingo-callers" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Photo" path="-1,1082,1089,1090,1100">
+              <data alias="photoText">Credit: Douglas Robar</data>
+              <data alias="photo">/media/852/bingo-callers.jpg</data>
+              <data alias="photoThumbnail">/media/871/bingo-callers_thumb.jpg</data>
+              <data alias="umbracoUrlName" />
+              <data alias="umbracoUrlAlias" />
+              <data alias="metaDescription"><![CDATA[]]></data>
+              <data alias="metaKeywords"><![CDATA[]]></data>
+              <data alias="umbracoRedirect" />
+              <data alias="umbracoNaviHide">0</data>
+            </node>
+            <node id="1101" version="a4a13048-ab3b-4440-8147-cccc0f299f2f" parentID="1090" level="4" writerID="0" creatorID="0" nodeType="1065" template="1078" sortOrder="3" createDate="2009-03-02T15:59:24" updateDate="2009-03-20T10:01:50" nodeName="Christian Palm chatting" urlName="christian-palm-chatting" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Photo" path="-1,1082,1089,1090,1101">
+              <data alias="photoText">Credit: Douglas Robar</data>
+              <data alias="photo">/media/879/christian-palm.jpg</data>
+              <data alias="photoThumbnail">/media/889/christian-palm_thumb.jpg</data>
+              <data alias="umbracoUrlName" />
+              <data alias="umbracoUrlAlias" />
+              <data alias="metaDescription"><![CDATA[]]></data>
+              <data alias="metaKeywords"><![CDATA[]]></data>
+              <data alias="umbracoRedirect" />
+              <data alias="umbracoNaviHide">0</data>
+            </node>
+          </node>
+          <node id="1102" version="15c6402e-46ad-4491-9e99-6543b7bb6034" parentID="1089" level="3" writerID="0" creatorID="0" nodeType="1062" template="1074" sortOrder="2" createDate="2009-03-02T16:02:14" updateDate="2009-03-20T10:01:56" nodeName="Bath, UK" urlName="bath,-uk" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Gallery" path="-1,1082,1089,1102">
+            <data alias="umbracoUrlName" />
+            <data alias="umbracoUrlAlias" />
+            <data alias="metaDescription"><![CDATA[]]></data>
+            <data alias="metaKeywords"><![CDATA[]]></data>
+            <data alias="umbracoRedirect" />
+            <data alias="umbracoNaviHide">0</data>
+            <data alias="headerText"><![CDATA[
+<p>Photos from a trip to Bath in November 2008</p>
+]]></data>
+            <data alias="sortBy"><![CDATA[updateDate]]></data>
+            <data alias="sortOrder"><![CDATA[ascending]]></data>
+            <data alias="galleryThumbnail">/media/935/bath_gallery.jpg</data>
+            <node id="1103" version="0f310560-27b5-4c2f-b483-0787a39528fd" parentID="1102" level="4" writerID="0" creatorID="0" nodeType="1065" template="1078" sortOrder="1" createDate="2009-03-02T16:27:17" updateDate="2009-03-20T10:01:59" nodeName="Royal Crescent" urlName="royal-crescent" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Photo" path="-1,1082,1089,1102,1103">
+              <data alias="photoText">Credit: Warren Buckley</data>
+              <data alias="photo">/media/995/royal-crescent.jpg</data>
+              <data alias="photoThumbnail">/media/1014/royal-crescent_thumb.jpg</data>
+              <data alias="umbracoUrlName" />
+              <data alias="umbracoUrlAlias" />
+              <data alias="metaDescription"><![CDATA[]]></data>
+              <data alias="metaKeywords"><![CDATA[]]></data>
+              <data alias="umbracoRedirect" />
+              <data alias="umbracoNaviHide">0</data>
+            </node>
+          </node>
+        </node>
+        <node id="1092" version="055773a6-fecf-4bf2-a32b-9acdb53c8628" parentID="1082" level="2" writerID="0" creatorID="0" nodeType="1063" template="1076" sortOrder="3" createDate="2009-02-27T09:57:30" updateDate="2009-03-20T10:02:06" nodeName="News and Events" urlName="news-and-events" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_NewsEventsList" path="-1,1082,1092">
+          <data alias="umbracoUrlName" />
+          <data alias="umbracoUrlAlias" />
+          <data alias="metaDescription"><![CDATA[]]></data>
+          <data alias="metaKeywords"><![CDATA[]]></data>
+          <data alias="umbracoRedirect" />
+          <data alias="umbracoNaviHide">0</data>
+          <data alias="sortBy"><![CDATA[sortOrder]]></data>
+          <data alias="sortOrder"><![CDATA[ascending]]></data>
+          <data alias="headerText"><![CDATA[
+<p>Please browse through our news archive and event listings
+below.</p>
+]]></data>
+          <node id="1093" version="f044ec0d-cc07-4d4b-b2fe-520346342902" parentID="1092" level="3" writerID="0" creatorID="0" nodeType="1060" template="1072" sortOrder="1" createDate="2009-02-27T10:00:53" updateDate="2009-03-20T10:02:13" nodeName="Codegarden 09" urlName="codegarden-09" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_EventItem" path="-1,1082,1092,1093">
+            <data alias="eventDate">2009-06-22T00:00:00</data>
+            <data alias="bodyText"><![CDATA[
+<h3>Come join the annual umbraco developer conference in Wonderful
+Copenhagen on June 22nd - 23rd. Two days for insights, eye-openers,
+great conversations and friendly people.</h3>
+
+<p>The who's who of umbraco will be gathered and share their
+knowledge through talks, tutorials and via un-conference formats
+like open space or hacking sessions. We have booked a cool, old and
+huge industrial venue in central Copenhagen where we'll have one
+huge room, three rooms for breakout sessions and a Caf&eacute; that
+serves your taste of espresso.</p>
+
+<p>Come join the annual umbraco developer conference in Wonderful
+Copenhagen on June 22nd - 23rd. Two days for insights, eye-openers,
+great conversations and friendly people.</p>
+
+<p>We've planned a program that fits both experienced umbraco users
+as well as new comers. The conference is kicked off with a Keynote
+and after that we'll have two or three tracks of sessions and the
+first day is rounded with an open Q/A session with the umbraco core
+team.</p>
+
+<p>The second day features an un-conference format called open
+space, which we also used with great success at last year's
+conference. It's a format where everybody can suggest a topic and
+as we have plenty of break-out rooms rest assured that there'll be
+room for your topic as well. Last year's more than 20 topics
+covered Silverlight, High performance websites with umbraco,
+building custom data types and much more.</p>
+
+<p>But it doesn't ends there. We've ensured that we can stay at the
+venue until midnight both days which means that when the first day
+ends, the fun begins. With more than hundred people gathered at a
+place with loads of umbraco knowledge, wifi, great food and plenty
+of space, who knows what could happen. A BBQ, new packages,
+improvised demos and talks, or...?</p>
+
+<p>&nbsp;</p>
+]]></data>
+            <data alias="articlePhoto">/media/445/umbraco_tshirt.jpg</data>
+            <data alias="umbracoUrlName" />
+            <data alias="umbracoUrlAlias" />
+            <data alias="metaDescription"><![CDATA[]]></data>
+            <data alias="metaKeywords"><![CDATA[]]></data>
+            <data alias="umbracoRedirect" />
+            <data alias="umbracoNaviHide">0</data>
+          </node>
+          <node id="1104" version="7fdb681e-85fd-45cc-88dd-c4072603f59a" parentID="1092" level="3" writerID="0" creatorID="0" nodeType="1064" template="1077" sortOrder="2" createDate="2009-03-02T16:32:06" updateDate="2009-03-20T10:02:19" nodeName="CWS2 is released" urlName="cws2-is-released" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_NewsItem" path="-1,1082,1092,1104">
+            <data alias="bodyText"><![CDATA[
+<h3>After Warren Buckley's success of the first Creative Website
+Starter site package, with over 20K downloads he has decided to
+work on CWS2.</h3>
+
+<p>As of today Wednesday the 4th March 2009, the CWS2 package is
+now available to download from the built in package repository
+inside Umbraco.</p>
+
+<p>With this new version comes the following:</p>
+
+<ul>
+<li>A <strong>BRAND NEW</strong> spanking design from ex-collegue
+<a href="http://www.g-72.co.uk"
+title="Designer Sam Grady of G72">Sam Grady of G-72</a></li>
+
+<li>A focus for this site to be used to help teach new users to the
+Umbraco CMS platform.</li>
+
+<li>.NET usercontrols written in C#</li>
+
+<li>XSLT &amp; .NET code heavily commented to help understand what
+is going on.</li>
+
+<li>With supporting documentation coming in the near future.</li>
+</ul>
+]]></data>
+            <data alias="articlePhoto" />
+            <data alias="umbracoUrlName" />
+            <data alias="umbracoUrlAlias" />
+            <data alias="metaDescription"><![CDATA[]]></data>
+            <data alias="metaKeywords"><![CDATA[]]></data>
+            <data alias="umbracoRedirect" />
+            <data alias="umbracoNaviHide">0</data>
+          </node>
+        </node>
+        <node id="1094" version="057a6eca-1db4-45a7-8703-2e1dbb56fac9" parentID="1082" level="2" writerID="0" creatorID="0" nodeType="1058" template="1052" sortOrder="4" createDate="2009-02-27T10:03:12" updateDate="2009-03-20T10:02:26" nodeName="Contact" urlName="contact" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_Contact" path="-1,1082,1094">
+          <data alias="emailTo">you@yourcompany.co.uk</data>
+          <data alias="emailSubject">Email from Contact form on website</data>
+          <data alias="emailBody"><![CDATA[Hello a user of your site has filled in your contact form on [Date] @ [Time]
+
+Name: [Name]
+Address: [AddressLine1], [AddressLine2]
+Email: [Email]
+Message: [Message]]]></data>
+          <data alias="emailReplyFrom">you@yourcompany.co.uk</data>
+          <data alias="emailReplySubject">Thank you for your message</data>
+          <data alias="emailReplyBody"><![CDATA[Hello [Name]
+Thanks for contacting us, we will reply shortly.
+
+Your Company Name
+www.yourcompany.co.uk]]></data>
+          <data alias="enableSSL">0</data>
+          <data alias="umbracoUrlName" />
+          <data alias="umbracoUrlAlias" />
+          <data alias="metaDescription"><![CDATA[]]></data>
+          <data alias="metaKeywords"><![CDATA[]]></data>
+          <data alias="umbracoRedirect" />
+          <data alias="umbracoNaviHide">0</data>
+          <data alias="headerText"><![CDATA[
+<p>Everything you need to<br />
+ get in touch.</p>
+]]></data>
+          <data alias="formText"><![CDATA[
+<h3>Enquiry Form</h3>
+
+<p>If you have a particular enquiry, please fill out the form below
+and provide as much information as you can, so that one of our
+representatives can deal with your enquiry as effciently as
+possible.</p>
+]]></data>
+          <data alias="thankYouHeaderText"><![CDATA[
+<p><strong>Thank you.</strong> We will be in touch shortly.</p>
+]]></data>
+          <data alias="thankYouMessageText"><![CDATA[
+<p>Thanks for filling out our contact form we will get back to you
+shortly.</p>
+
+<p>Regards,<br />
+ My Company</p>
+]]></data>
+        </node>
+        <node id="1096" version="7f3a38ab-17e9-46ff-855d-b77c1edf61c1" parentID="1082" level="2" writerID="0" creatorID="0" nodeType="1059" template="1071" sortOrder="5" createDate="2009-02-27T10:05:57" updateDate="2009-03-20T10:02:34" nodeName="Email a Friend" urlName="email-a-friend" writerName="Administrator" creatorName="Administrator" nodeTypeAlias="CWS_EmailAFriend" path="-1,1082,1096">
+          <data alias="emailFrom">you@yourcompany.co.uk</data>
+          <data alias="emailSubjectToFriend">[YourName] has sent you a link to read</data>
+          <data alias="emailMessageToFriend"><![CDATA[Hello [FriendName], [YourName] has sent you this link to read.
+
+URL: [URL]
+Message: [Message]
+
+--------------------------------------------------------
+Your Company Name
+www.yourcompany.co.uk]]></data>
+          <data alias="enableSSL">0</data>
+          <data alias="umbracoUrlName" />
+          <data alias="umbracoUrlAlias" />
+          <data alias="metaDescription"><![CDATA[]]></data>
+          <data alias="metaKeywords"><![CDATA[]]></data>
+          <data alias="umbracoRedirect" />
+          <data alias="umbracoNaviHide">1</data>
+          <data alias="headerText"><![CDATA[
+<p>Send a page onto your friend.</p>
+]]></data>
+          <data alias="thankYouHeaderText"><![CDATA[
+<p><strong>Thank you.</strong> We appreciate the love you are
+giving our site.</p>
+]]></data>
+          <data alias="thankYouMessageText"><![CDATA[
+<p>Thanks for sending that link onto your friend, we really
+appreciate it here at My Company.</p>
+]]></data>
+        </node>
+      </node>
+    </DocumentSet>
+  </Documents>
+  <DocumentTypes>
+    <DocumentType>
+      <Info>
+        <Name>Contact</Name>
+        <Alias>CWS_Contact</Alias>
+        <Icon>CWS_email.png</Icon>
+        <Thumbnail>CWS_kontact_mail.png</Thumbnail>
+        <Description>This is the contact form document type for your site.</Description>
+        <AllowedTemplates>
+          <Template>CWS_Contact</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_Contact</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>CWS_Textpage</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Email To</Name>
+          <Alias>emailTo</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The email address that you want the form to be sent to.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email Subject</Name>
+          <Alias>emailSubject</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The subject of the email that will be sent to you.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email Message</Name>
+          <Alias>emailBody</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use placeholders [Name], [AddressLine1], [AddressLine2], [Email], [Message], [Time] and [Date]]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email Reply From</Name>
+          <Alias>emailReplyFrom</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The email address that you want the automated reply to be sent from.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email Reply Subject</Name>
+          <Alias>emailReplySubject</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The subject of the email that will be sent as the automated reply.
+]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email Reply Body</Name>
+          <Alias>emailReplyBody</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use placeholder [Name]]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Enable SSL</Name>
+          <Alias>enableSSL</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Does your SMTP server require SSL?]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Header</Name>
+          <Alias>headerText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Form Text</Name>
+          <Alias>formText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[This is the text that sits to the left of the contact form.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Thank You Header</Name>
+          <Alias>thankYouHeaderText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Thank You</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[This is the header for the thankyou the user will see after sumbitting the contact form.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Thank You Message</Name>
+          <Alias>thankYouMessageText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Thank You</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[This is the thankyou message that the user will see after submitting your form.]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>36</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>38</Id>
+          <Caption>Thank You</Caption>
+        </Tab>
+        <Tab>
+          <Id>11</Id>
+          <Caption>Settings</Caption>
+        </Tab>
+        <Tab>
+          <Id>12</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Email a Friend</Name>
+        <Alias>CWS_EmailAFriend</Alias>
+        <Icon>CWS_email_go.png</Icon>
+        <Thumbnail>CWS_email_a_friend.png</Thumbnail>
+        <Description>This is the email a friend form document type for your site.</Description>
+        <AllowedTemplates>
+          <Template>CWS_EmailAFriend</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_EmailAFriend</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>CWS_Textpage</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Email From</Name>
+          <Alias>emailFrom</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The email address that you want the email to be sent from.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email Subject to Friend</Name>
+          <Alias>emailSubjectToFriend</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[The subject of the email that will be sent to the friend.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email Message to Friend</Name>
+          <Alias>emailMessageToFriend</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use placeholders [FriendName], [FriendEmail], [YourName], [YourEmail], [Message], [Date], [Time], [URL]]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Enable SSL</Name>
+          <Alias>enableSSL</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Does your SMTP server require SSL?]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Header</Name>
+          <Alias>headerText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Thank You Header</Name>
+          <Alias>thankYouHeaderText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Thank You</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[This is the header for the thankyou the user will see after sumbitting the contact form.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Thank You Text</Name>
+          <Alias>thankYouMessageText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Thank You</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[This is the thankyou message that the user will see after submitting your form.]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>37</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>39</Id>
+          <Caption>Thank You</Caption>
+        </Tab>
+        <Tab>
+          <Id>13</Id>
+          <Caption>Settings</Caption>
+        </Tab>
+        <Tab>
+          <Id>14</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Event Item</Name>
+        <Alias>CWS_EventItem</Alias>
+        <Icon>CWS_date.png</Icon>
+        <Thumbnail>CWS_date.png</Thumbnail>
+        <Description>This is the event document type for your site and lives beneath the News &amp; Events List document type.</Description>
+        <AllowedTemplates>
+          <Template>CWS_EventItem</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_EventItem</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Date</Name>
+          <Alias>eventDate</Alias>
+          <Type>23e93522-3200-44e2-9f29-e61a6fcbb79a</Type>
+          <Definition>5046194e-4237-453c-a547-15db3a07c4e1</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Photo</Name>
+          <Alias>articlePhoto</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>15</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>16</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Galleries</Name>
+        <Alias>CWS_Galleries</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>This is the Galleries document type for your site which stores the Gallery document type as children.</Description>
+        <AllowedTemplates>
+          <Template>CWS_Galleries</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_Galleries</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>CWS_Gallery</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Header</Name>
+          <Alias>headerText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Sort By</Name>
+          <Alias>sortBy</Alias>
+          <Type>a74ea9c9-8e18-4d2a-8cf6-73c6206c5da6</Type>
+          <Definition>bbb96921-e701-401e-b22c-d0cf961bdd19</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Choose how you want to sort the child items.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Sort Order</Name>
+          <Alias>sortOrder</Alias>
+          <Type>a74ea9c9-8e18-4d2a-8cf6-73c6206c5da6</Type>
+          <Definition>02706c78-5d6a-4eee-9c17-318bd95ae1bf</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Choose how you want to sort the child items.]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>17</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>18</Id>
+          <Caption>Settings</Caption>
+        </Tab>
+        <Tab>
+          <Id>19</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Gallery</Name>
+        <Alias>CWS_Gallery</Alias>
+        <Icon>CWS_pictures.png</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>This is the gallery document type which stores the Photo document type as children.</Description>
+        <AllowedTemplates>
+          <Template>CWS_Gallery</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_Gallery</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>CWS_Photo</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Header</Name>
+          <Alias>headerText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Sort By</Name>
+          <Alias>sortBy</Alias>
+          <Type>a74ea9c9-8e18-4d2a-8cf6-73c6206c5da6</Type>
+          <Definition>bbb96921-e701-401e-b22c-d0cf961bdd19</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Choose how you want to sort the child items.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Sort Order</Name>
+          <Alias>sortOrder</Alias>
+          <Type>a74ea9c9-8e18-4d2a-8cf6-73c6206c5da6</Type>
+          <Definition>02706c78-5d6a-4eee-9c17-318bd95ae1bf</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Choose how you want to sort the child items.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Thumbnail for Gallery</Name>
+          <Alias>galleryThumbnail</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[208px x 108px]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>20</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>21</Id>
+          <Caption>Settings</Caption>
+        </Tab>
+        <Tab>
+          <Id>22</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Home</Name>
+        <Alias>CWS_Home</Alias>
+        <Icon>CWS_house.png</Icon>
+        <Thumbnail>CWS_kfm_home.png</Thumbnail>
+        <Description>This is the homepage document type for your site.</Description>
+        <AllowedTemplates>
+          <Template>CWS_Home</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_Home</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>CWS_Contact</DocumentType>
+        <DocumentType>CWS_EmailAFriend</DocumentType>
+        <DocumentType>CWS_Galleries</DocumentType>
+        <DocumentType>CWS_NewsEventsList</DocumentType>
+        <DocumentType>CWS_Textpage</DocumentType>
+        <DocumentType>CWS_TextpageTwoCol</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Site Name</Name>
+          <Alias>siteName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[This is what your site is called.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Header</Name>
+          <Alias>headerText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Photo</Name>
+          <Alias>homepagePhoto</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>9</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>10</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>News &amp; Events List</Name>
+        <Alias>CWS_NewsEventsList</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>This is the News &amp; Events List document type for your site which stores the News and Event Item document types as children.</Description>
+        <AllowedTemplates>
+          <Template>CWS_NewsAndEvents</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_NewsAndEvents</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>CWS_EventItem</DocumentType>
+        <DocumentType>CWS_NewsItem</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Sort By</Name>
+          <Alias>sortBy</Alias>
+          <Type>a74ea9c9-8e18-4d2a-8cf6-73c6206c5da6</Type>
+          <Definition>bbb96921-e701-401e-b22c-d0cf961bdd19</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Choose how you want to sort the child items.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Sort Order</Name>
+          <Alias>sortOrder</Alias>
+          <Type>a74ea9c9-8e18-4d2a-8cf6-73c6206c5da6</Type>
+          <Definition>02706c78-5d6a-4eee-9c17-318bd95ae1bf</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Choose how you want to sort the child items.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Header</Name>
+          <Alias>headerText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>23</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>24</Id>
+          <Caption>Settings</Caption>
+        </Tab>
+        <Tab>
+          <Id>25</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>News Item</Name>
+        <Alias>CWS_NewsItem</Alias>
+        <Icon>CWS_newspaper.png</Icon>
+        <Thumbnail>CWS_knewsticker.png</Thumbnail>
+        <Description>This is the news document type for your site and lives beneath the News &amp; Events List document type.</Description>
+        <AllowedTemplates>
+          <Template>CWS_NewsItem</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_NewsItem</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>CWS_NewsItem</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Photo</Name>
+          <Alias>articlePhoto</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>26</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>27</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Photo</Name>
+        <Alias>CWS_Photo</Alias>
+        <Icon>CWS_picture.png</Icon>
+        <Thumbnail>CWS_image2.png</Thumbnail>
+        <Description>This is the Photo document type for your site and lives beneath the Gallery document type.</Description>
+        <AllowedTemplates>
+          <Template>CWS_Photo</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_Photo</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Photo Text</Name>
+          <Alias>photoText</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a description]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Photo</Name>
+          <Alias>photo</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Thumbnail</Name>
+          <Alias>photoThumbnail</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[151px x 108px]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>28</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>29</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Textpage</Name>
+        <Alias>CWS_Textpage</Alias>
+        <Icon>doc.gif</Icon>
+        <Thumbnail>CWS_wordprocessing.png</Thumbnail>
+        <Description>This is the Textpage document type for your site.</Description>
+        <AllowedTemplates>
+          <Template>CWS_Textpage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_Textpage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>CWS_Textpage</DocumentType>
+        <DocumentType>CWS_TextpageTwoCol</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Header</Name>
+          <Alias>headerText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Photo</Name>
+          <Alias>articlePhoto</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>30</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>31</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Textpage (Two Col)</Name>
+        <Alias>CWS_TextpageTwoCol</Alias>
+        <Icon>doc3.gif</Icon>
+        <Thumbnail>CWS_wordprocessing.png</Thumbnail>
+        <Description>This is the Textpage document type for your site which has two columns.</Description>
+        <AllowedTemplates>
+          <Template>CWS_TextpageTwoCol</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>CWS_TextpageTwoCol</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>CWS_Textpage</DocumentType>
+        <DocumentType>CWS_TextpageTwoCol</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Photo</Name>
+          <Alias>articlePhotoColOne</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Column One</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Photo</Name>
+          <Alias>articlePhotoColTwo</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Column Two</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Text</Name>
+          <Alias>bodyTextColTwo</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Column Two</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Text</Name>
+          <Alias>bodyTextColOne</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Column One</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Name</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you wish to change the URL of the node without changing the node name fill this in.
+
+eg: warren]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Umbraco URL Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this to give a node multiple urls.
+
+eg: home,homepage/another-level]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter the description for the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a comma seperated list of keywords.
+warren, keyword, test]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name> Umbraco Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>158aa029-24ed-4948-939e-c3da209e5fba</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Pick a node you wish to redirect to if the user lands on this node.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in Navi</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Use this property if you wish to hide this page in the navigation.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Header</Name>
+          <Alias>headerText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>74aff8ce-6871-47cb-88fa-048770ea4386</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>32</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>33</Id>
+          <Caption>Column One</Caption>
+        </Tab>
+        <Tab>
+          <Id>34</Id>
+          <Caption>Column Two</Caption>
+        </Tab>
+        <Tab>
+          <Id>35</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+  </DocumentTypes>
+  <Templates>
+    <Template>
+      <Name>Contact</Name>
+      <Alias>CWS_Contact</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="SideBarContent" runat="server">
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="content oneCol left clearfix">
+        <!-- One Column content -->        
+        <umbraco:Macro EmailTo="[#emailTo]" EmailSubject="[#emailSubject]" EmailBody="[#emailBody]" EmailReplyFrom="[#emailReplyFrom]" EmailReplySubject="[#emailReplySubject]" EmailReplyBody="[#emailReplyBody]" EnableSSL="[#enableSSL]" FormHeader="[#headerText]" FormText="[#formText]" ThankYouHeaderText="[#thankYouHeaderText]" ThankYouMessageText="[#thankYouMessageText]" Alias="CWS_ContactForm" runat="server"></umbraco:Macro>
+    </div>
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Email A Friend</Name>
+      <Alias>CWS_EmailAFriend</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderId="headerLinksContent" runat="server">
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="SideBarContent" runat="server">
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="content oneCol left clearfix">
+        <!-- One Column content -->
+        <umbraco:Macro EmailSubjectToFriend="[#emailSubjectToFriend]" EmailMessageToFriend="[#emailMessageToFriend]" EmailFrom="[#emailFrom]" EnableSSL="[#enableSSL]" FormHeader="[#headerText]" ThankYouHeaderText="[#thankYouHeaderText]" ThankYouMessageText="[#thankYouMessageText]" Alias="CWS_EmailAFriend" runat="server"></umbraco:Macro>
+    </div>    
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Event Item</Name>
+      <Alias>CWS_EventItem</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:Content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+
+    <div class="content newsItem oneCol left clearfix">
+    
+        <!-- XSLT Macro - Parent Page Link -->
+        <umbraco:Macro Alias="CWS_ParentPageLink" runat="server"></umbraco:Macro>
+                    
+        <div class="date">
+            <!-- 
+            ========================================================================          
+            XSLT Macro - Format Date
+            Pass in values to XSLT macro, so we can reuse Macro.
+            
+            Date Format: 15.12.08
+            
+            TODO: Shall I allow user do config on node?
+            ========================================================================
+            -->
+            <umbraco:Macro Alias="CWS_DateFormat" dateFormat="dd.MM.yy" propertyAlias="eventDate" runat="server"></umbraco:Macro>
+        </div>
+        
+        <h2 class="flashHeader">
+            <strong><umbraco:Item field="pageName" runat="server"></umbraco:Item></strong>
+        </h2>
+        
+        <!-- XSLT Macro - Display Article Image -->
+        <umbraco:Macro Alias="CWS_DisplayArticleImage" propertyAlias="articlePhoto" runat="server"></umbraco:Macro>
+                
+        <umbraco:Item field="bodyText" runat="server"></umbraco:Item>      
+                    
+    </div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Galleries</Name>
+      <Alias>CWS_Galleries</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="content left clearfix">
+        <!-- One Column content -->
+        <h2 class="flashHeader">
+            <strong><umbraco:Item field="pageName" runat="server"></umbraco:Item>.</strong> 
+            <umbraco:Item field="headerText" stripParagraph="true" runat="server"></umbraco:Item>
+        </h2>
+        
+        <!-- XSLT Macro - List Galleries -->
+	    <umbraco:Macro Alias="CWS_ListGalleries" runat="server"></umbraco:Macro>
+    </div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Gallery</Name>
+      <Alias>CWS_Gallery</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">
+	<!-- XSLT Macro - Email A Friend Link -->
+	<umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+	<div class="content left clearfix">
+	
+	    <!-- XSLT Macro - Parent Page Link -->
+        <umbraco:Macro Alias="CWS_ParentPageLink" runat="server"></umbraco:Macro>
+                    
+        <h2 class="flashHeader">
+            <strong><umbraco:Item field="pageName" runat="server"></umbraco:Item>.</strong> 
+            <umbraco:Item field="headerText" stripParagraph="true" runat="server"></umbraco:Item>
+        </h2>
+        
+        <!-- XSLT Macro - List Photos -->
+	    <umbraco:Macro Alias="CWS_ListPhotos" runat="server"></umbraco:Macro>
+	                        
+    </div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Home</Name>
+      <Alias>CWS_Home</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">
+    <div class="secondaryNav">
+        <h3>News &amp; Events</h3>
+         <!-- XSLT Macro - News Events Sub Navi -->
+        <umbraco:Macro Alias="CWS_NewsEventsSubNavi" runat="server"></umbraco:Macro>   
+    </div>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+   <div class="content twoCol left clearfix">
+        <!-- Two Column content -->
+        <div class="left col_1">
+		<img src='<umbraco:Item field="homepagePhoto" runat="server"></umbraco:Item>' alt="Photo taken by Sam Grady of G72"/>               
+        </div>
+        <div class="left col_2">
+            <h2 class="flashHeader">
+                <umbraco:Item field="headerText" stripParagraph="true" runat="server"></umbraco:Item>
+            </h2>
+            <umbraco:Item field="bodyText" runat="server"></umbraco:Item>                              
+        </div>
+    </div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Master</Name>
+      <Alias>CWS_Master</Alias>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>
+	<umbraco:Macro Alias="CWS_PageTitle" runat="server"></umbraco:Macro>
+    </title>
+    
+    <!-- CSS -->
+    <link href="/CSS/Styles.css" rel="stylesheet" type="text/css" />
+    <link href="/CSS/Reset.css" rel="stylesheet" type="text/css" />
+    
+    <!-- XSLT Search CSS -->
+    <link href="/CSS/XSLTsearch.css" rel="stylesheet" type="text/css" />
+    
+    <!--[if IE]>
+    <link href="/CSS/ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    
+    <!--[if IE 6]>
+    <link href="/CSS/ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->    
+    
+    <!-- sIFR CSS -->
+    <link href="/CSS/sifr.css" rel="stylesheet" type="text/css" />
+    
+    <!-- JS -->
+    <script src="/Scripts/jquery-1.3.1.min.js" type="text/javascript"></script>
+    <script src="/Scripts/script.js" type="text/javascript"></script>
+    
+    <!-- sIFR JS -->
+    <script src="/Scripts/sIFR/sifr.js" type="text/javascript"></script>
+    <script src="/Scripts/sIFR/sifr-config.js" type="text/javascript"></script>   
+    
+    <!-- Meta Data -->
+    <meta name="description" content="<umbraco:Item field='metaDescription' recursive='true' runat='server'></umbraco:Item>" />
+    <meta name="keywords" content="<umbraco:Item field='metaKeywords' recursive='true' runat='server'></umbraco:Item>" />
+
+    <!-- RSS Feed -->
+    <link title="RSS feed for <umbraco:Item field='siteName' recursive='true' runat='server'></umbraco:Item>" type="application/rss+xml" rel="alternate" href="/RSS.aspx" />
+   
+</head>
+<body>    
+    <div id="container">	
+        <form id="Form1" runat="server">
+            <!-- HEADER -->
+            <div id="header">
+                <div class="container clearfix">
+                    <h1 class="flashHeader left">
+                        <a href="/" title="&laquo; Back to home">
+                           <umbraco:Item field="siteName" recursive="true" runat="server"></umbraco:Item>
+                        </a>
+                    </h1>
+                    <div class="right headerLinks">
+                        
+                        <!-- Insert default "SideBar" markup here -->
+                        <asp:ContentPlaceHolder Id="headerLinksContent" runat="server" />                        
+                        
+                        <!-- Search box -->
+			            <umbraco:Macro Alias="CWS_SearchBox" runat="server"></umbraco:Macro>                        
+                    </div>
+                </div>            
+            </div>
+            
+            <!-- BODY-->
+            <div id="body">
+                <div class="clearfix">
+                    <div id="sideBar" class="left">
+                        <!-- XSLT Macro - Navi -->
+                        <umbraco:Macro Alias="CWS_Navi" runat="server"></umbraco:Macro>
+                        
+                        <!-- Insert default "SideBar" markup here -->
+                        <asp:ContentPlaceHolder Id="SideBarContent" runat="server" />
+                                                              
+                    </div>
+                    
+                    <!-- Insert default "ChildContent" markup here -->
+                    <asp:ContentPlaceHolder Id="ChildContent" runat="server" />
+                                       
+                </div>     
+                            
+            </div>
+            
+            <!-- FOOTER -->
+            <div id="footer">
+                <div class="container">
+                    <ul class="credits">
+                        <li class="cws">
+                            <a href="http://www.creativewebspecialist.co.uk" title="Created by Warren Buckley, a Creative Web Specialist">
+                                Created by Warren Buckley
+                                <span>Creative Web Specialist</span>
+                            </a>
+                        </li>
+                        <li class="g72">
+                            <a href="http://www.g72.co.uk" title="Designed by Sam Grady from G72 Creative">
+                                Designed by Sam Grady
+                                <span>G72 Creative</span>
+                            </a>
+                        </li>
+                    </ul>
+                    
+                    <ul class="misc">
+                        <li class="rss">
+                            <a href="/CWS_rss.aspx" title="RSS Feed for <umbraco:Item field='siteName' recursive='true' runat='server'></umbraco:Item>">
+                                RSS Feed
+                            </a>
+                        </li>
+                        <li class="valid">
+                            <a href="http://validator.w3.org/check?uri=referer" title="This site validates against the W3C guidelines for valid XHTML and CSS">
+                                Valid XHTML
+                            </a>                    
+                        </li>
+                    </ul>
+                </div>            
+            </div>
+        </form>       
+    </div>       
+</body>
+</html>
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>News and Events</Name>
+      <Alias>CWS_NewsAndEvents</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="content left clearfix">
+
+        <h2 class="flashHeader">
+            <strong><umbraco:Item field="pageName" runat="server"></umbraco:Item>.</strong>
+            <umbraco:Item field="headerText" stripParagraph="true" runat="server"></umbraco:Item>
+        </h2>
+        
+        <!-- XSLT Macro - List News & Events -->
+	    <umbraco:Macro Alias="CWS_ListNewsEvents" runat="server"></umbraco:Macro>
+                                                            
+    </div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>News Item</Name>
+      <Alias>CWS_NewsItem</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="content newsItem oneCol left clearfix">
+    
+        <!-- XSLT Macro - Parent Page Link -->
+        <umbraco:Macro Alias="CWS_ParentPageLink" runat="server"></umbraco:Macro>
+                    
+        <div class="date">
+            <!-- 
+            ========================================================================          
+            XSLT Macro - Format Date
+            Pass in values to XSLT macro, so we can reuse Macro.
+            
+            Date Format: 15.12.08
+            
+            TODO: Shall I allow user do config on node?
+            ========================================================================
+            -->
+            <umbraco:Macro Alias="CWS_DateFormat" dateFormat="dd.MM.yy" runat="server"></umbraco:Macro>
+        </div>
+        
+        <h2 class="flashHeader">
+            <strong><umbraco:Item field="pageName" runat="server"></umbraco:Item></strong>
+        </h2>
+        
+        <!-- XSLT Macro - Display Article Image -->
+        <umbraco:Macro Alias="CWS_DisplayArticleImage" runat="server"></umbraco:Macro>
+                
+        <umbraco:Item field="bodyText" runat="server"></umbraco:Item>      
+                    
+    </div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Photo</Name>
+      <Alias>CWS_Photo</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="content oneCol left clearfix">
+        
+        <!-- XSLT Macro - Parent Page Link -->
+        <umbraco:Macro Alias="CWS_ParentPageLink" runat="server"></umbraco:Macro>
+
+        <h2 class="flashHeader">
+            <strong><umbraco:Item field="pageName" runat="server"></umbraco:Item></strong>
+            <umbraco:Item field="headerText" stripParagraph="true" runat="server"></umbraco:Item>
+        </h2>
+        
+        <div class="photo">
+            <!-- XSLT Macro - Photo Pager -->
+	        <umbraco:Macro Alias="CWS_PhotoPager" runat="server"></umbraco:Macro>	                   
+        
+            <div class="item">
+                <img src='<umbraco:Item field="photo" runat="server"></umbraco:Item>' alt='<umbraco:Item field="photoText" runat="server"></umbraco:Item>' />
+                
+                <!-- XSLT Macro - Photo Text -->
+	            <umbraco:Macro Alias="CWS_photoText" runat="server"></umbraco:Macro>                
+            </div>        
+        </div>
+    </div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>RSS (only called with template alias)</Name>
+      <Alias>CWS_RSS</Alias>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server"><umbraco:Macro rssNoItems="10" rssTitle="Your Company's news and events RSS feed" rssDescription="This is a list of Your Company's news and events that are going on." Alias="CWS_NewsEventsRSS" runat="server"></umbraco:Macro></asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Search (only called with template alias)</Name>
+      <Alias>CWS_Search</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="content oneCol left clearfix">
+        
+		<umbraco:Macro runat="server" Alias="XSLTsearch"
+			macroAlias="XSLTsearch"
+			source="-1"
+			searchFields="@nodeName,metaKeywords,metaDescription,bodyText"
+			previewFields="bodyText,metaDescription"
+			previewType="beginning"
+			searchBoxLocation="none"
+			resultsPerPage="5"
+			previewChars="255"
+			showPageRange="1"
+			showOrdinals="0"
+			showScores="0"
+			showStats="1">
+		</umbraco:Macro>
+		
+	</div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Textpage</Name>
+      <Alias>CWS_Textpage</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">
+    <!-- XSLT Macro - Sub Navi -->
+    <umbraco:Macro Alias="CWS_SubNavi" runat="server"></umbraco:Macro>  
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="content oneCol left clearfix">    
+
+        <!-- One Column content -->
+        <h2 class="flashHeader">
+            <strong><umbraco:Item field="pageName" runat="server"></umbraco:Item>.</strong>
+            <umbraco:Item field="headerText" stripParagraph="true" runat="server"></umbraco:Item>
+        </h2>
+        
+        <!-- XSLT Macro - Display Article Image -->
+        <umbraco:Macro Alias="CWS_DisplayArticleImage" propertyAlias="articlePhoto" runat="server"></umbraco:Macro>      
+        <umbraco:Item field="bodyText" runat="server"></umbraco:Item>        
+    
+    </div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Textpage (Two Column)</Name>
+      <Alias>CWS_TextpageTwoCol</Alias>
+      <Master>CWS_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">
+    <!-- XSLT Macro - Sub Navi -->
+    <umbraco:Macro Alias="CWS_SubNavi" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+
+    <div class="content twoColWide left clearfix">    
+                    
+        <div class="col_1 left">
+            <h2 class="flashHeader">
+                <strong><umbraco:Item field="pageName" runat="server"></umbraco:Item>.</strong>
+                <umbraco:Item field="headerText" stripParagraph="true" runat="server"></umbraco:Item>
+            </h2>
+            
+            <!-- Nested two columns -->                    
+            <div class="nestedTwoCol">
+                <div class="col_1 left">                    
+			        <!-- XSLT Macro - Display Article Image -->
+                    <umbraco:Macro Alias="CWS_DisplayArticleImage" propertyAlias="articlePhotoColOne" altText="Warren Buckley, the brains behind the CWS package." runat="server"></umbraco:Macro>
+                    <umbraco:Item field="bodyTextColOne" runat="server"></umbraco:Item>
+                </div>
+            
+                <div class="col_2 left">                                      
+			        <!-- XSLT Macro - Display Article Image -->
+                    <umbraco:Macro Alias="CWS_DisplayArticleImage" propertyAlias="articlePhotoColTwo" altText="Sam Grady, is the designer for the CWS project." runat="server"></umbraco:Macro>
+                    <umbraco:Item field="bodyTextColTwo" runat="server"></umbraco:Item>
+                </div>
+            </div>  
+        </div>
+                          
+    </div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>XML Sitemap (only called with template alias)</Name>
+      <Alias>CWS_XML-Sitemap</Alias>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server"><umbraco:Macro Alias="CWS_XMLSitemap" runat="server"></umbraco:Macro></asp:Content>]]></Design>
+    </Template>
+  </Templates>
+  <Stylesheets>
+    <Stylesheet>
+      <Name>Editor</Name>
+      <FileName>
+      </FileName>
+      <Content><![CDATA[body
+{
+	background-color:#191919;    
+	font-family:Arial, Verdana, Sans-Serif;
+	color:#cccccc;
+	font-size:13px;
+	line-height:18px;
+}
+
+a
+{
+	color:#619ca7;
+	text-decoration:none;
+}
+
+a:hover
+{
+	color:#cccccc;
+}
+
+
+
+
+
+]]></Content>
+      <Properties>
+        <Property>
+          <Name>Sub Header</Name>
+          <Alias>h3</Alias>
+          <Value>color:#F49AC1;
+font-size:18px;</Value>
+        </Property>
+      </Properties>
+    </Stylesheet>
+    <Stylesheet>
+      <Name>ie</Name>
+      <FileName>
+      </FileName>
+      <Content><![CDATA[/*
+	Title:		Umbraco Creative Website Wizard - IE CSS fixes
+	Author:		Warren Buckley
+	Website:	http://www.creativewebspecialist.co.uk
+*/
+
+
+#header .headerLinks
+{
+    width:390px;
+}
+
+.leftArrow.backLink
+{
+    margin:0 0 5px 0;
+}
+
+]]></Content>
+    </Stylesheet>
+    <Stylesheet>
+      <Name>ie6</Name>
+      <FileName>ie6</FileName>
+      <Content><![CDATA[/*
+	Title:		Umbraco Creative Website Wizard - IE6 CSS fixes
+	Author:		Warren Buckley
+	Website:	http://www.creativewebspecialist.co.uk
+*/
+
+#container
+{
+   height:100%;
+}
+
+#footer
+{
+    position:relative;
+}
+
+
+]]></Content>
+    </Stylesheet>
+    <Stylesheet>
+      <Name>Reset</Name>
+      <FileName>Reset</FileName>
+      <Content><![CDATA[/*
+================================================
+	Yahoo GUI Reset CSS
+	http://developer.yahoo.com/yui/reset/
+================================================
+*/
+
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset,img { 
+	border:0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-style:normal;
+	font-weight:normal;
+}
+ol,ul {
+	list-style:none;
+}
+caption,th {
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+q:before,q:after {
+	content:'';
+}
+abbr,acronym { border:0;
+}
+
+]]></Content>
+    </Stylesheet>
+    <Stylesheet>
+      <Name>sifr</Name>
+      <FileName>sifr</FileName>
+      <Content><![CDATA[/*****************************************************************************
+scalable Inman Flash Replacement (sIFR) version 3.
+
+Copyright 2006 – 2008 Mark Wubben, <http://novemberborn.net/>
+
+Older versions:
+* IFR by Shaun Inman
+* sIFR 1.0 by Mike Davidson, Shaun Inman and Tomas Jogin
+* sIFR 2.0 by Mike Davidson, Shaun Inman, Tomas Jogin and Mark Wubben
+
+See also <http://novemberborn.net/sifr3> and <http://wiki.novemberborn.net/sifr3>.
+
+This software is licensed and provided under the CC-GNU LGPL.
+See <http://creativecommons.org/licenses/LGPL/2.1/>
+*****************************************************************************/
+
+@media screen {
+  .sIFR-flash {
+    visibility: visible !important;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .sIFR-replaced, .sIFR-ignore {
+    visibility: visible !important;
+  }
+  
+  .sIFR-alternate {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+    display: block;
+    overflow: hidden;
+  }
+  
+  .sIFR-replaced div.sIFR-fixfocus {
+    margin: 0pt; 
+    padding: 0pt; 
+    overflow: auto; 
+    letter-spacing: 0px; 
+    float: none;
+  }
+}
+
+@media print {
+  .sIFR-flash {
+    display    : none !important;
+    height     : 0;
+    width      : 0;
+    position   : absolute;
+    overflow   : hidden;
+  }
+  
+  .sIFR-alternate {
+    visibility : visible !important;
+    display    : block   !important;
+    position   : static  !important;
+    left       : auto    !important;
+    top        : auto    !important;
+    width      : auto    !important;
+    height     : auto    !important;
+  }
+}
+
+/*
+Place CSS rules for to-be-replaced elements here. Prefix by .sIFR-active
+so they only apply if sIFR is active. Make sure to limit the CSS to the screen
+media type, in order not to have the printed text come out weird.
+*/
+@media screen {
+
+  .sIFR-active h1.flashHeader
+  {
+    font-family:Arial, Verdana, Sans-Serif;
+    visibility: hidden;
+  }
+  
+  .sIFR-active h2.flashHeader
+  {
+    font-family:Arial, Verdana, Sans-Serif;
+    visibility: hidden;
+  }
+  
+  .sIFR-active ul.newsList li h4
+  {
+    font-family:Arial, Verdana, Sans-Serif;
+    visibility: hidden;
+  }
+  
+}
+
+]]></Content>
+    </Stylesheet>
+    <Stylesheet>
+      <Name>Styles</Name>
+      <FileName>Styles</FileName>
+      <Content><![CDATA[/*
+	Title:		Umbraco Creative Website Wizard
+	Author:		Warren Buckley
+	Website:	http://www.creativewebspecialist.co.uk
+*/
+
+
+/*
+================================
+COMMON STYLES 
+================================
+*/
+
+.left {float:left;}
+.right {float:right}
+.hide {display:none;}
+.pointer {cursor:pointer;}
+.clearBoth {clear:both;}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+    }
+
+.clearfix {display: inline-block;}  /* for IE/Mac */
+
+
+a:active, a:focus
+{
+    outline: none;
+}
+
+
+
+/*
+=================================================================================
+STICKY FOOTER
+http://matthewjamestaylor.com/blog/keeping-footers-at-the-bottom-of-the-page
+=================================================================================
+*/
+
+html, body
+{
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
+#container
+{
+   min-height:100%;
+   position:relative;
+}
+
+#body
+{
+   /*padding-bottom:70px;*/   /* Height of the footer */
+   padding-bottom:110px;    /*Height of the footer + additional padding between footer & content */
+}
+
+#footer
+{
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:55px;   /* Height of the footer */ /*70px - 15px (top padding) - 0px (bottom padding) = 55px*/
+}
+
+/*
+================================
+MAIN STYLES
+================================
+*/
+
+body
+{
+    background-color:#191919;
+    
+    font-family:Arial, Verdana, Sans-Serif;
+    color:#cccccc;
+}
+
+#container
+{
+
+}
+
+a
+{
+    color:#619ca7;
+    text-decoration:none;
+}
+
+a:hover
+{
+    color:#cccccc;
+}
+
+
+a.rightArrow
+{
+    background:url(../media/Assets/arrow_right.gif) no-repeat center right;
+    padding:0 7px 0 0;
+}
+
+a.leftArrow
+{
+    background:url(../media/Assets/arrow_left.gif) no-repeat center left;
+    padding:0 0 0 7px;
+}
+
+/*
+================================
+HEADER STYLES 
+================================
+*/
+
+#header
+{
+    width:912px;
+    padding:40px 0 25px 0;
+    margin:0 auto;
+}
+
+#header .container
+{
+    width:912px;
+}
+
+    #header h1
+    {
+        width:114px;
+    }
+    
+/* CSS if sIFR not enabled START */
+    #header h1.flashHeader
+    {
+        font-family:Georgia, Arial, Sans-Serif;
+        font-size:32px;
+        font-weight:bold;
+        color:#f49ac1;
+    }
+    
+        #header h1.flashHeader a
+        {
+            color:#f49ac1;
+        }
+/* CSS if sIFR not enabled END */
+
+#header .headerLinks
+{
+    font-size:12px;
+    text-align:right;
+    
+    width:360px;
+}
+
+    #header .headerLinks a
+    {
+        margin:3px 0 0 0;
+    }
+
+    #header .searchBox
+    {
+        margin:0 0 0 33px;
+    }
+    
+        #header .searchBox input
+        {
+            background-color:#252525;
+            border:2px solid #515151;
+            width:102px;            
+            height:14px; /*16px -1 -1 = 14px; */
+            padding:1px 2px;
+            
+            color:#FFFFFF;
+            font-size:10px;
+        }
+        
+        #header .searchBox input:focus
+        {
+            border:2px solid #619ca7;
+        }
+        
+        #header .searchBox button
+        {
+            border-style: none;
+            border-color: inherit;
+            border-width: medium;
+            font-size:12px;
+            color:#619ca7;
+            padding:0 7px 0 0;
+            background:url('../media/Assets/arrow_right.gif') no-repeat right 50%;
+        }
+
+/*
+================================
+BODY STYLES 
+================================
+*/
+#body
+{
+    width:912px;
+    margin:0 auto;
+    /*background-color:red;*/
+}
+
+/*
+================================
+SIDEBAR STYLES 
+================================
+*/
+#sideBar
+{
+    width:208px;
+    margin:0 10px 0 0;
+    /*background-color:Green;*/
+}
+
+
+/*
+================================
+NAVI STYLES 
+================================
+*/
+#navi li
+{
+    color:#619ca7;
+    font-size:16px;
+    background:url(../media/Assets/dotted_border.gif) repeat-x bottom left;
+}
+
+    #navi li.selected a
+    {
+        color:#cccccc;
+    }
+
+    #navi li a
+    {        
+        display:block;
+        padding:5px 0;
+    }
+
+/*
+================================
+SECONDARY NAVI STYLES 
+================================
+*/
+.secondaryNav
+{
+    margin:130px 0 0 0;
+}
+
+    .secondaryNav h3
+    {
+        color:#f49ac1;
+        font-size:16px;
+        
+        padding:0 0 10px 0;
+        background:url(../media/Assets/dotted_border.gif) repeat-x bottom left;
+    }
+    
+    .secondaryNav li
+    {
+        padding:6px 0 4px 0;
+        background:url(../media/Assets/dotted_border.gif) repeat-x bottom left;
+    }
+    
+        .secondaryNav li.selected a
+        {
+            color:#cccccc;
+        }
+    
+        .secondaryNav li a
+        {
+            font-size:12px;
+            display:block;
+        }
+        
+            .secondaryNav ul.events li a em
+            {
+                color:#FFFFFF;
+                font-size:11px;
+                display:block;
+            }
+            
+            .secondaryNav li a span
+            {
+                background:url(../media/Assets/arrow_right.gif) no-repeat center right;
+                padding:0 7px 0 0;
+            }
+
+/*
+================================
+CONTENT STYLES 
+================================
+*/
+.content
+{
+    width:674px;    
+    font-size:13px;
+    line-height:18px;
+}
+
+    .content p
+    {
+        margin:10px 0;
+    }
+
+    .content strong
+    {
+        font-weight:bold;
+    }
+   
+    .content em
+    {
+        font-style:italic;
+    }
+   
+    .content h3
+    {
+        font-size:18px;
+        color:#F49AC1;
+        margin:10px 0 13px 0;
+    }
+    
+    .content ol, .content ul
+    {
+        list-style-position:inside;
+    }
+    
+    .content ol
+    {
+        list-style-type:decimal;
+    }
+    
+    .content ul
+    {
+        list-style-type:disc;
+    }
+    
+    
+    .leftArrow.backLink
+    {
+        margin:0 0 25px 0;
+        display:block;
+    }
+    
+    .content div.date
+    {
+        font-weight:bold;
+        font-size:12px;
+    }
+    
+    /* Header for small thin column */
+    .twoColWide .col_2  h4
+    {
+        font-size:12px;
+        color:#f49ac1;
+        font-weight:bold;
+        background:url(../media/Assets/dotted_border.gif) repeat-x bottom left;
+        
+        padding:0 0 5px 0;
+        margin:0 0 5px 0;        
+    }
+    
+/* CSS if sIFR not enabled START */
+    h2.flashHeader
+    {
+        font-family:Georgia, Arial, Sans-Serif;
+        font-size:28px;
+        font-weight:bold;
+        color:#FFFFFF;
+	line-height:1em;
+	
+    }
+            
+	h2.flashHeader strong
+	{
+		color:#f49ac1
+	}
+/* CSS if sIFR not enabled END */
+
+
+
+
+.content.oneCol
+{
+    width:550px;
+}
+
+/*
+================================
+HOMEPAGE TWO COLS
+================================
+*/   
+.twoCol .col_1
+{
+    width:342px;
+}
+
+.twoCol .col_2
+{
+    width:322px;
+}
+
+
+
+
+/*
+================================
+ABOUT PROJ TWO COLS WIDE
+================================
+*/ 
+.twoColWide .col_1
+{
+    width:550px;
+    margin:0 20px 0 0;
+}
+
+.twoColWide .col_2
+{
+    width:93px;
+}
+
+.nestedTwoCol
+{
+    width:550px;
+    margin:10px 0 0 0;
+}
+
+    /* Nested two col within col_1 of twoColWide */
+    .nestedTwoCol .col_1
+    {
+        width:265px;
+        margin:0 20px 0 0;
+    }
+    
+    .nestedTwoCol .col_2
+    {
+        width:265px;
+    }
+
+/*
+================================
+GALLERY GRID
+================================
+*/ 
+.galleryGrid
+{
+    margin:25px 0 0 0;
+}
+
+    .galleryGrid .item
+    {
+        width:208px;
+        margin:0 0 15px 20px;
+    }
+        
+    .galleryGrid .item.first
+    {
+        margin-left:0;
+    }
+    
+        .galleryGrid .item a
+        {
+            background:url(../media/Assets/arrow_right.gif) no-repeat center right;
+            padding:0 7px 0 0;
+        }
+    
+        .galleryGrid .item img
+        {
+            display:block;
+        }
+        
+        .galleryGrid .item span
+        {
+            display:block;
+        }
+
+
+/*
+================================
+PHOTO GRID
+================================
+*/ 
+.photoGrid
+{
+    margin:25px 0 0 0;
+}
+
+    .photoGrid .item
+    {
+        width:151px;
+        margin:0 0 15px 20px;
+    }
+                
+    .photoGrid .item.first
+    {
+        margin-left:0;
+    }
+    
+        .photoGrid .item a
+        {
+            background:url(../media/Assets/arrow_right.gif) no-repeat center right;
+            padding:0 7px 0 0;
+        }
+    
+        .photoGrid .item img
+        {
+            display:block;
+        }
+    
+        .photoGrid .item span
+        {
+            display:block;
+        }
+
+/*
+================================
+PHOTO ITEM
+================================
+*/ 
+.photo
+{
+    margin:25px 0 0 0;
+}
+    
+    .photo .pager
+    {
+        display:block;
+        margin:0 0 10px 0;
+    }
+
+    .photo a.prev
+    {
+        background:url(../media/Assets/arrow_left.gif) no-repeat center left;
+        padding:0 0 0 7px;
+    }
+    
+    .photo a.next
+    {
+        background:url(../media/Assets/arrow_right.gif) no-repeat center right;
+        padding:0 7px 0 0;
+    }
+    
+    .photo .item
+    {
+        position:relative;
+	overflow:hidden;
+	/*width:550px;*/
+    }
+    
+        .photo .item span
+        {
+            display:none;   /*hide it if JS disabled and when page initially loads */
+        
+            position:absolute;
+            left:0;
+            bottom:0;
+            
+            background:url(../media/Assets/white_60_bg.png) repeat top left;
+	    color:#000;
+            
+            /*width:540px;*/ /*550 - 5 - = 540px */
+	width:100%;
+            padding:10px 5px 10px 5px;
+        }
+
+/*
+================================
+NEWS LIST
+================================
+*/
+
+.newsList
+{
+    margin:25px 0 0 0;
+    width:630px;
+}
+
+    .newsList div
+    {
+        width:180px;
+        margin:0 0 25px 45px;
+        display:inline;
+        
+        color:#FFFFFF;
+    }
+    
+    .newsList div.first
+    {
+        margin-left:0;
+    }
+    
+        .newsList div span
+        {
+            font-weight:bold;
+            font-size:11px;
+        }
+
+/* CSS if sIFR not enabled START */
+.newsList div h4
+{
+	font-size:28px;
+	line-height:1em;
+	font-family:Georgia, Arial, Sans-Serif;  
+}
+
+    .newsList div h4 a
+    {       
+        font-weight:bold;
+        color:#619ca7;
+    }
+    
+    .newsList div h4 a:hover
+    {
+        color:#FFFFFF;
+    }      
+/* CSS if sIFR not enabled END */       
+
+
+/*
+================================
+NEWS ITEM
+================================
+*/
+.newsItem img
+{
+    margin:0 0 15px 0;
+}
+
+        
+/*
+================================
+CONTACT STYLES
+================================
+*/
+
+.form .text
+{
+    width:265px;
+    margin:0 10px 0 0;
+}
+
+.form .fields
+{
+    width: 265px;
+}
+
+fieldset legend
+{
+    display:none;
+}
+
+fieldset label
+{
+    display:block;
+    margin:10px 0 0 0;
+}
+
+fieldset label.first
+{
+    margin:0;
+}
+
+fieldset input
+{
+    background-color:#252525;
+    border:2px solid #515151;
+    width:265px;
+    height:17px;
+    padding:2px;
+    margin:0 0 3px 0;
+    
+    color:#FFFFFF;
+    font-size:14px;
+}
+  
+fieldset textarea
+{
+    background-color:#252525;
+    border:2px solid #515151;
+    width:265px;
+    height:130px;
+    padding:2px 2px 1px 2px;
+    margin:0 0 3px 0;
+    
+    font-family:Arial, Verdana, Sans-Serif;
+    color:#FFFFFF;
+    font-size:14px;
+}
+
+    fieldset input:focus, fieldset textarea:focus
+    {
+        border:2px solid #619ca7;
+    }
+
+fieldset input.error, fieldset textarea.error
+{
+    border:2px solid #F49AC1;
+}
+
+    fieldset input.error:focus
+    {
+        border:2px solid #af4975;
+    }
+
+fieldset button
+{
+    border:none;
+    color:#619ca7;
+    padding:0 7px 0 0;
+    margin:10px 0;
+    background:url('../media/Assets/arrow_right.gif') no-repeat right 50%;
+}
+
+
+/*
+================================
+FOOTER STYLES 
+================================
+*/
+
+#footer
+{
+    background:#0c0c0c url(../media/Assets/footer_border.gif) repeat-x top left;
+    padding:15px 0 0 0;
+}
+
+    #footer div.container
+    {
+        width:912px;
+        margin:0 auto;
+    }
+
+    #footer li
+    {
+        float:left;
+        font-size:11px;
+    }
+    
+    /*Credits*/
+    #footer ul.credits
+    {
+    }
+    
+        #footer ul.credits li a
+        {
+            color:#868686;
+        }    
+    
+            #footer ul.credits li a span
+            {
+                display:block;
+                
+                font-size:10px;
+                color:#515151;
+            }
+            
+        #footer ul.credits li a:hover span
+        {
+            color:#f49ac1;
+        }
+
+
+    /*Misc*/
+    #footer ul.misc
+    {        
+    }
+                
+        #footer ul.misc li.rss
+        {
+            padding:0 0 0 17px;
+            margin:0 105px 0 0;
+        }
+        
+            #footer ul.misc li.rss a
+            {
+                color:#c8751a;
+            }
+    
+                #footer ul.misc li.rss a:hover
+                {
+                    color:#a05e16;
+                }
+                
+        #footer ul.misc li.valid
+        {
+            padding:0 0 0 17px;
+        }
+        
+            #footer ul.misc li.valid a
+            {
+                color:#529c46;
+            }            
+
+/* Logos*/
+.cws
+{
+    background:transparent url(../media/Assets/cws_logo.gif) no-repeat;
+    padding:0 0 0 26px;
+    margin:0 67px 0 0;
+}
+
+.g72
+{
+    background:transparent url(../media/Assets/g72_logo.gif) no-repeat;
+    padding:0 0 0 30px;
+    margin:0 190px 0 0;
+}
+
+.rss
+{
+    background:transparent url(../media/Assets/rss_logo.gif) no-repeat 0 2px;
+}
+
+.valid
+{
+    background:transparent url(../media/Assets/tick_icon.gif) no-repeat 0 0;
+}
+
+
+
+
+
+
+
+
+
+]]></Content>
+    </Stylesheet>
+    <Stylesheet>
+      <Name>XSLTsearch</Name>
+      <FileName>XSLTsearch</FileName>
+      <Content><![CDATA[/* XSLTsearch  */
+#xsltsearch {margin: 0; padding: 20px 0 0 0;}
+    #xsltsearch_summary {margin:0;}
+    .xsltsearch_result {padding:15px 0 0 0;}
+	.xsltsearch_result p {margin: 0; padding: 0;}
+	.xsltsearch_ordinal {font-weight: bold; font-size: 75%;}
+	.xsltsearch_title {font-weight: bold;}
+	.xsltsearch_score {font-size: 75%;}
+	p.xsltsearch_result_description {padding-bottom: 10px;}
+	.xsltsearch_description strong {background: #f59ac3; color:#191919;} /* highlighting */
+	#xsltsearch_navigation {clear:both; text-align: center; line-height:37px; height:37px; border-top:1px dotted #5e5e5e; border-bottom:1px dotted #5e5e5e;}
+	#xsltsearch_navigation .disabled {color: #999;}
+	#xsltsearch_stats {font-size: 11px; color: #8b8b8b;}
+
+#xsltsearch h2 {font-size:28px; line-height:1em;}
+
+
+
+
+
+
+
+]]></Content>
+    </Stylesheet>
+  </Stylesheets>
+  <Macros>
+    <macro>
+      <name>[.NET] Contact Form</name>
+      <alias>CWS_ContactForm</alias>
+      <scriptType>/usercontrols/website/ContactForm.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties>
+        <property name="Email To" alias="EmailTo" show="True" propertyType="text" />
+        <property name="Email Subject" alias="EmailSubject" show="True" propertyType="text" />
+        <property name="Email Body" alias="EmailBody" show="True" propertyType="textMultiLine" />
+        <property name="EmailReplyFrom" alias="EmailReplyFrom" show="True" propertyType="text" />
+        <property name="Email Reply Subject" alias="EmailReplySubject" show="True" propertyType="text" />
+        <property name="Email Reply Body" alias="EmailReplyBody" show="True" propertyType="textMultiLine" />
+        <property name="Enable SSL" alias="EnableSSL" show="True" propertyType="bool" />
+        <property name="Form Header" alias="FormHeader" show="True" propertyType="textMultiLine" />
+        <property name="Form Text" alias="FormText" show="True" propertyType="textMultiLine" />
+        <property name="Thank You Header" alias="ThankYouHeaderText" show="True" propertyType="textMultiLine" />
+        <property name="Thank You Message " alias="ThankYouMessageText" show="True" propertyType="textMultiLine" />
+      </properties>
+    </macro>
+    <macro>
+      <name>[.NET] Email A Friend</name>
+      <alias>CWS_EmailAFriend</alias>
+      <scriptType>/usercontrols/website/EmailAFriendForm.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties>
+        <property name="Email Subject To Friend" alias="EmailSubjectToFriend" show="True" propertyType="text" />
+        <property name="Email Message To Friend" alias="EmailMessageToFriend" show="True" propertyType="textMultiLine" />
+        <property name="Email From" alias="EmailFrom" show="True" propertyType="text" />
+        <property name="Enable SSL" alias="EnableSSL" show="True" propertyType="bool" />
+        <property name="Form Header" alias="FormHeader" show="True" propertyType="textMultiLine" />
+        <property name="Thank You Header Text" alias="ThankYouHeaderText" show="True" propertyType="textMultiLine" />
+        <property name="Thank You Message Text" alias="ThankYouMessageText" show="True" propertyType="textMultiLine" />
+      </properties>
+    </macro>
+    <macro>
+      <name>[.NET] Search Box</name>
+      <alias>CWS_SearchBox</alias>
+      <scriptType>/usercontrols/website/SearchBox.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] Date Format</name>
+      <alias>CWS_DateFormat</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>DateFormat.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties>
+        <property name="Format of Date" alias="dateFormat" show="True" propertyType="text" />
+        <property name="Alias of Property" alias="propertyAlias" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>[XSLT] Display Article Image</name>
+      <alias>CWS_DisplayArticleImage</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>DisplayArticleImage.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties>
+        <property name="Property Alias on node where Image Stored" alias="propertyAlias" show="True" propertyType="text" />
+        <property name="Image Alt text property" alias="altText" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>[XSLT] Email A Friend Link</name>
+      <alias>CWS_EmailAFriendLink</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>EmailAFriendLink.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] List Galleries</name>
+      <alias>CWS_ListGalleries</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>ListGalleries.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] List News &amp; Events</name>
+      <alias>CWS_ListNewsEvents</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>ListNewsEvents.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] List Photos</name>
+      <alias>CWS_ListPhotos</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>ListPhotos.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] Navi</name>
+      <alias>CWS_Navi</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>Navi.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] News Events RSS</name>
+      <alias>CWS_NewsEventsRSS</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>NewsEventsRSS.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties>
+        <property name="RSS Number of Items" alias="rssNoItems" show="True" propertyType="number" />
+        <property name="RSS Title" alias="rssTitle" show="True" propertyType="text" />
+        <property name="RSS Description" alias="rssDescription" show="True" propertyType="textMultiLine" />
+      </properties>
+    </macro>
+    <macro>
+      <name>[XSLT] News Events Sub Navi</name>
+      <alias>CWS_NewsEventsSubNavi</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>NewsEventsSubNavi.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] Page Title</name>
+      <alias>CWS_PageTitle</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>PageTitle.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] Parent Page Link</name>
+      <alias>CWS_ParentPageLink</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>ParentPageLink.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] Photo Pager</name>
+      <alias>CWS_PhotoPager</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>PhotoPager.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] Photo Text</name>
+      <alias>CWS_PhotoText</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>PhotoText.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] Sub Navi</name>
+      <alias>CWS_SubNavi</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>SubNavi.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>[XSLT] XML Sitemap</name>
+      <alias>CWS_XMLSitemap</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>XMLSitemap.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties />
+    </macro>
+    <macro>
+      <name>XSLTsearch</name>
+      <alias>XSLTsearch</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>XSLTsearch.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties>
+        <property name="Source" alias="source" show="True" propertyType="contentTree" />
+        <property name="Umbraco fields to search" alias="searchFields" show="True" propertyType="text" />
+        <property name="Umbraco fields shown in results preview" alias="previewFields" show="True" propertyType="text" />
+        <property name="Display search box at TOP, BOTTOM, or BOTH" alias="searchBoxLocation" show="True" propertyType="text" />
+        <property name="Display BEGINNING or CONTEXT of each result" alias="previewType" show="True" propertyType="text" />
+        <property name="Number of search results to display per page" alias="resultsPerPage" show="True" propertyType="number" />
+        <property name="Number of characters of preview text to display" alias="previewChars" show="True" propertyType="number" />
+        <property name="Display 'Showing result X to Y'?" alias="showPageRange" show="True" propertyType="bool" />
+        <property name="Display numbers before each result?" alias="showOrdinals" show="True" propertyType="bool" />
+        <property name="Display search score for each result?" alias="showScores" show="True" propertyType="bool" />
+        <property name="Display 'Searched X documents in Y seconds'?" alias="showStats" show="True" propertyType="bool" />
+      </properties>
+    </macro>
+  </Macros>
+  <DictionaryItems />
+  <Languages />
+  <DataTypes>
+    <DataType Name="CWS: Richtext" Id="5e9b75ae-face-41c8-b47e-5f4b0fd82f83" Definition="37485552-b83f-4494-abed-05151b79d8be">
+      <PreValues>
+        <PreValue Id="18" Value=",code,undo,redo,cut,copy,mcepasteword,stylepicker,bold,italic,justifyleft,justifycenter,justifyright,bullist,numlist,outdent,indent,mcelink,unlink,mceinsertanchor,mceimage,umbracomacro,mceinserttable,|1|1,2,3,|0|500,500|1042,|True|500|" />
+      </PreValues>
+    </DataType>
+    <DataType Name="CWS: Simple Richtext" Id="5e9b75ae-face-41c8-b47e-5f4b0fd82f83" Definition="74aff8ce-6871-47cb-88fa-048770ea4386">
+      <PreValues>
+        <PreValue Id="8" Value=",bold,|0||0|400,50||True|500|" />
+      </PreValues>
+    </DataType>
+    <DataType Name="CWS: Sort By List" Id="a74ea9c9-8e18-4d2a-8cf6-73c6206c5da6" Definition="bbb96921-e701-401e-b22c-d0cf961bdd19">
+      <PreValues>
+        <PreValue Id="9" Value="sortOrder" />
+        <PreValue Id="10" Value="createDate" />
+        <PreValue Id="11" Value="updateDate" />
+      </PreValues>
+    </DataType>
+    <DataType Name="CWS: Sort Order List" Id="a74ea9c9-8e18-4d2a-8cf6-73c6206c5da6" Definition="02706c78-5d6a-4eee-9c17-318bd95ae1bf">
+      <PreValues>
+        <PreValue Id="12" Value="ascending" />
+        <PreValue Id="13" Value="descending" />
+      </PreValues>
+    </DataType>
+  </DataTypes>
+  <Actions>
+    <Action runat="install" undo="true" alias="addDashboardSection" dashboardAlias="MyDashboardSection">
+      <section>
+        <areas>
+          <area>default</area>
+          <area>content</area>
+        </areas>
+        <tab caption="Contact Logs">
+          <control>/usercontrols/dashboards/ContactForm_logs.ascx</control>
+        </tab>
+        <tab caption="Email a Friend Logs">
+          <control>/usercontrols/dashboards/EmailAFriendForm_logs.ascx</control>
+        </tab>
+      </section>
+    </Action>
+    <Action runat="install" undo="true" alias="publishRootDocument" documentName="Home" />
+    <Action runat="install" undo="true" alias="AddUrlRewriteRule">
+      <add name="CWS_emaiAFriendID" virtualUrl="^~/email-a-friend/(.[0-9]*).aspx" rewriteUrlParameter="ExcludeFromClientQueryString" destinationUrl="~/email-a-friend.aspx?nodeID=$1" ignoreCase="true" />
+    </Action>
+    <Action runat="install" undo="true" alias="SetCSSforRichTextEditor" dataTypeName="CWS: Richtext" cssName="Editor" />
+  </Actions>
+</umbPackage>

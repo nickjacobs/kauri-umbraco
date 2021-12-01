@@ -1,0 +1,151 @@
+<umbPackage>
+	<info>
+		<package>
+			<name>umbraco Utilities for 2.1</name>
+			<version>1.0</version>
+			<license url="http://umbraco.org/gpl.aspx">umbraco gpl</license>
+			<url>http://umbraco.org/umbracoUtilitiesPackage</url>
+			<requirements>
+				<major>2</major>
+				<minor>1</minor>
+				<patch>0</patch>
+			</requirements>
+		</package>
+		<author>
+			<name>Niels Hartvig</name>
+			<website>http://hartvig.com</website>
+		</author>
+		<readme>
+			<![CDATA[
+			This will install four utilities:
+			<ul>
+			<li><b>AutoForm</b> for easy form rendering on websites</li>
+			<li><b>Search</b> for easy yet advanced Lucene based full-text searching</li>
+			<li><b>Subscribe Unsubscribe</b> for easy newsletter maintenance</li>
+			<li><b>ContentType</b> for changing the output MIME type for templates</li></ul>
+			Cheers,<br/>
+			Niels Hartvig, Copenhagen, Denmark 2006
+			]]>
+		</readme>
+	</info>
+	<macros>
+		<macro>
+			<name>AutoForm</name>
+			<alias>umbAutoForm</alias>
+			<scriptType>usercontrols/umbracoUtilities/AutoForm.ascx</scriptType>
+			<scriptAssembly/>
+			<xslt/>
+			<useInEditor>false</useInEditor>
+			<refreshRate>0</refreshRate>
+			<properties>
+				<property show="true" propertyType="contentType" alias="DocumentType" name="Document Type" />
+				<property show="true" propertyType="tabPickerMultiple" alias="TabName" name="Tab Name" />
+				<property show="true" propertyType="contentPicker" alias="ChooseWhereToStore" name="Choose Where To Store" />
+				<property show="true" propertyType="bool" alias="EditMode" name="Edit Mode" />
+				<property show="true" propertyType="bool" alias="ShowTitle" name="Show Title" />
+				<property show="true" propertyType="text" alias="TitleName" name="Title Name" />
+				<property show="true" propertyType="propertyTypePicker" alias="SaveMemberAlias" name="Save Member Alias" />
+				<property show="true" propertyType="bool" alias="ShowDescriptions" name="Show Descriptions" />
+				<property show="true" propertyType="text" alias="SubmitButtonText" name="Submit Button Text" />
+				<property show="true" propertyType="textMultiLine" alias="TextOnSubmit" name="Text On Submit" />
+				<property show="true" propertyType="bool" alias="PublishOnSubmit" name="Publish On Submit" />
+				<property show="true" propertyType="bool" alias="RefreshToParent" name="Refresh To Parent" />
+				<property show="true" propertyType="numeric" alias="PublishWithUserId" name="Publish With UserId" />
+				<property show="true" propertyType="propertyTypePickerMultiple" alias="StorePropertiesInCookies" name="Store Properties In Cookies" />
+			</properties>
+		</macro>
+		<macro>
+			<name>Subscribe Unsubscribe</name>
+			<alias>uuSubscribeUnsubscribe</alias>
+			<scriptType>usercontrols/umbracoUtilities/umbSubscribeUnsubscribe.ascx</scriptType>
+			<scriptAssembly/>
+			<xslt></xslt>
+			<useInEditor>false</useInEditor>
+			<refreshRate>0</refreshRate>
+			<properties>
+				<property show="true" propertyType="text" alias="header" name="Header" />
+				<property show="true" propertyType="textMultiLine" alias="body" name="Body" />
+				<property show="true" propertyType="text" alias="layoutXslt" name="XSLT for Layout" />
+				<property show="true" propertyType="text" alias="memberTypeAlias" name="Member Type Alias to Create" />
+				<property show="true" propertyType="text" alias="memberGroup" name="Member Group Name To Assign" />
+				<property show="true" propertyType="text" alias="deleteOnUnsubscribe" name="Delete Member when unsubscribing" />
+			</properties>
+		</macro>
+		<macro>
+			<name>Change Content Mime Type</name>
+			<alias>uuContentType</alias>
+			<scriptType>usercontrols/umbracoUtilities/umbContentType.ascx</scriptType>
+			<scriptAssembly/>
+			<xslt></xslt>
+			<useInEditor>false</useInEditor>
+			<refreshRate>0</refreshRate>
+			<properties>
+				<property show="true" propertyType="text" alias="ContentType" name="ContentType (like 'text/xml')" />
+			</properties>
+		</macro>
+		<macro>
+			<name>Search Result</name>
+			<alias>uuSearch</alias>
+			<scriptType>usercontrols/umbracoUtilities/umbSearchResult.ascx</scriptType>
+			<scriptAssembly/>
+			<xslt></xslt>
+			<useInEditor>false</useInEditor>
+			<refreshRate>0</refreshRate>
+			<properties>
+				<property show="true" propertyType="text" alias="SearchResultsHeader" name="Search Results Header" />
+				<property show="true" propertyType="text" alias="Intro" name="Intro" />
+				<property show="true" propertyType="text" alias="FooterClass" name="Footer Class" />
+				<property show="true" propertyType="number" alias="FragmentCharacters" name="Fragment Characters" />
+				<property show="true" propertyType="number" alias="PageSize" name="PageSize" />
+				<property show="true" propertyType="text" alias="ResultHeader" name="Result Header" />
+				<property show="true" propertyType="text" alias="Body" name="Body" />
+				<property show="true" propertyType="text" alias="Footer" name="Footer" />
+				<property show="true" propertyType="text" alias="NextText" name="NextText" />
+				<property show="true" propertyType="text" alias="ParentText" name="PreviousText" />
+				<property show="true" propertyType="bool" alias="DebugMode" name="Debug Mode" />
+				<property show="true" propertyType="text" alias="XsltLayout" name="Xslt Layout" />
+				<property show="true" propertyType="text" alias="StartAtNode" name="StartAtNode" />
+			</properties>
+		</macro>
+	</macros>
+	<files>
+		<file>
+			<guid>0BF321A6-7F81-4C90-994E-338D8E49238B.dll</guid>
+			<orgPath>/bin</orgPath>
+			<orgName>umbracoUtilities.dll</orgName>
+		</file>
+		<file>
+			<guid>E60B0FD6-A315-487A-98D3-3AB59A0218F6.ascx</guid>
+			<orgPath>/usercontrols/umbracoUtilities</orgPath>
+			<orgName>umbSubscribeUnsubscribe.ascx</orgName>
+		</file>
+		<file>
+			<guid>E60B0FD6-A315-487A-98D3-3AB59A0218F1.ascx</guid>
+			<orgPath>/usercontrols/umbracoUtilities</orgPath>
+			<orgName>umbSearchResult.ascx</orgName>
+		</file>
+		<file>
+			<guid>E60B0FD6-A315-487A-98D3-3AB59A0218F2.ascx</guid>
+			<orgPath>/usercontrols/umbracoUtilities</orgPath>
+			<orgName>umbContentType.ascx</orgName>
+		</file>
+		<file>
+			<guid>E60B0FD6-A315-487A-98D3-3AB59A0218F3.ascx</guid>
+			<orgPath>/usercontrols/umbracoUtilities</orgPath>
+			<orgName>AutoForm.ascx</orgName>
+		</file>
+		<file>
+			<guid>E60B0FD6-A315-487A-98D3-3AB59A0218F4.ascx</guid>
+			<orgPath>/usercontrols/umbracoUtilities</orgPath>
+			<orgName>buildIndex.ascx</orgName>
+		</file>
+		<file>
+			<guid>E60B0FD6-B315-487A-98D3-3AB59A0218F4.xml</guid>
+			<orgPath>/data</orgPath>
+			<orgName>umbracoSearchConfig.xml</orgName>
+		</file>
+	</files>
+	<commands>
+	</commands>
+	<control>/usercontrols/umbracoUtilities/buildIndex.ascx</control>
+</umbPackage>

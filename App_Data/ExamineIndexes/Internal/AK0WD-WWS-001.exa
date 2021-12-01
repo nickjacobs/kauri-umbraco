@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <EXAFields>Name</EXAFields>
+    </key>
+    <value>
+      <string>AK0WD-WWS-001</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>Created</EXAFields>
+    </key>
+    <value>
+      <string>2012-03-08 03:04:50.422</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>Updated</EXAFields>
+    </key>
+    <value>
+      <string>2015-05-06 11:30:09.718</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>IsMaster</EXAFields>
+    </key>
+    <value>
+      <string>True</string>
+    </value>
+  </item>
+</dictionary>

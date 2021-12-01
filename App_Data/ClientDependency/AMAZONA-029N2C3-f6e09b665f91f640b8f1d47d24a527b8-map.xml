@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_26698c317f57468b9720618c74b5a2dd.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\panel\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_04defabe112f482daeae9b1338de3783.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\panel\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvL2Nzcy91bWJyYWNvR3VpLmNzczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_77f29d64220e405fa0a51c8bec782fdb.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\panel\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco\css\umbracoGui.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjby9TZWFyY2gvcXVpY2tTZWFyY2guanM7L3VtYnJhY28vanMvZ3VpRnVuY3Rpb25zLmpzOy91bWJyYWNvL2pzL1VtYnJhY29TcGVlY2hCdWJibGVCYWNrZW5kLmpzOy91bWJyYWNvL2pzL2xhbmd1YWdlLmFzcHg7L3VtYnJhY29fY2xpZW50L3VpL2pRdWVyeVdyZXNpemUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkuYXV0b2NvbXBsZXRlLmpzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_2ec9dd4e54854d27889be566ef96adf4.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.ba-bbq.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\HistoryManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\panel\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\Search\quickSearch.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\guiFunctions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\UmbracoSpeechBubbleBackend.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jQueryWresize.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.autocomplete.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_00711055dcd84ed9ac234a9e2bcdba4e.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\panel\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_cb5a0184db3f4f8d9db07ebdadb6a1f8.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\panel\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_b500d741a6be4997855951f8b5225ced.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\menuicon\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_909e41bc56a343e1b373e0d8e8470565.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_02390b59377f4d4992154afe66897a70.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\menuicon\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\datetimepicker.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_515cea9e5dae41b798311b459815d165.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\timepicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvZGF0ZXRpbWVwaWNrZXIuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_7c31588a28d44a2a82e0f07b0ed5684f.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\menuicon\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy91bWJyYWNvQ2hlY2tLZXlzLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9JbWFnZVZpZXdlci5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci91bWJEYXRlVGltZVBpY2tlci5qczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_aad6cd7553e646b0bb47e9085570a84d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\controls\Images\ImageViewer.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_860808be9df34520b42256bcf06ec125.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\menuicon\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\datetimepicker.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy91bWJyYWNvQ2hlY2tLZXlzLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3VtYkRhdGVUaW1lUGlja2VyLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci90aW1lcGlja2VyLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9JbWFnZVZpZXdlci5qczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_33ab8afd7a5b47d4aac0e687d003cfc5.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\controls\Images\ImageViewer.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_6cef64b466ae4472873b634a0d68c9c7.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\menuicon\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_36d1223bca774b5e89dab3267ccf9371.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_dd13c10a70b74a14aa0dc097bbfad71f.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_5ca2d55c05b64e0b9a5cf267a7de0f7c.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_937c8efa090f4597be2582f592c53cf3.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjby9jc3MvdW1icmFjb0d1aS5jc3M7L3VtYnJhY28vY3NzL3Blcm1pc3Npb25zRWRpdG9yLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_2a580ac91ac34e35854e0d8396450692.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\menuicon\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\panel\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+      <file name="D:\kauridieback.co.nz\umbraco\css\umbracoGui.css" />
+      <file name="D:\kauridieback.co.nz\umbraco\css\permissionsEditor.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjby91c2Vycy9QZXJtaXNzaW9uc0VkaXRvci5qczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_b0e381921b554330a3cf8aef53280730.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\panel\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\users\PermissionsEditor.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_74df9372e8764a6d88fc1cd2f2ea3955.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNoZWNrYm94LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL05vZGVEZWZpbml0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29Db250ZXh0LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29UcmVlLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_dc09a4be2f9b4d89a1f50cb1293a14ad.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_1d535bb3c51f41fba6197442dec5e28c.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L3RhYmxlc29ydGluZy90YWJsZURyYWdBbmREcm9wLmpzOy91bWJyYWNvX2NsaWVudC90YWJsZXNvcnRpbmcvdGFibGVGaWx0ZXIuanM7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_52dbcd4d72fd434da7d7f7fb32124b30.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tablesorting\tableDragAndDrop.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tablesorting\tableFilter.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_fc91fb717719499e811ae0830c185ddc.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ub2NvbmZsaWN0LWludm9rZS5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9VcGxvYWRNZWRpYUltYWdlLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY28vY29udHJvbHMvSW1hZ2VzL0ltYWdlVmlld2VyLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy90aW55X21jZV9wb3B1cC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvbWN0YWJzLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy91dGlscy9mb3JtX3V0aWxzLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy91dGlscy92YWxpZGF0ZS5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvZWRpdGFibGVfc2VsZWN0cy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvcGx1Z2lucy91bWJyYWNvaW1nL2pzL2ltYWdlLmpzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_8f609782eec24258bb4d69ee1ebf42cd.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.noconflict-invoke.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\controls\Images\UploadMediaImage.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\controls\Images\ImageViewer.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\tiny_mce_popup.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\utils\mctabs.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\utils\form_utils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\utils\validate.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\utils\editable_selects.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\plugins\umbracoimg\js\image.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_81147bd8fdee4a1b8ccb7fd0d16966b7.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3RpbnlfbWNlX3BvcHVwLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3BsdWdpbnMvYWR2bGluay9qcy9hZHZsaW5rLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy91dGlscy9mb3JtX3V0aWxzLmpzOw==" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_f5535de63aba4e8a8c56bf88a23837f2.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\tiny_mce_popup.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\plugins\advlink\js\advlink.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\utils\form_utils.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_8a0c682a46dd4b759c85e5f56f59e058.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3VtYkRhdGVUaW1lUGlja2VyLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci90aW1lcGlja2VyLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9JbWFnZVZpZXdlci5qczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_87c5c76935954f27bf28994b60e529a8.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\controls\Images\ImageViewer.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy91bWJyYWNvQ2hlY2tLZXlzLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9JbWFnZVZpZXdlci5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci91bWJEYXRlVGltZVBpY2tlci5qczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_7b165e61d795452cab386727189b3871.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tabview\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\controls\Images\ImageViewer.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL05vZGVEZWZpbml0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNoZWNrYm94LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29Db250ZXh0LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29UcmVlLmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_3478f771805d44e8970998190bbc0229.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3RpbnlfbWNlX3BvcHVwLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy90aGVtZXMvdW1icmFjby9qcy9hbmNob3IuanM7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_8b13891de6374288810a3c3fe36d3075.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\tiny_mce_popup.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\themes\umbraco\js\anchor.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_bde4092f125541cea5f42105cbb0a02f.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdGlueV9tY2VfcG9wdXAuanM7L3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3V0aWxzL21jdGFicy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvZm9ybV91dGlscy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvdmFsaWRhdGUuanM7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_26b07a75dd4346c0a839477527649d3d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\tiny_mce_popup.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\utils\mctabs.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\utils\form_utils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\tinymce3\utils\validate.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_3e4c251b42ab4e9b8531a06de5deb7ea.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\umbracoCheckKeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_13235db245ca4b4786c707ebd85f560e.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\propertypane\style.css" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY28vanMvZHVhbFNlbGVjdEJveC5qczs=" file="D:\kauridieback.co.nz\App_Data\ClientDependency\1_4d1bcb7b54aa4351a7c48ed05ec910e5.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\jquery.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\ui\default.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\modal\modal.js" />
+      <file name="D:\kauridieback.co.nz\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\kauridieback.co.nz\umbraco\js\dualSelectBox.js" />
+    </files>
+  </item>
+</map>

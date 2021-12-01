@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" MasterPageFile="/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+<div class="leftColumn">
+     <!-- XSLT Macro - Sub Navi -->
+     <umbraco:Macro ID="Macro1" Alias="CWS_SubNavi" runat="server"></umbraco:Macro>  
+  
+</div>
+<div class="centerColumn">
+	<h1><umbraco:Item ID="Item1" field="pageName" stripParagraph="true" runat="server"></umbraco:Item></h1>
+	<umbraco:Item ID="Item2" field="bodyText" runat="server"></umbraco:Item>       
+    <umbraco:Macro EmailTo="[#emailTo]" EmailSubject="[#emailSubject]" EmailBody="[#emailBody]" EmailReplyFrom="[#emailReplyFrom]" EmailReplySubject="[#emailReplySubject]" EmailReplyBody="[#emailReplyBody]" EnableSSL="[#enableSSL]" FormHeader="[#headerText]" FormText="[#formText]" ThankYouHeaderText="[#thankYouHeaderText]" ThankYouMessageText="[#thankYouMessageText]" Alias="CWS_ContactForm" runat="server"></umbraco:Macro>
+    <!-- page buttons style start -->
+    
+    <div class="pageButtons">
+        <a class="backButton" href="JavaScript:history.go(-1)">Back</a>
+        <a class="topButton" href="#">Top</a>
+        <a class="printButton" href="javascript: window.print()">Print</a>
+        <a class="tellAFriendButton" href="#tellFriend" onclick="showLBMain('lightBox');">TELL A FRIEND</a>
+    </div>
+
+    <!-- page buttons style end -->
+    
+    <div class="clearer"></div>
+</div>
+<div class="rightColumn">
+	rightColumn
+</div>
+<div class="clearer"></div>
+    
+      
+
+
+</asp:Content>

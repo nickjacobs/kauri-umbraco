@@ -1,0 +1,1 @@
+tinyMCE.addToLang("",{insert_advhr_desc:"В�?тавити / редагувати горизонтальний роздільник",insert_advhr_width:"Ширина",insert_advhr_size:"Ви�?ота",insert_advhr_noshade:"Без тіні"});

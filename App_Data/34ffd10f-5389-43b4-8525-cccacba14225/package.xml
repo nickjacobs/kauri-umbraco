@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>insertFlash.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>insertFlash.xslt</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>Insert flash</name>
+      <version>1.0.4</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://our.umbraco.org/projects/insert-flash</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Tea Solutions</name>
+      <website>http://www.teasolutions.dk</website>
+    </author>
+    <readme><![CDATA[]]></readme>
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros>
+    <macro>
+      <name>Insert flash</name>
+      <alias>InsertFlash</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>insertFlash.xslt</xslt>
+      <useInEditor>True</useInEditor>
+      <refreshRate>0</refreshRate>
+      <properties>
+        <property name="Flash file" alias="mediaFile" show="True" propertyType="mediaCurrent" />
+        <property name="Url to file" alias="fileURL" show="True" propertyType="text" />
+        <property name="Width" alias="flashWidth" show="True" propertyType="text" />
+        <property name="Height" alias="flashHeight" show="True" propertyType="text" />
+        <property name="Css id" alias="cssId" show="True" propertyType="text" />
+        <property name="Url Parameters" alias="urlParameters" show="True" propertyType="text" />
+      </properties>
+    </macro>
+  </Macros>
+  <DictionaryItems />
+  <Languages />
+  <DataTypes />
+</umbPackage>

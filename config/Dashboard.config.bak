@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dashBoard>
+  <!--
+	<section>
+	<areas>
+		<area>default</area>
+		<area>content</area>
+	</areas>
+
+	<tab caption="Last Edits">
+		<control>/usercontrols/dashboard/latestEdits.ascx</control>
+	</tab>
+	<tab caption="Latest Items">
+		<control>/usercontrols/dashboard/newestItems.ascx</control>
+	</tab>
+	<tab caption="Create blog post">
+		<control>/usercontrols/umbracoBlog/dashboardBlogPostCreate.ascx</control>
+	</tab>
+</section>
+-->
+  <section>
+    <areas>
+      <area>default</area>
+      <area>content</area>
+    </areas>
+    <tab caption="Download Log">
+      <control>/usercontrols/dashboards/ListDownloads.ascx</control>
+    </tab>
+    <tab caption="Subscription Log">
+      <control>/usercontrols/dashboards/ListSubscriptions.ascx</control>
+    </tab>
+  </section>
+  <section alias="DesktopMediaUploader">
+    <areas>
+      <area>media</area>
+    </areas>
+    <tab caption="Desktop Media Uploader">
+      <control>/umbraco/plugins/theoutfield/desktopmediauploader/dashboard.ascx</control>
+    </tab>
+  </section>
+</dashBoard>

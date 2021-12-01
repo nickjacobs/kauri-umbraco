@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>BlogArchive.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>BlogArchive.xslt</orgName>
+    </file>
+    <file>
+      <guid>BlogListPosts.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>BlogListPosts.xslt</orgName>
+    </file>
+    <file>
+      <guid>BlogPostDetail.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>BlogPostDetail.xslt</orgName>
+    </file>
+    <file>
+      <guid>BlogPostListComments.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>BlogPostListComments.xslt</orgName>
+    </file>
+    <file>
+      <guid>BlogRss.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>BlogRss.xslt</orgName>
+    </file>
+    <file>
+      <guid>BlogSearch.ascx</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>BlogSearch.ascx</orgName>
+    </file>
+    <file>
+      <guid>BlogSearchResults.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>BlogSearchResults.xslt</orgName>
+    </file>
+    <file>
+      <guid>BlogSubscribe.ascx</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>BlogSubscribe.ascx</orgName>
+    </file>
+    <file>
+      <guid>BlogTags.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>BlogTags.xslt</orgName>
+    </file>
+    <file>
+      <guid>frmBlogComment.ascx</guid>
+      <orgPath>/usercontrols</orgPath>
+      <orgName>frmBlogComment.ascx</orgName>
+    </file>
+    <file>
+      <guid>Umlaut.Umb.Blog.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>Umlaut.Umb.Blog.dll</orgName>
+    </file>
+    <file>
+      <guid>BlogCommentReply.ashx</guid>
+      <orgPath>/handlers</orgPath>
+      <orgName>BlogCommentReply.ashx</orgName>
+    </file>
+    <file>
+      <guid>BlogForwardHandler.ashx</guid>
+      <orgPath>/handlers</orgPath>
+      <orgName>BlogForwardHandler.ashx</orgName>
+    </file>
+    <file>
+      <guid>BlogSubscriptionHandler.ashx</guid>
+      <orgPath>/handlers</orgPath>
+      <orgName>BlogSubscriptionHandler.ashx</orgName>
+    </file>
+    <file>
+      <guid>Tag.gif</guid>
+      <orgPath>/umbraco/images/umbraco</orgPath>
+      <orgName>Tag.gif</orgName>
+    </file>
+    <file>
+      <guid>Tag.png</guid>
+      <orgPath>/umbraco/images/thumbnails</orgPath>
+      <orgName>Tag.png</orgName>
+    </file>
+    <file>
+      <guid>Unsubscribe.master.cs</guid>
+      <orgPath>/masterpages</orgPath>
+      <orgName>Unsubscribe.master.cs</orgName>
+    </file>
+    <file>
+      <guid>BlogSearch.ascx.cs</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>BlogSearch.ascx.cs</orgName>
+    </file>
+    <file>
+      <guid>BlogSubscribe.ascx.cs</guid>
+      <orgPath>/usercontrols/website</orgPath>
+      <orgName>BlogSubscribe.ascx.cs</orgName>
+    </file>
+    <file>
+      <guid>defaultvalidator.js</guid>
+      <orgPath>/resources/javascript</orgPath>
+      <orgName>defaultvalidator.js</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>BKA Blog 5</name>
+      <version>5.0</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://www.bka.co.nz/</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>BKA Development Team</name>
+      <website>http://www.bka.co.nz/</website>
+    </author>
+    <readme><![CDATA[]]></readme>
+  </info>
+  <DocumentTypes>
+    <DocumentType>
+      <Info>
+        <Name>Blog</Name>
+        <Alias>Blog</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates>
+          <Template>Blog</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>BlogAuthorContainer</DocumentType>
+        <DocumentType>BlogPost</DocumentType>
+        <DocumentType>BlogTagContainer</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Blog name</Name>
+          <Alias>blogName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Blog description</Name>
+          <Alias>blogDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>SEO Title</Name>
+          <Alias>SEOTitle</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Administrator Email</Name>
+          <Alias>AdminEmail</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Comments Require Approval?</Name>
+          <Alias>IsCommentApprovalRequired</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Commenting</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Send Comment Update Emails</Name>
+          <Alias>SendCommentUpdateEmails</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If true, an email will be sent out to everyone who has commented in a blog when a new comment is posted.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Enable Twitter Integration</Name>
+          <Alias>EnableTwitterIntegration</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Twitter</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Twitter Source Name</Name>
+          <Alias>TwitterSourceName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Twitter</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Comment Success Message</Name>
+          <Alias>CommentSuccessMessage</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Commenting</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Comment Email Subject (To Admin)</Name>
+          <Alias>CommentEmailSubject</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Commenting</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Comment Email Body (To Admin)</Name>
+          <Alias>CommentEmailBody</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Commenting</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>60</Id>
+          <Caption>Settings</Caption>
+        </Tab>
+        <Tab>
+          <Id>61</Id>
+          <Caption>Commenting</Caption>
+        </Tab>
+        <Tab>
+          <Id>62</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+        <Tab>
+          <Id>63</Id>
+          <Caption>Twitter</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>BlogAuthor</Name>
+        <Alias>BlogAuthor</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>BlogAuthorContainer</Name>
+        <Alias>BlogAuthorContainer</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>BlogAuthor</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>BlogPost</Name>
+        <Alias>BlogPost</Alias>
+        <Icon>doc.gif</Icon>
+        <Thumbnail>doc.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates>
+          <Template>BlogPost</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>BlogPost</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>BlogPostComment</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Date</Name>
+          <Alias>Date</Alias>
+          <Type>b6fb1622-afa5-4bbf-a3cc-d9672a442222</Type>
+          <Definition>e4d66c0f-b935-4200-81f0-025f7256b89a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>SEO Title</Name>
+          <Alias>SEOTitle</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Keywords</Name>
+          <Alias>metaKeywords</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Meta Description</Name>
+          <Alias>metaDescription</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Meta</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Author</Name>
+          <Alias>Author</Alias>
+          <Type>cdbf0b5d-5cb2-445f-bc12-fcaaec07cf2c</Type>
+          <Definition>500d49a4-41dd-42a6-bd8b-0a07b9b3c26f</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Intro Text</Name>
+          <Alias>IntroText</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Image</Name>
+          <Alias>Image</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Content</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>37485552-b83f-4494-abed-05151b79d8be</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Tags</Name>
+          <Alias>Tags</Alias>
+          <Type>c2d6894b-e788-4425-bcf2-308568e3d38b</Type>
+          <Definition>2ffba301-5e53-4e06-bf7b-9415cafcc86c</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Views</Name>
+          <Alias>NumViews</Alias>
+          <Type>6c738306-4c17-4d88-b9bd-6546f3771597</Type>
+          <Definition>f0bc4bfb-b499-40d6-ba86-058885a5178c</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Send Emails On Update</Name>
+          <Alias>SendEmailsOnUpdate</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[When you save & publish, it will send an email update to subscribers.]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>64</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>65</Id>
+          <Caption>Meta</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>BlogPostComment</Name>
+        <Alias>BlogPostComment</Alias>
+        <Icon>.sprTreeMember</Icon>
+        <Thumbnail>member.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Name</Name>
+          <Alias>name</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Comment</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email</Name>
+          <Alias>email</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Comment</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Comment</Name>
+          <Alias>comment</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Comment</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Approved</Name>
+          <Alias>IsApproved</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Comment</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Is Author Response</Name>
+          <Alias>IsAuthorResponse</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Comment</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>66</Id>
+          <Caption>Comment</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>BlogTag</Name>
+        <Alias>BlogTag</Alias>
+        <Icon>Tag.gif</Icon>
+        <Thumbnail>Tag.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>BlogTagContainer</Name>
+        <Alias>BlogTagContainer</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>BlogTag</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>DateFolder</Name>
+        <Alias>DateFolder</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+  </DocumentTypes>
+  <Templates>
+    <Template>
+      <Name>Blog</Name>
+      <Alias>Blog</Alias>
+      <Master>BKA_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="HeadContent" runat="server">
+	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="leftColumn">
+    </div>
+    <div class="centerColumn">
+        <umbraco:Macro ID="Macro1" Alias="BlogListPosts" runat="server"></umbraco:Macro>
+        <umbraco:Macro ID="Macro2" Alias="BlogArchive" runat="server"></umbraco:Macro>
+        <umbraco:Macro ID="Macro3" Alias="BlogTags" runat="server"></umbraco:Macro>
+        <umbraco:Macro ID="Macro4" Alias="BlogSearch" runat="server"></umbraco:Macro>
+    </div>
+    <div class="rightColumn">
+    </div>
+    <div class="clearer"></div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>BlogPost</Name>
+      <Alias>BlogPost</Alias>
+      <Master>BKA_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="HeadContent" runat="server">
+	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="leftColumn">
+    </div>
+    <div class="centerColumn">
+        <umbraco:Macro ID="Macro1" Alias="BlogPostDetail" runat="server"></umbraco:Macro>
+
+        <h3>Comments</h3>
+        <umbraco:Macro ID="Macro2" Alias="frmBlogComment" runat="server" BlogFolderID="1331"></umbraco:Macro>
+
+        <umbraco:Macro ID="Macro3" Alias="BlogPostListComments" runat="server"></umbraco:Macro>
+    </div>
+    <div class="rightColumn">
+        <umbraco:Macro ID="Macro4" Alias="BlogArchive" runat="server"></umbraco:Macro>
+    </div>
+    <div class="clearer"></div>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>BlogRSS (only called with template alias)</Name>
+      <Alias>BlogRSS</Alias>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server"><umbraco:Macro ID="Macro1" Alias="BlogRss" runat="server"></umbraco:Macro>
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>BlogSearchResults (only called with template alias)</Name>
+      <Alias>blogsearchresults</Alias>
+      <Master>BKA_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="HeadContent" runat="server">
+	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+	<umbraco:Macro ID="Macro7" Alias="BlogSearchResults" runat="server"></umbraco:Macro>
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Unsubscribe</Name>
+      <Alias>Unsubscribe</Alias>
+      <Master>BKA_Master</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="/masterpages/BKA_Master.master" AutoEventWireup="true" Inherits="masterpages_Unsubscribe" CodeFile="~/masterpages/Unsubscribe.master.cs" %>
+
+<asp:content ContentPlaceHolderId="HeadContent" runat="server">
+	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div id="contentContainer">
+        <!-- InstanceBeginEditable name="Content" -->
+        <div id="mainContentWrapper">
+            <div class="topSliver">&nbsp;</div>
+            <div id="mainContent">
+                <div class="contentHeader shortContentHeader">
+                    <h3>Unsubscribe</h3>
+                </div>
+                <div class="contentLeft">
+                    <asp:literal ID="litContent" runat="server"></asp:literal>
+                </div>
+                <div class="contentRight">
+                    <umbraco:Macro ID="Macro4" Alias="BlogLatestPosts" runat="server"></umbraco:Macro>
+                    <umbraco:Macro ID="Macro5" Alias="BlogTags" runat="server"></umbraco:Macro>
+                    <umbraco:Macro ID="Macro6" Alias="BlogArchive" runat="server"></umbraco:Macro>
+                    <umbraco:Macro ID="Macro9" Alias="BlogSocial" runat="server"></umbraco:Macro>
+                </div>
+                <div class="clearer">&nbsp;</div>
+                <div id="pageLinks">
+                    <a href="#" class="topLink">Top of Page</a>
+                    <div class="clearer">&nbsp;</div>
+                </div>
+            </div>
+            <div class="bottomSliver">
+            </div>
+            <div class="clearer">&nbsp;</div>
+        </div>
+        <!-- InstanceEndEditable -->
+        <div class="clearer">&nbsp;</div>
+    </div>
+    <div class="clearer">&nbsp;</div>
+    <umbraco:Macro ID="Macro3" Alias="Footer" runat="server"></umbraco:Macro>
+</asp:content>]]></Design>
+    </Template>
+  </Templates>
+  <Stylesheets />
+  <Macros>
+    <macro>
+      <name>Blog Archive</name>
+      <alias>BlogArchive</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>BlogArchive.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog List Posts</name>
+      <alias>BlogListPosts</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>BlogListPosts.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Post Detail</name>
+      <alias>BlogPostDetail</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>BlogPostDetail.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Post List Comments</name>
+      <alias>BlogPostListComments</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>BlogPostListComments.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Rss</name>
+      <alias>BlogRss</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>BlogRss.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Search</name>
+      <alias>BlogSearch</alias>
+      <scriptType>/usercontrols/website/BlogSearch.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Search Results</name>
+      <alias>BlogSearchResults</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>BlogSearchResults.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Subscribe</name>
+      <alias>BlogSubscribe</alias>
+      <scriptType>/usercontrols/website/BlogSubscribe.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Tags</name>
+      <alias>BlogTags</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>BlogTags.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>frmBlogComment</name>
+      <alias>frmBlogComment</alias>
+      <scriptType>/usercontrols/frmBlogComment.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="BlogFolderID" alias="BlogFolderID" show="False" propertyType="number" />
+      </properties>
+    </macro>
+  </Macros>
+  <DictionaryItems />
+  <Languages />
+  <DataTypes>
+    <DataType Name="Blog Author Picker" Id="cdbf0b5d-5cb2-445f-bc12-fcaaec07cf2c" Definition="500d49a4-41dd-42a6-bd8b-0a07b9b3c26f">
+      <PreValues>
+        <PreValue Id="52" Value="DropDownList|1264||False" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Multiple Blog Tag Picker" Id="c2d6894b-e788-4425-bcf2-308568e3d38b" Definition="2ffba301-5e53-4e06-bf7b-9415cafcc86c">
+      <PreValues>
+        <PreValue Id="45" Value="content" />
+        <PreValue Id="46" Value="" />
+        <PreValue Id="47" Value="-1" />
+        <PreValue Id="48" Value="True" />
+        <PreValue Id="49" Value="1" />
+        <PreValue Id="50" Value="0" />
+        <PreValue Id="51" Value="1265" />
+        <PreValue Id="34" Value="False" />
+      </PreValues>
+    </DataType>
+  </DataTypes>
+</umbPackage>

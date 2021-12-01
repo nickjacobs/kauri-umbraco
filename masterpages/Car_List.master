@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="BKA_MasterContentPlaceHolder" runat="server">
+<%@ Master Language="C#" MasterPageFile="/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:content ID="Content1" ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="leftColumn">
+        <!-- XSLT Macro - Sub Navi -->
+        <umbraco:Macro ID="Macro2" Alias="Alias_Make_List" runat="server"></umbraco:Macro>
+
+    </div>
+
+    <div class="centerColumn">
+        <umbraco:Item ID="Item2" field="bodyText" runat="server"></umbraco:Item>       
+        <umbraco:Item field="Alias_Name" runat="server"></umbraco:Item>
+        <umbraco:Item field="Alias_Color" runat="server"></umbraco:Item>  
+        <umbraco:Item field="Alias_Year" runat="server"></umbraco:Item>
+        <!-- page buttons style start -->
+                
+        <div class="pageButtons">
+            <a class="backButton" href="JavaScript:history.go(-1)">Back</a>
+            <a class="topButton" href="#">Top</a>
+            <a class="printButton" href="javascript: window.print()">Print</a>
+            <a class="tellAFriendButton" href="#tellFriend" onclick="showLBMain('lightBox');">TELL A FRIEND</a>
+        </div>
+
+        <!-- page buttons style end -->
+        <div class="clearer"></div>
+    </div>
+
+    <div class="rightColumn">
+
+    </div>
+    <div class="clearer"></div>
+</asp:content>
+</asp:Content>

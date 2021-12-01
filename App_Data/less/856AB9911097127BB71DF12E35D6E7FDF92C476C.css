@@ -1,0 +1,419 @@
+.fontReset {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+}
+.interSiteNav {
+  background-color: #58595B;
+  border-top: 1px solid #1E1F20;
+  text-align: left;
+  height: 29px;
+}
+.interSiteNav .interSiteLogo {
+  float: left;
+  margin: 2px 31px 0px 8px;
+}
+.interSiteNav a {
+  line-height: 120%;
+  color: #B5AB96;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 7px 30px 7px 0px;
+  display: inline-block;
+}
+.interSiteNav a:hover, .interSiteNav a.active {
+  color: #F1EEEA;
+}
+.bgContainer {
+  background: url(../images/ui/bgContainer.jpg) 0 0 repeat;
+}
+.bgGradient {
+  background: url(../images/ui/bgGradient.png) 0 0 repeat-x;
+}
+.contentContainer {
+  width: 980px;
+  margin: 0 auto;
+}
+.nav {
+  padding-top: 36px;
+  padding-bottom: 38px;
+  overflow: auto;
+}
+.nav a.homelink {
+  display: block;
+  background: url(../images/ui/homeLinkLogo.jpg) 0 0 no-repeat;
+  width: 233px;
+  height: 102px;
+  text-indent: -9999999px;
+  margin-left: 53px;
+  margin-right: 42px;
+  margin-top: 0;
+  padding-right: 44px;
+  border-right: 1px solid #D1C8BB;
+  float: left;
+}
+.nav a {
+  color: #58595A;
+  font-family: avgr, arial, sans-serif;
+  font-size: 14px;
+  line-height: 120%;
+  text-decoration: none;
+  float: left;
+  margin-top: 71px;
+  margin-right: 40px;
+}
+.ie6 .nav a  {
+  margin-right: 35px;
+}
+.nav a:hover, .nav a.active {
+  color: #C5A0A5;
+}
+.content {
+  overflow: visible;
+  background: #FFF;
+  padding-top: 39px;
+  width: 960px;
+  margin: 0 auto;
+}
+.content.nobg {
+  background: none;
+  border-top: 1px solid #F1EEEA;
+}
+.footerOverlay {
+  background: url(../images/ui/bgFooterOverlay.png) 0 0 repeat;
+}
+.footer {
+  width: 960px;
+  margin: 0 auto;
+  overflow: auto;
+  padding-bottom: 35px;
+}
+.footer .top {
+  overflow: auto;
+  padding-top: 41px;
+}
+.footer .top p {
+  font-family: avgr, arial, sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+  float: left;
+  margin-left: 41px;
+}
+.footer .top p.contact {
+  font-family: avgr, arial, sans-serif;
+  font-size: 14px;
+  padding-top: 1px;
+  line-height: 24px;
+  color: #784148;
+  float: left;
+  margin-left: 182px;
+}
+.footer .top p.contact a {
+  color: #784148;
+  text-decoration: underline;
+}
+.footer .top p.contact a:hover {
+  color: #fff;
+}
+.footer .column {
+  width: 241px;
+  border-left: 1px dashed #784249;
+  float: left;
+  padding: 12px 39px 22px 39px;
+  margin-top: 15px;
+}
+.footer .column.last {
+  border-right: 1px dashed #784249;
+  padding-right: 38px;
+}
+.footer .column a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #FFFFFF;
+  padding-left: 6px;
+  background: url(../images/ui/footerLinkBullet.gif) 0 5px no-repeat;
+  display: block;
+  text-align: left;
+  margin-bottom: 3px;
+}
+.footer .column a:hover {
+  color: #784148;
+}
+.footerDetails {
+  width: 960px;
+  margin: 0 auto;
+  height: 100px;
+  padding-top: 25px;
+}
+.footerDetails p {
+  margin-left: 41px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #FFFFFF;
+}
+.footerDetails p a {
+  margin-left: 22px;
+  color: #FFFFFF;
+}
+.footerDetails p a:hover {
+  color: black;
+}
+/*==== Columns ====*/
+.col570 {
+  width: 570px;
+  padding-left: 40px;
+  padding-right: 50px;
+  float: left;
+}
+.ie6 .col570  {
+  padding-right: 40px;
+}
+.col570 .testimonialLeft {
+  margin-left: -51px;
+  height: 70px;
+  background: url(../images/ui/bgTestimonialLeft.png) 0 0 no-repeat;
+  padding: 25px 50px 25px 54px;
+  width: 522px;
+}
+.col570 .testimonialLeft p.quote {
+  font-family: amzr, arial, sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFF;
+  margin-bottom: 2px;
+}
+.col570 .testimonialLeft p.referee {
+  font-size: 12px;
+  font-family: arial, sans-serif;
+  letter-spacing: -0.02em;
+}
+.col260 {
+  width: 260px;
+  padding-right: 40px;
+  float: left;
+}
+/*=== Home Page ===*/
+.homeBanner {
+  clear: both;
+  background: url(../images/ui/bgHomeBanner.jpg) 0 0 repeat-x;
+  height: 476px;
+  width: 968px;
+  margin: 0px auto 0 auto;
+  text-align: left;
+}
+.homeBanner .homeBannerImg {
+  margin-top: 4px;
+  margin-left: 4px;
+  height: 421px;
+  width: 919px;
+  padding: 51px 0px 0px 41px;
+}
+.homeBanner h1 {
+  font-family: oxtmed, georgia, serif;
+  font-size: 42px;
+  color: #585959;
+  line-height: 44px;
+  letter-spacing: -0.02em;
+  width: 570px;
+  margin-bottom: 22px;
+}
+.homeBanner a {
+  background: url(../images/ui/btnOurWeddingServices.jpg) 0 0 no-repeat;
+  display: block;
+  height: 60px;
+  width: 269px;
+  text-indent: -9999999px;
+}
+.homeBanner a:hover {
+  background-position: 0 -60px;
+}
+.homeLinks {
+  width: 590px;
+  margin-top: 48px;
+  margin-bottom: 38px;
+  overflow: auto;
+}
+.ie6 .homeLinks  {
+  width: 580px;
+}
+.homeLinks a {
+  display: block;
+  width: 158px;
+  float: left;
+  margin-right: 15px;
+  font-family: avgr, arial, sans-serif;
+  font-size: 14px;
+  color: #A9767E;
+  padding: 0px 10px 8px 12px;
+  background: url(../images/ui/bgHomelink.jpg) 0 102px no-repeat #f1eee9;
+}
+.homeLinks a.last {
+  margin-right: 0;
+}
+.ie6 .homeLinks a  {
+  padding-right: 0px;
+}
+.homeLinks a img {
+  margin-left: -12px;
+  margin-bottom: 8px;
+}
+.homeLinks a:hover {
+  background-position: 0 135px;
+}
+.homeSpecialise p {
+  font-family: avgr, arial, sans-serif;
+  font-size: 14px;
+  color: #333333;
+  line-height: 18px;
+}
+.homeSpecialise a {
+  font-family: avgr, arial, sans-serif;
+  font-size: 14px;
+  color: #A9767E;
+  line-height: 18px;
+  text-decoration: underline;
+}
+.homeSpecialise a:hover {
+  color: #58595B;
+}
+.blogListItem {
+  border-bottom: 1px dotted #B9AB97;
+  padding-bottom: 4px;
+  margin-bottom: 30px;
+}
+.blogListItem a.title {
+  font-family: avgr, arial, sans-serif;
+  font-size: 18px;
+  color: #A9767E;
+  line-height: 18px;
+  margin-bottom: 5px;
+  text-align: left;
+}
+.blogListItem a.title:hover {
+  text-decoration: underline;
+  color: #58595B;
+}
+.blogListItem p.author {
+  font-size: 11px;
+  color: #C5A0A5;
+  margin-bottom: 0px;
+}
+.blogListItem p.author a {
+  color: #C5A0A5;
+}
+.blogListItem p.author a:hover {
+  color: #58595B;
+  text-decoration: underline;
+}
+.blogListItem p.synopsis {
+  font-size: 12px;
+  color: #666666;
+  line-height: 22px;
+  margin-bottom: 9px;
+}
+.blogListItem p.synopsis a {
+  color: #A9767E;
+  text-decoration: underline;
+}
+.blogListItem p.synopsis a:hover {
+  color: #58595B;
+}
+.promoBanner {
+  display: block;
+  width: 260px;
+  position: relative;
+}
+.promoBanner p.top {
+  font-family: avgr, arial, sans-serif;
+  font-size: 18px;
+  color: #FFF;
+  background: #B9AB97;
+  padding: 11px 10px 11px 22px;
+  margin-bottom: 0;
+}
+.promoBanner span.bottom {
+  display: block;
+  width: 137px;
+  height: 33px;
+  background: url(../images/ui/btnLearnMore.jpg) 0 0 no-repeat;
+  text-indent: -9999999px;
+  position: absolute;
+  bottom: 23px;
+}
+.promoBanner:hover span.bottom {
+  background-position: 0 -33px;
+}
+.socialLinks {
+  margin-top: 32px;
+  margin-bottom: 63px;
+  overflow: auto;
+}
+.ie .socialLinks  {
+  margin-bottom: 13px;
+}
+.socialLinks p {
+  font-family: oxtmedital, arial, sans-serif;
+  font-size: 24px;
+  line-height: 22px;
+  letter-spacing: -0.02em;
+  color: #90918B;
+  margin-bottom: 10px;
+  margin-left: 2px;
+}
+.socialLinks a.facebook {
+  float: left;
+  margin-right: 35px;
+  display: block;
+  height: 37px;
+  width: 120px;
+  text-indent: -9999999px;
+  background: url(../images/ui/btnFacebook120.jpg) 0 0 no-repeat;
+}
+.socialLinks a.facebook:hover {
+  background-position: 0 -37px;
+}
+.socialLinks a.twitter {
+  float: left;
+  display: block;
+  height: 37px;
+  width: 105px;
+  text-indent: -9999999px;
+  background: url(../images/ui/btnTwitter105.jpg) 0 0 no-repeat;
+}
+.socialLinks a.twitter:hover {
+  background-position: 0 -37px;
+}
+/*==== SERVICES ====*/
+.servicesTiles {
+  overflow: auto;
+}
+.servicesTiles a {
+  display: block;
+  width: 216px;
+  height: 184px;
+  float: left;
+  margin-right: 13px;
+  margin-bottom: 13px;
+  font-family: avgr, arial, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: #FFFFFF;
+  padding: 0px 0px 8px 14px;
+  background: url(../images/ui/bgServicesOverviewTile.jpg) 0 142px no-repeat #f1eee9;
+}
+.servicesTiles a.last {
+  margin-right: 0;
+}
+.ie6 .servicesTiles a  {
+  padding-right: 0px;
+}
+.servicesTiles a img {
+  margin-left: -14px;
+  margin-bottom: 5px;
+}
+.servicesTiles a:hover {
+  background-position: 0 92px;
+}

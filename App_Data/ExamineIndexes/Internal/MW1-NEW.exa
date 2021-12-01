@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <EXAFields>Name</EXAFields>
+    </key>
+    <value>
+      <string>MW1-NEW</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>Created</EXAFields>
+    </key>
+    <value>
+      <string>2011-11-22 10:34:09.233</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>Updated</EXAFields>
+    </key>
+    <value>
+      <string>2012-03-07 19:53:14.983</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>IsMaster</EXAFields>
+    </key>
+    <value>
+      <string>True</string>
+    </value>
+  </item>
+</dictionary>

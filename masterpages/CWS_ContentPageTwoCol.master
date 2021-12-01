@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="BKA_MasterContentPlaceHolder" runat="server">
+<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="BKA_MasterContentPlaceHolder" runat="server">
+<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="headerLinksContent" runat="server">
+    <!-- XSLT Macro - Email A Friend Link -->
+    <umbraco:Macro Alias="CWS_EmailAFriendLink" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="SideBarContent" runat="server">
+    <!-- XSLT Macro - Sub Navi -->
+    <umbraco:Macro Alias="CWS_SubNavi" runat="server"></umbraco:Macro>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+
+    <div class="content twoColWide left clearfix">    
+                    
+        <div class="col_1 left">
+            <h2 class="flashHeader">
+                <strong><umbraco:Item field="pageName" runat="server"></umbraco:Item>.</strong>
+                <umbraco:Item field="headerText" stripParagraph="true" runat="server"></umbraco:Item>
+            </h2>
+            
+            <!-- Nested two columns -->                    
+            <div class="nestedTwoCol">
+                <div class="col_1 left">                    
+			        <!-- XSLT Macro - Display Article Image -->
+                    <umbraco:Macro Alias="CWS_DisplayArticleImage" propertyAlias="articlePhotoColOne" altText="Warren Buckley, the brains behind the CWS package." runat="server"></umbraco:Macro>
+                    <umbraco:Item field="bodyTextColOne" runat="server"></umbraco:Item>
+                </div>
+            
+                <div class="col_2 left">                                      
+			        <!-- XSLT Macro - Display Article Image -->
+                    <umbraco:Macro Alias="CWS_DisplayArticleImage" propertyAlias="articlePhotoColTwo" altText="Sam Grady, is the designer for the CWS project." runat="server"></umbraco:Macro>
+                    <umbraco:Item field="bodyTextColTwo" runat="server"></umbraco:Item>
+                </div>
+            </div>  
+        </div>
+                          
+    </div>
+</asp:content>
+</asp:Content>
+
+</asp:Content>

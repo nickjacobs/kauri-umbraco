@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" MasterPageFile="/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+ <script type="text/javascript" src="/resources/javascript/jquery.easyModal.min.js"></script>
+ <%--<script type="text/javascript" src="/resources/javascript/jquery.placeholder.min.js"></script>--%>
+<div class="content homePadding clearfix">
+		<umbraco:Macro ID="Macro3" Alias="[XSLT]HomepageGallery" runat="server"></umbraco:Macro>      
+		<div class="homeColumns">
+			<div class="col w220">
+				<umbraco:Macro ID="Macro2" Alias="[XSLT]HomePublicationList" runat="server"></umbraco:Macro>
+			</div>
+			<div class="col w220">
+				<h4>Where is it?</h4>
+				<div class="learnMoreMap">
+                    <umbraco:Macro ID="Macro4" Alias="[XSLT]HomepageMapImage" runat="server"></umbraco:Macro>					
+				</div>
+			</div>
+			<div class="col w220">				
+                 <umbraco:Macro ID="Macro6" Alias="[XSLT]HomeEventListing" runat="server"></umbraco:Macro>
+			</div>
+			<div class="col w220 quickLinks">
+            <umbraco:Macro ID="Macro1" Alias="[XSLT]ListQuickLinks" runat="server"></umbraco:Macro>
+           </div>
+		</div>
+	</div>
+ <umbraco:Item field="bodyText" runat="server"></umbraco:Item> 
+
+   <umbraco:Macro id="registerForm" Alias="RegisterForm" runat="server" />
+
+</asp:content>

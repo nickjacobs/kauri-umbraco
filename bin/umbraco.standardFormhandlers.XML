@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>umbraco.standardFormhandlers</name>
+    </assembly>
+    <members>
+        <member name="T:umbraco.standardFormhandlers.formMail">
+            <summary>
+            Summary description for Class1.
+            </summary>
+        </member>
+        <member name="M:umbraco.standardFormhandlers.formMail.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:umbraco.standardFormhandlers.formMail"/> class.
+            </summary>
+        </member>
+        <member name="M:umbraco.standardFormhandlers.formMail.Execute(System.Xml.XmlNode)">
+            <summary>
+            Executes the specified formhandler node.
+            </summary>
+            <param name="formhandlerNode">The formhandler node.</param>
+            <returns></returns>
+        </member>
+        <member name="P:umbraco.standardFormhandlers.formMail.redirectID">
+            <summary>
+            Gets the redirect ID.
+            </summary>
+            <value>The redirect ID.</value>
+        </member>
+        <member name="T:umbraco.standardFormhandlers.memberLogoff">
+            <summary>
+            Summary description for memberLogoff.
+            </summary>
+        </member>
+        <member name="M:umbraco.standardFormhandlers.memberLogoff.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:umbraco.standardFormhandlers.memberLogoff"/> class.
+            </summary>
+        </member>
+        <member name="M:umbraco.standardFormhandlers.memberLogoff.Execute(System.Xml.XmlNode)">
+            <summary>
+            Executes the specified formhandler node.
+            </summary>
+            <param name="formhandlerNode">The formhandler node.</param>
+            <returns></returns>
+        </member>
+        <member name="P:umbraco.standardFormhandlers.memberLogoff.redirectID">
+            <summary>
+            Gets the redirect ID.
+            </summary>
+            <value>The redirect ID.</value>
+        </member>
+        <member name="T:umbraco.standardFormhandlers.validateLogin">
+            <summary>
+            Summary description for validateLogin.
+            </summary>
+        </member>
+        <member name="M:umbraco.standardFormhandlers.validateLogin.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:umbraco.standardFormhandlers.validateLogin"/> class.
+            </summary>
+        </member>
+        <member name="M:umbraco.standardFormhandlers.validateLogin.Execute(System.Xml.XmlNode)">
+            <summary>
+            Executes the specified formhandler node.
+            </summary>
+            <param name="formhandlerNode">The formhandler node.</param>
+            <returns></returns>
+        </member>
+        <member name="P:umbraco.standardFormhandlers.validateLogin.redirectID">
+            <summary>
+            Gets the redirect ID.
+            </summary>
+            <value>The redirect ID.</value>
+        </member>
+    </members>
+</doc>

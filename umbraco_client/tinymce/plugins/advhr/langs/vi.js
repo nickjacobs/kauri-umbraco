@@ -1,0 +1,1 @@
+tinyMCE.addToLang("",{insert_advhr_desc:"�?ư�?ng thẳng ngang",insert_advhr_width:"�?ộ rộng",insert_advhr_size:"Chi�?u cao",insert_advhr_noshade:"Không có bóng đổ"});

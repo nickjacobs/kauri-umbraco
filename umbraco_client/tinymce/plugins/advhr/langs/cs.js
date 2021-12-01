@@ -1,0 +1,1 @@
+tinyMCE.addToLang("",{insert_advhr_desc:"Vložit/editovat vodorovný oddělova�?",insert_advhr_width:"Š�řka",insert_advhr_size:"Výška",insert_advhr_noshade:"Nest�novat"});

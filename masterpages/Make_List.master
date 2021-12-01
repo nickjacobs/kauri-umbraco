@@ -1,0 +1,15 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="BKA_MasterContentPlaceHolder" runat="server">
+<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="HeadContent" runat="server">
+	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+	
+</asp:content>
+
+
+</asp:Content>

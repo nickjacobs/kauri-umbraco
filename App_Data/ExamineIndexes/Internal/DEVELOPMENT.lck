@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <LCKFields>Name</LCKFields>
+    </key>
+    <value>
+      <string>DEVELOPMENT</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <LCKFields>Created</LCKFields>
+    </key>
+    <value>
+      <string>2011-11-22 08:22:19.013</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <LCKFields>Updated</LCKFields>
+    </key>
+    <value>
+      <string>2011-11-22 08:22:19.013</string>
+    </value>
+  </item>
+</dictionary>

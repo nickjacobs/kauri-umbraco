@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" MasterPageFile="/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="HeadContent" runat="server">
+<script language="javascript" type="text/javascript">
+    $(document).ready(function () {
+        if (getParameterByName("id") != null && getParameterByName("id") != "") {
+            goToByScroll(getParameterByName("id"));
+        } 
+    });
+    function goToByScroll(id) {
+        $('html,body').animate({ scrollTop: $("#" + id).offset().top }, 'slow');
+    }    
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+        var regexS = "[\\?&]" + name + "=([^&#]*)";
+        var regex = new RegExp(regexS);
+        var results = regex.exec(window.location.href);
+        if (results == null)
+            return "";
+        else
+            return decodeURIComponent(results[1].replace(/\+/g, " "));
+    }   
+</script>
+</asp:Content>
+<asp:content ID="Content1" ContentPlaceHolderId="ChildContent" runat="server">
+<div class="content clearfix" id="mainContent">
+		<h1><umbraco:Item ID="Item1" field="pageName" stripParagraph="true" runat="server"></umbraco:Item></h1>
+		<div class="col w540 mr60">  
+            <umbraco:Macro ID="Macro2" Alias="[XSLT]PageBuilderBlockList" runat="server"></umbraco:Macro> 
+		</div>
+		<div class="col w300">       
+            <div id="floater" class="floater" >     
+                <div id="menuContainer">       
+                    <umbraco:Macro ID="Macro1" Alias="[XSLT]PageBuilderSubMenu" runat="server"></umbraco:Macro> 			
+                    <umbraco:Macro ID="Macro3" Alias="[XSLT]RightPanelAdverts" runat="server"></umbraco:Macro>
+                </div>
+            </div>
+		</div>
+	</div>     
+</asp:content>

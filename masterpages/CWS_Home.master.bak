@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" MasterPageFile="/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+<div class="content homePadding clearfix">
+		<umbraco:Macro ID="Macro3" Alias="[XSLT]HomepageGallery" runat="server"></umbraco:Macro>      
+		<div class="homeColumns">
+			<div class="col w220">				
+                <umbraco:Macro ID="Macro5" Alias="[XSLT]ListRecentPublications" runat="server"></umbraco:Macro>
+			</div>
+			<div class="col w220">
+				<h4>Where is it?</h4>
+				<div class="learnMoreMap">
+                    <umbraco:Macro ID="Macro4" Alias="[XSLT]HomepageMapImage" runat="server"></umbraco:Macro>					
+				</div>
+			</div>
+			<div class="col w220">				
+                 <umbraco:Macro ID="Macro6" Alias="[XSLT]HomeEventListing" runat="server"></umbraco:Macro>
+			</div>
+			<div class="col w220 quickLinks">
+            <umbraco:Macro ID="Macro1" Alias="[XSLT]ListQuickLinks" runat="server"></umbraco:Macro>
+           </div>
+		</div>
+	</div>
+ <umbraco:Item field="bodyText" runat="server"></umbraco:Item> 
+</asp:content>

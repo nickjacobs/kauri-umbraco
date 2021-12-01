@@ -1,0 +1,3493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logs>
+  <log time="09:23:37" date="03/06/2009">
+    <field alias="name">sdasd dasda</field>
+    <field alias="subject">Test contact form</field>
+    <field alias="email">ben.wicks@bka.co.nz</field>
+    <field alias="message"><![CDATA[Here be a message for you]]></field>
+  </log>
+  <log time="15:28:14" date="06/11/2009">
+    <field alias="name">fsdfds fasdf</field>
+    <field alias="subject">
+    </field>
+    <field alias="email">ben@bka.co.nz</field>
+    <field alias="message"><![CDATA[<html><body>Hello a user of your site has filled in your contact form on [Date] @ [Time]<br/><br/>Name: [Name]<br/>Email: ben@bka.co.nz<br/>Subject: [Subject]<br/>Message: asdfasf</body></html>]]></field>
+  </log>
+  <log time="15:44:26" date="06/11/2009">
+    <field alias="name">dfgdfgdf gsdfgs</field>
+    <field alias="subject">
+    </field>
+    <field alias="email">ben@bka.co.nz</field>
+    <field alias="message"><![CDATA[<html><body>Hello a user of your site has filled in your contact form on [Date] @ [Time]<br/><br/>Name: [Name]<br/>Email: ben@bka.co.nz<br/>Subject: [Subject]<br/>Message: fsadfasdfa</body></html>]]></field>
+  </log>
+  <log time="15:48:02" date="06/11/2009">
+    <field alias="name">dfgdfgdf gsdfgs</field>
+    <field alias="subject">
+    </field>
+    <field alias="email">ben@bka.co.nz</field>
+    <field alias="message"><![CDATA[<html><body>Hello a user of your site has filled in your contact form on [Date] @ [Time]<br/><br/>Name: dfgdfgdf gsdfgs<br/>Email: ben@bka.co.nz<br/>Message: fsadfasdfa</body></html>]]></field>
+  </log>
+  <log time="15:50:00" date="06/11/2009">
+    <field alias="name">dfgdfgdf gsdfgs</field>
+    <field alias="subject">
+    </field>
+    <field alias="email">ben@bka.co.nz</field>
+    <field alias="message"><![CDATA[<html><body>Hello a user of your site has filled in your contact form on 6/11/2009 @ 3:50 p.m.<br/><br/>Name: dfgdfgdf gsdfgs<br/>Email: ben@bka.co.nz<br/>Message: fsadfasdfa</body></html>]]></field>
+  </log>
+  <log time="11:30:19" date="01/11/2011">
+    <field alias="name">Darren McManaway</field>
+    <field alias="email">darren@bka.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:31:34" date="02/11/2011">
+    <field alias="name">Darren McManaway</field>
+    <field alias="email">darren@bka.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:33:48" date="02/11/2011">
+    <field alias="name">Darren McManaway</field>
+    <field alias="email">darren@bka.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:14:15" date="16/11/2011">
+    <field alias="name">Te Arahi Kapea</field>
+    <field alias="email">tearahikapea@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:23:29" date="22/11/2011">
+    <field alias="name">stacey hill</field>
+    <field alias="email">staceloves@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:50:46" date="23/11/2011">
+    <field alias="name">Paula J. Wilson</field>
+    <field alias="email">pwilson@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:20:28" date="29/11/2011">
+    <field alias="name">Kauri Point &amp; Chatswood Volunteer Committee</field>
+    <field alias="email">kpcpcr@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:11:30" date="30/11/2011">
+    <field alias="name">Sue Brookland</field>
+    <field alias="email">rustyandsuenz@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:27:06" date="30/11/2011">
+    <field alias="name">Susan Frankel</field>
+    <field alias="email">sfrankel@fs.fed.us</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:52:17" date="30/11/2011">
+    <field alias="name">4 &amp; 20 tuis</field>
+    <field alias="email">4and20tuis@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:23:39" date="30/11/2011">
+    <field alias="name">Thomas Jung</field>
+    <field alias="email">dr.t.jung@t-online.de</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:50:29" date="02/12/2011">
+    <field alias="name">Mike Paviour</field>
+    <field alias="email">mpaviour@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:59:44" date="03/12/2011">
+    <field alias="name">Lizz</field>
+    <field alias="email">bubbly411@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:01:14" date="06/12/2011">
+    <field alias="name">Frances Olsen</field>
+    <field alias="email">Frances.Olsen@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:39:33" date="08/12/2011">
+    <field alias="name">Jenny Rickett</field>
+    <field alias="email">rickchik@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:09:59" date="10/12/2011">
+    <field alias="name">Tony Wasley</field>
+    <field alias="email">tekauaeomaui@paradise.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:19:35" date="10/12/2011">
+    <field alias="name">Melissa Lujan</field>
+    <field alias="email">mongelong@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:37:51" date="16/12/2011">
+    <field alias="name">Steve Rowlands</field>
+    <field alias="email">steve.rowlands@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:47:53" date="19/12/2011">
+    <field alias="name">Ruth Renner</field>
+    <field alias="email">ruth@diggersvalley.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:22:07" date="20/12/2011">
+    <field alias="name">Anne-Marie Jackson</field>
+    <field alias="email">anne-marie.jackson@otago.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:35:30" date="22/12/2011">
+    <field alias="name">Linda</field>
+    <field alias="email">tubeandfins@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:15:52" date="27/12/2011">
+    <field alias="name">Gerard Mackle</field>
+    <field alias="email">gerard.mackle@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:51:06" date="30/12/2011">
+    <field alias="name">Claudia Duffy</field>
+    <field alias="email">claudia@proguides.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:22:37" date="08/01/2012">
+    <field alias="name">darryl ward</field>
+    <field alias="email">dward@curiousfilm.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:04:51" date="11/01/2012">
+    <field alias="name">George McQuillan</field>
+    <field alias="email">george.mcquillan@ivsltd.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:06:50" date="14/01/2012">
+    <field alias="name">Moana Tane</field>
+    <field alias="email">moanabella@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:19:50" date="31/01/2012">
+    <field alias="name">Rachael N. Heimann</field>
+    <field alias="email">rachael.naomi@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:41:28" date="01/02/2012">
+    <field alias="name">Vicki Sergeant</field>
+    <field alias="email">vickles@paradise.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:21:24" date="01/02/2012">
+    <field alias="name">Phelan Pirrie</field>
+    <field alias="email">phelan@muriwai-environment.org</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:49:46" date="03/02/2012">
+    <field alias="name">Mike Everly</field>
+    <field alias="email">everlmi@mindspring.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:37:49" date="03/02/2012">
+    <field alias="name">Peter Hoey</field>
+    <field alias="email">peter.aotea@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:38:31" date="03/02/2012">
+    <field alias="name">Peter Hoey</field>
+    <field alias="email">peter.aotea@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:29:45" date="10/02/2012">
+    <field alias="name">Terry Lord</field>
+    <field alias="email">lordtp@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:42:51" date="14/02/2012">
+    <field alias="name">Suzanne Pollard</field>
+    <field alias="email">spollard@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:45:20" date="14/02/2012">
+    <field alias="name">Brian Stephenson</field>
+    <field alias="email">brian@bwstephenson.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:39:38" date="17/02/2012">
+    <field alias="name">David Medway</field>
+    <field alias="email">dmedway@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:46:50" date="20/02/2012">
+    <field alias="name">Shelley Heiss-Dunlop</field>
+    <field alias="email">heidun@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:55:42" date="23/02/2012">
+    <field alias="name">Ron Hepworth</field>
+    <field alias="email">heppys@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:15:05" date="24/02/2012">
+    <field alias="name">martin wood</field>
+    <field alias="email">nra@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:44:42" date="27/02/2012">
+    <field alias="name">Koro Carman</field>
+    <field alias="email">koro@footprintswaipoua.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:01:37" date="29/02/2012">
+    <field alias="name">Ian Mitchell</field>
+    <field alias="email">tekauri1@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:40:28" date="07/03/2012">
+    <field alias="name">winiata Tipene</field>
+    <field alias="email">wyntip@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:42:26" date="07/03/2012">
+    <field alias="name">winiata Tipene</field>
+    <field alias="email">wyntip@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:13:28" date="13/03/2012">
+    <field alias="name">Lee Hill</field>
+    <field alias="email">lee.hill@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:33:17" date="14/03/2012">
+    <field alias="name">Amy-Rose</field>
+    <field alias="email">miss_amyrose@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:24:10" date="20/03/2012">
+    <field alias="name">FIKRU BEKELE</field>
+    <field alias="email">FIKRU_BEKELE@YAHOO.COM</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:18:39" date="21/03/2012">
+    <field alias="name">Heidi Dungey</field>
+    <field alias="email">heidi.dungey@scionresearch.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:48:39" date="25/03/2012">
+    <field alias="name">Alejandro E. Lozano</field>
+    <field alias="email">wildadvent@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:37:45" date="26/03/2012">
+    <field alias="name">Lea Zouch</field>
+    <field alias="email">lzouch@slingshot.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:19:48" date="26/03/2012">
+    <field alias="name">peter glen iehu moetara</field>
+    <field alias="email">wairuamtr@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:46:01" date="29/03/2012">
+    <field alias="name">Gabriel Daniels</field>
+    <field alias="email">gabriel@te-ngahere.co.nz.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:25:29" date="11/04/2012">
+    <field alias="name">glen</field>
+    <field alias="email">treeculture@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:24:42" date="11/04/2012">
+    <field alias="name">john hauenstein</field>
+    <field alias="email">johnphd@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:49:38" date="13/04/2012">
+    <field alias="name">Stephanie </field>
+    <field alias="email">jowjones@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:00:33" date="14/04/2012">
+    <field alias="name">Philip Thomas</field>
+    <field alias="email">p.thomas@rbge.org.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:13:32" date="14/04/2012">
+    <field alias="name">Roddy Hapati Pihema</field>
+    <field alias="email">taumatamakuku@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:54:06" date="19/04/2012">
+    <field alias="name">Philip Ascroft</field>
+    <field alias="email">philip.ascroft@chapmantripp.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:31:56" date="26/04/2012">
+    <field alias="name">Leon Critchfield</field>
+    <field alias="email">leon@artwx.com.au</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:20:02" date="08/05/2012">
+    <field alias="name">Andrew Marshall</field>
+    <field alias="email">andrewmarshall20@yahoo.co.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:25:33" date="15/05/2012">
+    <field alias="name">Peter Pieruschka</field>
+    <field alias="email">peter.pieruschka@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:04:08" date="17/05/2012">
+    <field alias="name">Oliver K</field>
+    <field alias="email">pukeko13@ymail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:09:20" date="21/05/2012">
+    <field alias="name">Stuart Barton</field>
+    <field alias="email">stuartb@specimentree.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:07:31" date="24/05/2012">
+    <field alias="name">Jenny Carter</field>
+    <field alias="email">jenny@soarprint.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:07:43" date="01/06/2012">
+    <field alias="name">Keith Salmon</field>
+    <field alias="email">leroysbush@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:45:39" date="05/06/2012">
+    <field alias="name">
+    </field>
+    <field alias="email">liz.clayton@mpi.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:45:39" date="05/06/2012">
+    <field alias="name">
+    </field>
+    <field alias="email">liz.clayton@mpi.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:08:18" date="06/06/2012">
+    <field alias="name">hello my name is ... pretty girl~</field>
+    <field alias="email">godksd@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:00:34" date="06/06/2012">
+    <field alias="name">annie gordon</field>
+    <field alias="email">anniegordon@vodafone.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:50:13" date="12/06/2012">
+    <field alias="name">David Skene-Melvin</field>
+    <field alias="email">davann.melroth@sympatico.ca</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:07:32" date="12/06/2012">
+    <field alias="name">marwan</field>
+    <field alias="email">marwanbashir7@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:10:04" date="22/06/2012">
+    <field alias="name">matua wimutu tewhiu</field>
+    <field alias="email">wimututewhiu@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:59:22" date="24/06/2012">
+    <field alias="name">Keza</field>
+    <field alias="email">kiwikeza@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:27:40" date="24/06/2012">
+    <field alias="name">Amber Ferguson</field>
+    <field alias="email">Pixiefever78@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:41:42" date="24/06/2012">
+    <field alias="name">Wendy Martin</field>
+    <field alias="email">allan.wendymartin@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:46:25" date="25/06/2012">
+    <field alias="name">janetta</field>
+    <field alias="email">jambee1@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:33:01" date="25/06/2012">
+    <field alias="name">Philip Scothern</field>
+    <field alias="email">philip@lifechange.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:15:31" date="26/06/2012">
+    <field alias="name">Cheryl-Dawn Scott</field>
+    <field alias="email">cherylscott49@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:47:04" date="27/06/2012">
+    <field alias="name">Mark Hoyle</field>
+    <field alias="email">markh@akc.quik.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:38:02" date="28/06/2012">
+    <field alias="name">Ken Billot</field>
+    <field alias="email">ken.billot@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:46:57" date="29/06/2012">
+    <field alias="name">Mike Palmer</field>
+    <field alias="email">mike@aieraudio.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:33:24" date="08/07/2012">
+    <field alias="name">Ross Standen</field>
+    <field alias="email">rosstanks@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:54:32" date="15/07/2012">
+    <field alias="name">R Roberts</field>
+    <field alias="email">glenrocknz@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:35:44" date="17/07/2012">
+    <field alias="name">Marina Hetaraka</field>
+    <field alias="email">marina.hetaraka@parliament.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:59:04" date="20/07/2012">
+    <field alias="name">Tod Ramsfield</field>
+    <field alias="email">Tod.Ramsfield@NRCan.gc.ca</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:59:11" date="20/07/2012">
+    <field alias="name">Tod Ramsfield</field>
+    <field alias="email">Tod.Ramsfield@NRCan.gc.ca</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:37:30" date="23/07/2012">
+    <field alias="name">Vanda Karolczak</field>
+    <field alias="email">vanda.karolczak@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:42:28" date="25/07/2012">
+    <field alias="name">Paula</field>
+    <field alias="email">Mrsptkelly@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:58:08" date="25/07/2012">
+    <field alias="name">Greg Presland</field>
+    <field alias="email">gregpresland@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:53:13" date="30/07/2012">
+    <field alias="name">William Simamora</field>
+    <field alias="email">willyraptor@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:50:43" date="30/07/2012">
+    <field alias="name">Amelia</field>
+    <field alias="email">amelia.homs@paradise.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:57:35" date="10/08/2012">
+    <field alias="name">Sophie Allen</field>
+    <field alias="email">sophie@communitywaitakere.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:07:14" date="23/08/2012">
+    <field alias="name">bronwyn mcculloch</field>
+    <field alias="email">bmcculloch@zoo.org.au</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:07:18" date="23/08/2012">
+    <field alias="name">bronwyn mcculloch</field>
+    <field alias="email">bmcculloch@zoo.org.au</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:12:43" date="18/09/2012">
+    <field alias="name">Donald van der Westhuizen</field>
+    <field alias="email">wd.van.der.westhuizen@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:19:20" date="05/10/2012">
+    <field alias="name">Lloyd Hill</field>
+    <field alias="email">lloyd_hohneckskaurigardens@yahoo.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:03:37" date="14/10/2012">
+    <field alias="name">rachel</field>
+    <field alias="email">crrash@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:02:15" date="14/10/2012">
+    <field alias="name">Julie Ophel</field>
+    <field alias="email">julieo@southperth.wa.gov.au</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:23:23" date="14/10/2012">
+    <field alias="name">Julie Ophel</field>
+    <field alias="email">julieo@southperth.wa.gov.au</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:46:29" date="15/10/2012">
+    <field alias="name">Jason </field>
+    <field alias="email">jasongwhite95@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:41:10" date="15/10/2012">
+    <field alias="name">Emma</field>
+    <field alias="email">emma.gregg@gamil.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:59:28" date="18/10/2012">
+    <field alias="name">Murray McAlonan</field>
+    <field alias="email">mcalonanmr@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:13:43" date="03/11/2012">
+    <field alias="name">Travis Poulson </field>
+    <field alias="email">travispoulson@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:54:55" date="04/11/2012">
+    <field alias="name">Anne Gummer</field>
+    <field alias="email">annegummer@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:32:36" date="05/11/2012">
+    <field alias="name">Rachel</field>
+    <field alias="email">rachelji2000@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:56:01" date="05/11/2012">
+    <field alias="name">Fiona</field>
+    <field alias="email">fiona@childfund.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:14:41" date="07/11/2012">
+    <field alias="name">Michaela Kendrick</field>
+    <field alias="email">linda.kendrick21@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:58:43" date="08/11/2012">
+    <field alias="name">Kris Kramer-Walter</field>
+    <field alias="email">kkramerwalter@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:24:48" date="08/11/2012">
+    <field alias="name">Dianne Gleeson</field>
+    <field alias="email">Dianne.Gleeson@canberra.edu.au</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:56:12" date="09/11/2012">
+    <field alias="name">michael packer</field>
+    <field alias="email">michaelauknz@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:39:13" date="15/11/2012">
+    <field alias="name">Jude Gillies</field>
+    <field alias="email">jude.gilliles@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:47:25" date="16/11/2012">
+    <field alias="name">angelique</field>
+    <field alias="email">angelique@ecomatters.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:20:07" date="17/11/2012">
+    <field alias="name">John Edgar</field>
+    <field alias="email">john@johnedgar.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:42:04" date="18/11/2012">
+    <field alias="name">Rachel</field>
+    <field alias="email">Rachelji2000@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:46:27" date="25/11/2012">
+    <field alias="name">Geoff Waller</field>
+    <field alias="email">gandcwaller@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:02:26" date="26/11/2012">
+    <field alias="name">Douglas Booth</field>
+    <field alias="email">ferntrail@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:48:28" date="30/11/2012">
+    <field alias="name">Penelope Resin</field>
+    <field alias="email">michaelakendrick@ani.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:15:53" date="04/12/2012">
+    <field alias="name">Stephen E. Williams</field>
+    <field alias="email">SEWms@uwyo.edu</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:29:22" date="07/12/2012">
+    <field alias="name">Alan Clarkson</field>
+    <field alias="email">Trishal@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:25:22" date="16/12/2012">
+    <field alias="name">Gareth Enticott</field>
+    <field alias="email">enticottg@cardiff.ac.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:32:13" date="17/12/2012">
+    <field alias="name">Neil Wolfgram</field>
+    <field alias="email">neil@wolfgram.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:40:20" date="23/12/2012">
+    <field alias="name">Vivian Han</field>
+    <field alias="email">vhan020@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:09:47" date="06/01/2013">
+    <field alias="name">John Harris</field>
+    <field alias="email">jcharris@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:21:02" date="12/01/2013">
+    <field alias="name">Lloyd and Gleniss Evans</field>
+    <field alias="email">lloydandgleniss@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:03:19" date="12/01/2013">
+    <field alias="name">Jon</field>
+    <field alias="email">jon@baulcomb.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:01:02" date="15/01/2013">
+    <field alias="name">Lyne Pringle</field>
+    <field alias="email">bipeds@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:31:46" date="16/01/2013">
+    <field alias="name">russell ogilvy</field>
+    <field alias="email">nutso@iconz.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:10:04" date="15/02/2013">
+    <field alias="name">David</field>
+    <field alias="email">david.huai@bka.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:12:18" date="15/02/2013">
+    <field alias="name">hannah</field>
+    <field alias="email">hannah@bka.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:34:40" date="18/02/2013">
+    <field alias="name">eliza purves</field>
+    <field alias="email">elizapurr@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:50:30" date="23/02/2013">
+    <field alias="name">Mary Farrell</field>
+    <field alias="email">farrell@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:59:55" date="25/02/2013">
+    <field alias="name">Rob Richards</field>
+    <field alias="email">richardsbrh@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:52:43" date="27/02/2013">
+    <field alias="name">Steve Krebs</field>
+    <field alias="email">steven.krebs@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:37:04" date="27/02/2013">
+    <field alias="name">Jan Solbak</field>
+    <field alias="email">solbak@paradise.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:27:22" date="03/03/2013">
+    <field alias="name">Tom Spratt</field>
+    <field alias="email">tom.spratt@fonterra.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:27:23" date="03/03/2013">
+    <field alias="name">Tom Spratt</field>
+    <field alias="email">tom.spratt@fonterra.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:20:12" date="03/03/2013">
+    <field alias="name">glenn turner</field>
+    <field alias="email">glenn.turner@ivsltd.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:28:14" date="04/03/2013">
+    <field alias="name">Hannah Mitchell</field>
+    <field alias="email">hannah.m.mitchell@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:40:59" date="06/03/2013">
+    <field alias="name">sue hagen</field>
+    <field alias="email">sue.hagen@parliament.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:41:54" date="07/03/2013">
+    <field alias="name">awatea hawke</field>
+    <field alias="email">kahutamaki@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:35:14" date="10/03/2013">
+    <field alias="name">Rene Lander</field>
+    <field alias="email">johnrene@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:21:14" date="20/03/2013">
+    <field alias="name">Cathie-lee Byrne </field>
+    <field alias="email">cathie-leemcp@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:05:50" date="25/03/2013">
+    <field alias="name">Crystal Walker</field>
+    <field alias="email">sweetpeaorganicgardens@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:48:43" date="09/04/2013">
+    <field alias="name">fiona edgar</field>
+    <field alias="email">f.edgar@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:19:56" date="12/04/2013">
+    <field alias="name">Gerry Bishop</field>
+    <field alias="email">gbishop60@comcast.net</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:51:34" date="17/04/2013">
+    <field alias="name">Chris Graves</field>
+    <field alias="email">eliotchristopher@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:56:56" date="19/04/2013">
+    <field alias="name">pip</field>
+    <field alias="email">pip.pehi@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:29:58" date="22/04/2013">
+    <field alias="name">Dr L G Dann</field>
+    <field alias="email">lgd20@btinternet.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:52:27" date="02/05/2013">
+    <field alias="name">Rereata Makiha</field>
+    <field alias="email">ral.makiha@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:56:10" date="05/05/2013">
+    <field alias="name">colleen cullen</field>
+    <field alias="email">colleencullen@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:56:51" date="05/05/2013">
+    <field alias="name">colleen cullen</field>
+    <field alias="email">colleencullen@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:46:50" date="06/05/2013">
+    <field alias="name">Tara Kennon</field>
+    <field alias="email">tarakennon@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:39:25" date="07/05/2013">
+    <field alias="name">Sheree</field>
+    <field alias="email">roy.hill@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:48:49" date="09/05/2013">
+    <field alias="name">Hannah Funke</field>
+    <field alias="email">hannahfunke406@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:34:04" date="13/05/2013">
+    <field alias="name">Fiona Furell</field>
+    <field alias="email">macfu@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:55:42" date="14/05/2013">
+    <field alias="name">Greg Debenham</field>
+    <field alias="email">gdebenham@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:12:13" date="18/05/2013">
+    <field alias="name">Jan Fogg</field>
+    <field alias="email">jan.fogg@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:14:11" date="20/05/2013">
+    <field alias="name">Ian Feasey</field>
+    <field alias="email">ian.mdh@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:21:43" date="21/05/2013">
+    <field alias="name">Rex Croucher</field>
+    <field alias="email">rexlynette@xnet.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:29:15" date="31/05/2013">
+    <field alias="name">joe nowak</field>
+    <field alias="email">railway@callsouth.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:49:21" date="12/06/2013">
+    <field alias="name">Garry Butler</field>
+    <field alias="email">gwjbutler@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:01:22" date="13/06/2013">
+    <field alias="name">Peter Scott</field>
+    <field alias="email">peter.scott@scionresearch.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:32:15" date="14/06/2013">
+    <field alias="name">Cameron Officer</field>
+    <field alias="email">cameronofficer@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:11:45" date="16/06/2013">
+    <field alias="name">Kerry Lyford</field>
+    <field alias="email">kerry@lyford.info</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:09:41" date="01/07/2013">
+    <field alias="name">Cath Wallace</field>
+    <field alias="email">Cath.Wallace@paradise.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:00:39" date="02/07/2013">
+    <field alias="name">Mathew Barnes</field>
+    <field alias="email">mathewb@birkdaleprimary.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:44:25" date="02/07/2013">
+    <field alias="name">roydon james henderson</field>
+    <field alias="email">cpaniora@ruawaicollege.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:19:13" date="03/07/2013">
+    <field alias="name">dicky park</field>
+    <field alias="email">nzdicky48@hanmail.net</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:55:06" date="05/07/2013">
+    <field alias="name">Victoria Ripia</field>
+    <field alias="email">wiki.ripia@kiaaroha.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:24:49" date="05/07/2013">
+    <field alias="name">Echo Janman</field>
+    <field alias="email">echo.janman@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:28:40" date="05/07/2013">
+    <field alias="name">Chloe Waretini</field>
+    <field alias="email">taia.design@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:16:44" date="12/07/2013">
+    <field alias="name">Chris Loughborough</field>
+    <field alias="email">chris.loughborough@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:18:23" date="17/07/2013">
+    <field alias="name">dicky park</field>
+    <field alias="email">nzdicky48@hanmail.net</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:53:37" date="30/07/2013">
+    <field alias="name">Georgia McGill-Bannan</field>
+    <field alias="email">georgia.mcgillbannan@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:35:54" date="30/07/2013">
+    <field alias="name">Matthew Cook</field>
+    <field alias="email">loyal2thecats@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:37:09" date="30/07/2013">
+    <field alias="name">Matthew Cook</field>
+    <field alias="email">loyal2thecats@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:38:25" date="30/07/2013">
+    <field alias="name">Matthew Cook</field>
+    <field alias="email">loyal2thecats@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:32:24" date="01/08/2013">
+    <field alias="name">Rosie Bradshaw</field>
+    <field alias="email">r.e.bradshaw@massey.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:51:57" date="02/08/2013">
+    <field alias="name">lezette reid</field>
+    <field alias="email">lezette@paradise.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:54:46" date="02/08/2013">
+    <field alias="name">Jacqui</field>
+    <field alias="email">waitakererangeswest@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:33:28" date="06/08/2013">
+    <field alias="name">Ron Watson</field>
+    <field alias="email">ronwatson@slingshot.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:12:11" date="06/08/2013">
+    <field alias="name">Samuel Earp</field>
+    <field alias="email">samuel_earp@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:00:37" date="07/08/2013">
+    <field alias="name">Pete Hutchings</field>
+    <field alias="email">hutchings7@icloud.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:20:23" date="09/08/2013">
+    <field alias="name">Rudi</field>
+    <field alias="email">rudi4chur@hhotmail.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:13:27" date="11/08/2013">
+    <field alias="name">Donald</field>
+    <field alias="email">Donaldt@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:08:18" date="14/08/2013">
+    <field alias="name">Rhanae Ngawaka</field>
+    <field alias="email">rhanaengawaka@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:11:36" date="22/08/2013">
+    <field alias="name">Maria Kire</field>
+    <field alias="email">maria@footprintswaipoua.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:11:36" date="22/08/2013">
+    <field alias="name">Maria Kire</field>
+    <field alias="email">maria@footprintswaipoua.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:39:07" date="23/08/2013">
+    <field alias="name">Leon Feng</field>
+    <field alias="email">flia011@aucklanduni.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:44:07" date="29/08/2013">
+    <field alias="name">Les A Porter</field>
+    <field alias="email">les.porter@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:31:32" date="02/09/2013">
+    <field alias="name">Sebastian Zimmermann</field>
+    <field alias="email">seb_zim@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:27:50" date="09/09/2013">
+    <field alias="name">Sharleen Bishop</field>
+    <field alias="email">kerrin.sharleen@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:29:25" date="09/09/2013">
+    <field alias="name">Sharleen Bishop</field>
+    <field alias="email">kerrin.sharleen@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:31:02" date="09/09/2013">
+    <field alias="name">Sharleen Bishop</field>
+    <field alias="email">kerrin.sharleen@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:07:10" date="11/09/2013">
+    <field alias="name">Zen Garden</field>
+    <field alias="email">info@zengarden.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:42:40" date="11/09/2013">
+    <field alias="name">lyn murphy</field>
+    <field alias="email">lyn.murphy@manukau.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:53:55" date="13/09/2013">
+    <field alias="name">jo</field>
+    <field alias="email">joryan42@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:42:25" date="18/09/2013">
+    <field alias="name">Rose Franklin</field>
+    <field alias="email">rosaliedawn38@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:33:51" date="20/09/2013">
+    <field alias="name">charmaine</field>
+    <field alias="email">charmainekahotea@yahoo.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:26:19" date="28/09/2013">
+    <field alias="name">M Wilson</field>
+    <field alias="email">murrayevelyn@vodafone.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:27:18" date="28/09/2013">
+    <field alias="name">
+    </field>
+    <field alias="email">murrayevelyn@vodafone.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:27:23" date="28/09/2013">
+    <field alias="name">M Wilson</field>
+    <field alias="email">murrayevelyn@vodafone.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:28:21" date="28/09/2013">
+    <field alias="name">
+    </field>
+    <field alias="email">murrayevelyn@vodafone.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:29:14" date="28/09/2013">
+    <field alias="name">
+    </field>
+    <field alias="email">murrayevelyn@vodafone.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:31:34" date="28/09/2013">
+    <field alias="name">M Wilson</field>
+    <field alias="email">murrayevelyn@vodafone.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:55:44" date="29/09/2013">
+    <field alias="name">Gina Connell</field>
+    <field alias="email">auckland@mountainsafety.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:30:30" date="30/09/2013">
+    <field alias="name">Max Thomson</field>
+    <field alias="email">thomson.max@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:19:15" date="30/09/2013">
+    <field alias="name">Greg  Lumsden</field>
+    <field alias="email">greggl@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:36:55" date="02/10/2013">
+    <field alias="name">Judy Gardner</field>
+    <field alias="email">judy.gardner@scionresearch.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:17:49" date="03/10/2013">
+    <field alias="name">Klaus Thomforde</field>
+    <field alias="email">klaus.thomforde@ewetel.net</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:46:08" date="04/10/2013">
+    <field alias="name">Margaret Dick</field>
+    <field alias="email">margaret.dick@scionresearch.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:44:30" date="04/10/2013">
+    <field alias="name">Julie</field>
+    <field alias="email">rustie1@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:25:43" date="05/10/2013">
+    <field alias="name">Glenn Bishop</field>
+    <field alias="email">acdworldwide@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:06:22" date="15/10/2013">
+    <field alias="name">Tane's Tree Trust</field>
+    <field alias="email">office@tanestrees.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:57:34" date="25/10/2013">
+    <field alias="name">Lezette Reid</field>
+    <field alias="email">Lezette@paradise.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:37:44" date="25/10/2013">
+    <field alias="name">Jolyon manning</field>
+    <field alias="email">Jolenda@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:39:05" date="25/10/2013">
+    <field alias="name">Jolyon manning</field>
+    <field alias="email">Jolenda@ihu.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:07:02" date="29/10/2013">
+    <field alias="name">Robyn Kannemeyer</field>
+    <field alias="email">rkan015@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:32:59" date="29/10/2013">
+    <field alias="name">terry van vught</field>
+    <field alias="email">teriam@slingshot.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:02:46" date="30/10/2013">
+    <field alias="name">Brian Hepenstall</field>
+    <field alias="email">brianh@nutripharm.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:35:28" date="04/11/2013">
+    <field alias="name">Judy Gardner</field>
+    <field alias="email">judy.gardner@scionresearch.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:45:34" date="04/11/2013">
+    <field alias="name">Kristi Henare</field>
+    <field alias="email">kristihenare.forestandbird@yahoo.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:12:56" date="05/11/2013">
+    <field alias="name">NOEL HUGGARD</field>
+    <field alias="email">noel@bia.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:54:44" date="06/11/2013">
+    <field alias="name">joe hancock</field>
+    <field alias="email">jhancock@middlemore.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:46:21" date="08/11/2013">
+    <field alias="name">Leonie Osborne</field>
+    <field alias="email">leonieandpaul@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:47:16" date="08/11/2013">
+    <field alias="name">Leonie Osborne</field>
+    <field alias="email">leonieandpaul@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:47:50" date="08/11/2013">
+    <field alias="name">Leonie Osborne</field>
+    <field alias="email">leonieandpaul@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:48:24" date="08/11/2013">
+    <field alias="name">Leonie Osborne</field>
+    <field alias="email">leonieandpaul@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:08:21" date="08/11/2013">
+    <field alias="name">Leonie Osborne</field>
+    <field alias="email">leonieandpaul@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:08:52" date="08/11/2013">
+    <field alias="name">Leonie Osborne</field>
+    <field alias="email">leonieandpaul@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:04:51" date="08/11/2013">
+    <field alias="name">Eva Fernandez</field>
+    <field alias="email">evapbm@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:44:50" date="09/11/2013">
+    <field alias="name">Alan &amp; Yvonne Gillespie</field>
+    <field alias="email">smudge45@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:30:23" date="12/11/2013">
+    <field alias="name">Don Minchin </field>
+    <field alias="email">donaldt@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:42:29" date="14/11/2013">
+    <field alias="name">Gary Stalker</field>
+    <field alias="email">Gary@afterglow.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:11:26" date="15/11/2013">
+    <field alias="name">Peter Hoey</field>
+    <field alias="email">peter.aotea@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:22:06" date="18/11/2013">
+    <field alias="name">KANE GLASS</field>
+    <field alias="email">Kane.glass@allaboutauckland.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:26:25" date="19/11/2013">
+    <field alias="name">Pehi Kaihau</field>
+    <field alias="email">pehikaihau@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:00:36" date="19/11/2013">
+    <field alias="name">Patsy Hindson</field>
+    <field alias="email">patsyhindson@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:38:41" date="19/11/2013">
+    <field alias="name">Julie Alach</field>
+    <field alias="email">juliealach@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:16:41" date="20/11/2013">
+    <field alias="name">Willow van Heugten</field>
+    <field alias="email">willowsengineroom@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:57:02" date="20/11/2013">
+    <field alias="name">Robyn Aimer</field>
+    <field alias="email">dklinac@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:57:02" date="20/11/2013">
+    <field alias="name">Robyn Aimer</field>
+    <field alias="email">dklinac@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:37:16" date="21/11/2013">
+    <field alias="name">Phillip Wilcox</field>
+    <field alias="email">phillip.wilcox@scionresearch.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:16:48" date="22/11/2013">
+    <field alias="name">Patrick Murphy</field>
+    <field alias="email">bizzskills@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:05:23" date="22/11/2013">
+    <field alias="name">vijay soma</field>
+    <field alias="email">vgsoma@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:07:18" date="22/11/2013">
+    <field alias="name">vijay soma</field>
+    <field alias="email">vgsoma@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:12:36" date="22/11/2013">
+    <field alias="name">vijay soma</field>
+    <field alias="email">vgsoma@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:59:45" date="25/11/2013">
+    <field alias="name">Ian McPherson</field>
+    <field alias="email">ianmcp@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:20:06" date="26/11/2013">
+    <field alias="name">simon williamson</field>
+    <field alias="email">arborvista.simon@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:36:21" date="26/11/2013">
+    <field alias="name">Rick Jobbitt</field>
+    <field alias="email">arb_eco@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:49:15" date="26/11/2013">
+    <field alias="name">Heather Smith</field>
+    <field alias="email">manuenterpriseltd@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:59:05" date="27/11/2013">
+    <field alias="name">Gerald Collett</field>
+    <field alias="email">gerald@geotree.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:54:58" date="27/11/2013">
+    <field alias="name">Francisco Pizarro</field>
+    <field alias="email">francisco.pizarro@pfolsen.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:31:14" date="27/11/2013">
+    <field alias="name">Natasha Romoff</field>
+    <field alias="email">n.romoff@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:06:13" date="28/11/2013">
+    <field alias="name">graham don</field>
+    <field alias="email">grahamdon@bioresearches.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:09:30" date="28/11/2013">
+    <field alias="name">Mark SD</field>
+    <field alias="email">mark.seabrook-davison@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:24:47" date="28/11/2013">
+    <field alias="name">Simon Wegner</field>
+    <field alias="email">sweg671@aucklanduni.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:56:55" date="29/11/2013">
+    <field alias="name">Tama Waipara</field>
+    <field alias="email">twaipara@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:42:25" date="29/11/2013">
+    <field alias="name">Gabrielle Belz</field>
+    <field alias="email">belz.gabrielle@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:46:00" date="29/11/2013">
+    <field alias="name">James E. Pinker</field>
+    <field alias="email">pinker@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:11:21" date="29/11/2013">
+    <field alias="name">Dr Christopher Thompson</field>
+    <field alias="email">dewithiel@me.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:30:32" date="30/11/2013">
+    <field alias="name">Megan Thompson</field>
+    <field alias="email">meganth@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:59:24" date="02/12/2013">
+    <field alias="name">Izzy Fordham</field>
+    <field alias="email">izzy.fordham@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:18:42" date="04/12/2013">
+    <field alias="name">George Burrill</field>
+    <field alias="email">georgeburrill@me.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:45:12" date="04/12/2013">
+    <field alias="name">Sean Freeman</field>
+    <field alias="email">freeman.sd@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:16:52" date="08/12/2013">
+    <field alias="name">George Wheeler</field>
+    <field alias="email">gkwraw@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:01:59" date="10/12/2013">
+    <field alias="name">Keith Stewart</field>
+    <field alias="email">keith@keithstewart.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:26:26" date="12/12/2013">
+    <field alias="name">Marion</field>
+    <field alias="email">Marionlrivers@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:06:47" date="29/12/2013">
+    <field alias="name">Graeme Webb</field>
+    <field alias="email">gwebb@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:49:29" date="01/01/2014">
+    <field alias="name">Jon Bishop</field>
+    <field alias="email">jbishop@adhb.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:43:30" date="11/01/2014">
+    <field alias="name">carol weston</field>
+    <field alias="email">kiwicaza@yahoo.com.au</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:54:15" date="13/01/2014">
+    <field alias="name">Katrin Webb</field>
+    <field alias="email">katrin.webb@scionresearch.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:27:51" date="15/01/2014">
+    <field alias="name">John Penney</field>
+    <field alias="email">thepenneypeople@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:29:28" date="26/01/2014">
+    <field alias="name">martin herbert</field>
+    <field alias="email">martinh@treescape.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:25:15" date="28/01/2014">
+    <field alias="name">Teresa Brown</field>
+    <field alias="email">broTeresa@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:45:44" date="31/01/2014">
+    <field alias="name">Dale Daniels</field>
+    <field alias="email">dale.daniels@intellium.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:01:11" date="02/02/2014">
+    <field alias="name">Cathy Peek</field>
+    <field alias="email">cathypeek@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:51:59" date="02/02/2014">
+    <field alias="name">Dean King</field>
+    <field alias="email">kingd@farmside.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:01:28" date="11/02/2014">
+    <field alias="name">Stu</field>
+    <field alias="email">Stu@nzbushpest.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:15:06" date="12/02/2014">
+    <field alias="name">Alvina Brown</field>
+    <field alias="email">00hashbrown@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:00:15" date="13/02/2014">
+    <field alias="name">Far North Environment Centre</field>
+    <field alias="email">info@ecocentre.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:43:34" date="13/02/2014">
+    <field alias="name">George Driver</field>
+    <field alias="email">news@localmatters.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:23:09" date="14/02/2014">
+    <field alias="name">DOC Auckland Visitor Centre</field>
+    <field alias="email">aucklandvc@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:59:03" date="15/02/2014">
+    <field alias="name">James Buttle</field>
+    <field alias="email">james@whakaari.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:03:59" date="23/02/2014">
+    <field alias="name">carol weston</field>
+    <field alias="email">kiwicaza@yahoo.com.au</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:23:11" date="26/02/2014">
+    <field alias="name">Terry Stewart</field>
+    <field alias="email">t.stewart@massey.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:01:12" date="28/02/2014">
+    <field alias="name">Tim McWhannell</field>
+    <field alias="email">timmcw@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:30:46" date="04/03/2014">
+    <field alias="name">Dennis Kerins</field>
+    <field alias="email">d.kerins@auckland.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:20:57" date="06/03/2014">
+    <field alias="name">Neville P  Danby</field>
+    <field alias="email">nm@danby1.orangehome.co.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:34:25" date="07/03/2014">
+    <field alias="name">Yvonne Gillespie</field>
+    <field alias="email">smudge45@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:10:04" date="09/03/2014">
+    <field alias="name">emma mcinnes</field>
+    <field alias="email">emma.l.m@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:53:36" date="10/03/2014">
+    <field alias="name">nick andrews</field>
+    <field alias="email">nicka@hydrotechdrainage.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:58:29" date="11/03/2014">
+    <field alias="name">Melissa Davis</field>
+    <field alias="email">m.davis@harrisongrierson.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:15:29" date="14/03/2014">
+    <field alias="name">Chang</field>
+    <field alias="email">rebe7056@yahoo.com.tw</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:14:23" date="25/03/2014">
+    <field alias="name">heyra</field>
+    <field alias="email">jhuy@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:16:51" date="25/03/2014">
+    <field alias="name">Charles D.S. Nathan</field>
+    <field alias="email">charlesnathan@msn.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:27:59" date="25/03/2014">
+    <field alias="name">Tony Dunlop</field>
+    <field alias="email">tonydunlopnz@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:07:33" date="26/03/2014">
+    <field alias="name">Michael Surrey</field>
+    <field alias="email">mrsurrey@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:07:33" date="26/03/2014">
+    <field alias="name">Michael Surrey</field>
+    <field alias="email">mrsurrey@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:07:33" date="26/03/2014">
+    <field alias="name">Michael Surrey</field>
+    <field alias="email">mrsurrey@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:08:07" date="26/03/2014">
+    <field alias="name">Michael R Surrey</field>
+    <field alias="email">michael.surrey@mpi.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:44:28" date="26/03/2014">
+    <field alias="name">Tania Pene</field>
+    <field alias="email">tania.pene@ngapuhi.org</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:00:03" date="26/03/2014">
+    <field alias="name">Cris</field>
+    <field alias="email">ccoutoart@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:41:31" date="27/03/2014">
+    <field alias="name">dayna hoey samuel</field>
+    <field alias="email">magicsamuel133@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:22:58" date="01/04/2014">
+    <field alias="name">Kat</field>
+    <field alias="email">katrin.webb@scionresearch.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:20:48" date="05/04/2014">
+    <field alias="name">Bryan Gartrell</field>
+    <field alias="email">b.g.gartrell@ynet.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:55:57" date="06/04/2014">
+    <field alias="name">alison Clay</field>
+    <field alias="email">aliandboys@vodafone.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:11:35" date="06/04/2014">
+    <field alias="name">Julia de Carvalho</field>
+    <field alias="email">j.mf.carvalho@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:13:43" date="06/04/2014">
+    <field alias="name">Julia de Carvalho</field>
+    <field alias="email">j.mf.carvalho@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:14:12" date="06/04/2014">
+    <field alias="name">Julia de Carvalho</field>
+    <field alias="email">j.mf.carvalho@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:22:20" date="13/04/2014">
+    <field alias="name">aymi Harbron</field>
+    <field alias="email">amyharbron@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:29:41" date="13/04/2014">
+    <field alias="name">graham putt</field>
+    <field alias="email">grahamputt@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:32:33" date="13/04/2014">
+    <field alias="name">Tony Brill</field>
+    <field alias="email">Living-Earth@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:31:24" date="14/04/2014">
+    <field alias="name">Jack Henderson</field>
+    <field alias="email">jackzombie15@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:37:35" date="22/04/2014">
+    <field alias="name">Kaaterama Morehu</field>
+    <field alias="email">thebachouse@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:13:18" date="24/04/2014">
+    <field alias="name">Gary Stalker</field>
+    <field alias="email">gary@afterglow.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:46:01" date="24/04/2014">
+    <field alias="name">Julia de Carvalho</field>
+    <field alias="email">j.mf.carvalho@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:32:38" date="27/04/2014">
+    <field alias="name">Mara Schelhasse</field>
+    <field alias="email">schelhasse@gmx.de</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:53:46" date="30/04/2014">
+    <field alias="name">Ian Colquhoun</field>
+    <field alias="email">iancolquhoun@iinet.net.au</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:25:15" date="03/05/2014">
+    <field alias="name">N Corry</field>
+    <field alias="email">njmic@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:33:22" date="04/05/2014">
+    <field alias="name">Richard Hursthouse</field>
+    <field alias="email">richard.hursthouse@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:12:15" date="05/05/2014">
+    <field alias="name">Shelly Wilson</field>
+    <field alias="email">shelly.wilson@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:51:42" date="06/05/2014">
+    <field alias="name">Helen BInns</field>
+    <field alias="email">Magog@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:52:40" date="06/05/2014">
+    <field alias="name">
+    </field>
+    <field alias="email">Magog@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:54:33" date="06/05/2014">
+    <field alias="name">Helen Binns</field>
+    <field alias="email">Magog@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:56:11" date="08/05/2014">
+    <field alias="name">Robin Kewell</field>
+    <field alias="email">robinkewell@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:02:02" date="13/05/2014">
+    <field alias="name">Jill Naysmith</field>
+    <field alias="email">jill.naysmith@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:05:00" date="14/05/2014">
+    <field alias="name">Augusta</field>
+    <field alias="email">macasseypickard@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:10:27" date="15/05/2014">
+    <field alias="name">simon salter</field>
+    <field alias="email">simon.salter@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:04:26" date="16/05/2014">
+    <field alias="name">tom harris</field>
+    <field alias="email">tom@biosea.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:38:36" date="20/05/2014">
+    <field alias="name">Chantel</field>
+    <field alias="email">chantelsmith61@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:52:28" date="20/05/2014">
+    <field alias="name">David Hall</field>
+    <field alias="email">phylogenynz@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:53:23" date="20/05/2014">
+    <field alias="name">David Hall</field>
+    <field alias="email">phylogenynz@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:58:01" date="20/05/2014">
+    <field alias="name">David Hall</field>
+    <field alias="email">phylogenynz@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:33:51" date="23/05/2014">
+    <field alias="name">Tony Haworth</field>
+    <field alias="email">tony@campbellmacpherson.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:14:20" date="26/05/2014">
+    <field alias="name">Mike Palmers</field>
+    <field alias="email">mike.palmers@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:59:15" date="27/05/2014">
+    <field alias="name">Dee Armstrong</field>
+    <field alias="email">deeandtim@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:10:52" date="30/05/2014">
+    <field alias="name">John Stevenson</field>
+    <field alias="email">pukatea@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:10:36" date="31/05/2014">
+    <field alias="name">Steven Milburn</field>
+    <field alias="email">Steven.k.milburn@googlemail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:32:02" date="05/06/2014">
+    <field alias="name">Ludovico Rosario</field>
+    <field alias="email">lodbrosario@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:56:09" date="05/06/2014">
+    <field alias="name">Peter Hoey</field>
+    <field alias="email">peter.aotea@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:07:58" date="07/06/2014">
+    <field alias="name">Katherine King</field>
+    <field alias="email">katherine18@windowslive.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:52:17" date="08/06/2014">
+    <field alias="name">Shane Henare</field>
+    <field alias="email">shanehenare@yahoo.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:43:39" date="14/06/2014">
+    <field alias="name">ngaronoa renata</field>
+    <field alias="email">nrenata@tepunawaiora.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:45:50" date="16/06/2014">
+    <field alias="name">Tai Harawira</field>
+    <field alias="email">ezekiel33trust@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:30:59" date="18/06/2014">
+    <field alias="name">reegan</field>
+    <field alias="email">reegan.ab@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:42:13" date="18/06/2014">
+    <field alias="name">Bob</field>
+    <field alias="email">bob@testing.net</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:39:06" date="26/06/2014">
+    <field alias="name">Emily Leslie</field>
+    <field alias="email">emily.leslie@mitchellpartnerships.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:48:19" date="01/07/2014">
+    <field alias="name">Kathryn Officer (Pacific View B&amp;B)</field>
+    <field alias="email">kofficer@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:21:22" date="01/07/2014">
+    <field alias="name">Linda Holloway</field>
+    <field alias="email">colin.holloway@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:35:19" date="03/07/2014">
+    <field alias="name">Paula J Wilson</field>
+    <field alias="email">paulajwilson@mail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:15:36" date="16/07/2014">
+    <field alias="name">adam</field>
+    <field alias="email">adcollings@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:38:41" date="21/07/2014">
+    <field alias="name">Vanda Karolczak</field>
+    <field alias="email">vanda.karolczak@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:50:24" date="24/07/2014">
+    <field alias="name">Anna Gibbons</field>
+    <field alias="email">a.gibbons@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:11:29" date="25/07/2014">
+    <field alias="name">Steve Autagavaia </field>
+    <field alias="email">careers@wesley.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:54:10" date="28/07/2014">
+    <field alias="name">tom harris</field>
+    <field alias="email">tom@biosea.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:26:03" date="30/07/2014">
+    <field alias="name">Andrea Hunt</field>
+    <field alias="email">restoration@kaipatiki.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:18:24" date="01/08/2014">
+    <field alias="name">John Brown</field>
+    <field alias="email">ajjeb@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:18:25" date="01/08/2014">
+    <field alias="name">John Brown</field>
+    <field alias="email">ajjeb@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:58:56" date="03/08/2014">
+    <field alias="name">Dave Bolland</field>
+    <field alias="email">dc-rangi@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:21:13" date="09/08/2014">
+    <field alias="name">Kristy</field>
+    <field alias="email">agreensubmarine@hotmail.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:21:13" date="09/08/2014">
+    <field alias="name">Kristy</field>
+    <field alias="email">agreensubmarine@hotmail.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:48:35" date="10/08/2014">
+    <field alias="name">Diana Whiting</field>
+    <field alias="email">dianawhitingnz@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:49:27" date="13/08/2014">
+    <field alias="name">Toko Baker</field>
+    <field alias="email">ttpb1@waikato.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:22:06" date="20/08/2014">
+    <field alias="name">Alex Wilson</field>
+    <field alias="email">lexii_w@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:41:52" date="26/08/2014">
+    <field alias="name">Phillippa Baggaley</field>
+    <field alias="email">pippabelle29@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:32:15" date="30/08/2014">
+    <field alias="name">kaia</field>
+    <field alias="email">itzkaia@live.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:48:16" date="31/08/2014">
+    <field alias="name">Dave Currie</field>
+    <field alias="email">curried@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:46:40" date="01/09/2014">
+    <field alias="name">Arthur Hinds</field>
+    <field alias="email">hindsaw@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:27:33" date="02/09/2014">
+    <field alias="name">Rena Nathan</field>
+    <field alias="email">renanathan@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:25:00" date="04/09/2014">
+    <field alias="name">Richard Henry</field>
+    <field alias="email">henryra@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:38:26" date="08/09/2014">
+    <field alias="name">vicki woolley</field>
+    <field alias="email">geolly_g@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:00:00" date="08/09/2014">
+    <field alias="name">Naomi Thompson</field>
+    <field alias="email">naomiathompson@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:21:13" date="10/09/2014">
+    <field alias="name">Tracey Andrews Smith</field>
+    <field alias="email">Tracey@crucialconsultancy.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:18:14" date="19/09/2014">
+    <field alias="name">Hayley Small</field>
+    <field alias="email">hayley9037@bombay.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:20:21" date="19/09/2014">
+    <field alias="name">Britt Rennell</field>
+    <field alias="email">brittr@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:20:34" date="19/09/2014">
+    <field alias="name">peter</field>
+    <field alias="email">peter9043@bombay.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:51:29" date="23/09/2014">
+    <field alias="name">Jeannie Hogarth</field>
+    <field alias="email">jhogarth@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:14:58" date="23/09/2014">
+    <field alias="name">Izzy Fordham</field>
+    <field alias="email">izzy.fordham@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:55:24" date="03/10/2014">
+    <field alias="name">Marea Timoko</field>
+    <field alias="email">marea.timoko@kurakaikohe.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:30:56" date="06/10/2014">
+    <field alias="name">Tania Wells</field>
+    <field alias="email">twells@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:32:31" date="15/10/2014">
+    <field alias="name">Jan Wright</field>
+    <field alias="email">janandjohnwright@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:27:43" date="16/10/2014">
+    <field alias="name">marie morgan</field>
+    <field alias="email">marie.morgan69@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:27:45" date="16/10/2014">
+    <field alias="name">marie morgan</field>
+    <field alias="email">marie.morgan69@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:49:12" date="27/10/2014">
+    <field alias="name">Jared</field>
+    <field alias="email">xxjaredxx@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:19:48" date="31/10/2014">
+    <field alias="name">Tame Te Rangi</field>
+    <field alias="email">tame.terangi@ngatiwhatua.iwi.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:36:50" date="31/10/2014">
+    <field alias="name">hori parata</field>
+    <field alias="email">kaitiakihori@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:24:53" date="02/11/2014">
+    <field alias="name">kaia</field>
+    <field alias="email">FT.Djrocks@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:50:10" date="02/11/2014">
+    <field alias="name">janine dunlop</field>
+    <field alias="email">janinemdunlop@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:11:01" date="03/11/2014">
+    <field alias="name">kiri</field>
+    <field alias="email">kiri.mccutcheon@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:07:05" date="04/11/2014">
+    <field alias="name">Sarah Fox</field>
+    <field alias="email">sarah.fox@hrv.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:35:44" date="04/11/2014">
+    <field alias="name">Scott Linklater</field>
+    <field alias="email">sci@clmnz.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:00:42" date="08/11/2014">
+    <field alias="name">simoncoe</field>
+    <field alias="email">simoncoe@vodafone.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:56:29" date="10/11/2014">
+    <field alias="name">troy churton</field>
+    <field alias="email">t.churton@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:33:46" date="19/11/2014">
+    <field alias="name">Tim Dow</field>
+    <field alias="email">timdow@winning.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:43:29" date="25/11/2014">
+    <field alias="name">lee stevens</field>
+    <field alias="email">leestevens1991@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:10:19" date="26/11/2014">
+    <field alias="name">Ilana</field>
+    <field alias="email">shapi44@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:18:25" date="26/11/2014">
+    <field alias="name">deva_howat@hotmail.com</field>
+    <field alias="email">deva_howat@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:16:35" date="26/11/2014">
+    <field alias="name">Diogo D'Ajuda</field>
+    <field alias="email">diogo.ajuda@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:04:59" date="28/11/2014">
+    <field alias="name">Mark Smith </field>
+    <field alias="email">mark.smith@mpi.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:04:59" date="28/11/2014">
+    <field alias="name">Mark Smith </field>
+    <field alias="email">mark.smith@mpi.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:05:00" date="28/11/2014">
+    <field alias="name">Mark Smith </field>
+    <field alias="email">mark.smith@mpi.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:10:37" date="01/12/2014">
+    <field alias="name">richie hill </field>
+    <field alias="email">richie@paperstreettree.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:42:16" date="01/12/2014">
+    <field alias="name">Paula J Wilson</field>
+    <field alias="email">paulajwilson@mail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:05:37" date="03/12/2014">
+    <field alias="name">Kristi Henare</field>
+    <field alias="email">kristihenare.forestandbird@yahoo.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:06:15" date="03/12/2014">
+    <field alias="name">Kristi Henare</field>
+    <field alias="email">kristihenare.forestandbird@yahoo.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:23:38" date="16/12/2014">
+    <field alias="name">Keith Stewart</field>
+    <field alias="email">keith@keithstewart.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:22:15" date="18/12/2014">
+    <field alias="name">Mark Bogle</field>
+    <field alias="email">mark.bogle@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:41:51" date="20/12/2014">
+    <field alias="name">Jake</field>
+    <field alias="email">jakehandley@hotmail.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:20:57" date="30/12/2014">
+    <field alias="name">Warwick Hojem</field>
+    <field alias="email">whojem@ebsco.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:21:28" date="30/12/2014">
+    <field alias="name">Carryn Hojem</field>
+    <field alias="email">carryn07@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:28:44" date="30/12/2014">
+    <field alias="name">Jenny Hojem</field>
+    <field alias="email">jhojem@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:10:34" date="30/12/2014">
+    <field alias="name">bryan halliwell</field>
+    <field alias="email">bhalliwell@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:38:46" date="11/01/2015">
+    <field alias="name">Marty Jones</field>
+    <field alias="email">marty.p.h.jones@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:40:15" date="11/01/2015">
+    <field alias="name">Zak</field>
+    <field alias="email">zakbro@icloud.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:53:48" date="13/01/2015">
+    <field alias="name">CRANE AMARU</field>
+    <field alias="email">crane@doorbrass.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:01:55" date="13/01/2015">
+    <field alias="name">Susanna Lyle</field>
+    <field alias="email">susanna@saros.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:56:02" date="14/01/2015">
+    <field alias="name">Karyn Froud</field>
+    <field alias="email">karyn.froud@orcon.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:09:16" date="16/01/2015">
+    <field alias="name">carolmaisie</field>
+    <field alias="email">carolmaisie@longwayround.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:30:48" date="16/01/2015">
+    <field alias="name">Taili Chang</field>
+    <field alias="email">rebe7056@Yahoo.com.tw</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:34:39" date="16/01/2015">
+    <field alias="name">Jeremy Barrell</field>
+    <field alias="email">jeremy@barrelltreecare.co.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:08:44" date="16/01/2015">
+    <field alias="name">Heather Smith</field>
+    <field alias="email">manuenterpriseltd@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:17:36" date="17/01/2015">
+    <field alias="name">Rick Mexted</field>
+    <field alias="email">rick@franklintrees.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:21:03" date="19/01/2015">
+    <field alias="name">Stuart Jackson</field>
+    <field alias="email">stuartj@wdc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:56:51" date="20/01/2015">
+    <field alias="name">Alison Smith</field>
+    <field alias="email">alisonsmith@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:33:27" date="20/01/2015">
+    <field alias="name">Michael Surrey</field>
+    <field alias="email">mrsurrey@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:56:40" date="23/01/2015">
+    <field alias="name">Soozee McIntyre</field>
+    <field alias="email">awasoo108@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:58:12" date="28/01/2015">
+    <field alias="name">dbrownlee</field>
+    <field alias="email">dbrownlee@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:56:19" date="30/01/2015">
+    <field alias="name">jennifer adams</field>
+    <field alias="email">dan.adams@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:15:12" date="02/02/2015">
+    <field alias="name">catherine obrien</field>
+    <field alias="email">cathosster@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:28:57" date="03/02/2015">
+    <field alias="name">Henare Winterburn-Chapman</field>
+    <field alias="email">hwinterburn-chapman@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:12:26" date="04/02/2015">
+    <field alias="name">Paul Padfield</field>
+    <field alias="email">Wildworks@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:44:47" date="04/02/2015">
+    <field alias="name">Lynette Benson</field>
+    <field alias="email">lbenson@openspace.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:45:10" date="04/02/2015">
+    <field alias="name">Robbie Bennett</field>
+    <field alias="email">rbennett@openspace.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:45:47" date="04/02/2015">
+    <field alias="name">Nick Matich</field>
+    <field alias="email">nmatich@openspace.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:46:13" date="04/02/2015">
+    <field alias="name">Chris Floyd</field>
+    <field alias="email">cfloyd@openspace.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:46:34" date="04/02/2015">
+    <field alias="name">Nan Pullman</field>
+    <field alias="email">npullman@openspace.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:46:58" date="04/02/2015">
+    <field alias="name">Greg Blunden</field>
+    <field alias="email">gblunden@openspace.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:20:56" date="05/02/2015">
+    <field alias="name">Shane McNeill</field>
+    <field alias="email">shane.mcneil@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:30:06" date="08/02/2015">
+    <field alias="name">Taiwan Taili</field>
+    <field alias="email">rebe7056@yahoo.com.tw</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:41:21" date="09/02/2015">
+    <field alias="name">Angus McKenzie</field>
+    <field alias="email">angus@latitudeplanning.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:41:22" date="09/02/2015">
+    <field alias="name">Angus McKenzie</field>
+    <field alias="email">angus@latitudeplanning.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:22:07" date="10/02/2015">
+    <field alias="name">Roger Brand</field>
+    <field alias="email">brand.r@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:29:35" date="12/02/2015">
+    <field alias="name">Andy Wood</field>
+    <field alias="email">andy@kauricliffs.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:02:04" date="13/02/2015">
+    <field alias="name">Tokorua Leaf</field>
+    <field alias="email">tjleaf@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:31:16" date="15/02/2015">
+    <field alias="name">Erika Commers</field>
+    <field alias="email">eacommers@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:17:59" date="17/02/2015">
+    <field alias="name">Rebecca McDougal</field>
+    <field alias="email">rebecca.mcdougal@scionresearch.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:35:51" date="19/02/2015">
+    <field alias="name">akura pardington</field>
+    <field alias="email">akura.email@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:04:53" date="19/02/2015">
+    <field alias="name">alison smith</field>
+    <field alias="email">alisonsmith@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:48:14" date="20/02/2015">
+    <field alias="name">Lisa Martin</field>
+    <field alias="email">lisa.martin@downer.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:57:50" date="21/02/2015">
+    <field alias="name">Glenys Mullooly</field>
+    <field alias="email">terryglen@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:29:14" date="23/02/2015">
+    <field alias="name">Alan Robinson</field>
+    <field alias="email">robinson21@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:36:41" date="27/02/2015">
+    <field alias="name">Simon Shamoun</field>
+    <field alias="email">Simon.Shamoun@nrcan.gc.ca</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:53:17" date="02/03/2015">
+    <field alias="name">Mike Noonan</field>
+    <field alias="email">noonanmik@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="15:26:54" date="08/03/2015">
+    <field alias="name">John rapana</field>
+    <field alias="email">rarpz@hotmail.fr</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:47:21" date="11/03/2015">
+    <field alias="name">Melody Heta</field>
+    <field alias="email">melheta@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:53:53" date="12/03/2015">
+    <field alias="name">Dan</field>
+    <field alias="email">dgroberts@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:33:00" date="13/03/2015">
+    <field alias="name">pat liddell</field>
+    <field alias="email">pliddell@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:36:47" date="21/03/2015">
+    <field alias="name">Sean McNulty</field>
+    <field alias="email">sean@uvsolutionz.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:39:14" date="02/04/2015">
+    <field alias="name">martin herbert</field>
+    <field alias="email">martinh@treescape.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:00:13" date="08/04/2015">
+    <field alias="name">Ian Riley </field>
+    <field alias="email">Ianriley111@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:24:24" date="10/04/2015">
+    <field alias="name">Graeme Robinson</field>
+    <field alias="email">graemerobinson@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:38:24" date="10/04/2015">
+    <field alias="name">Larissa-J Swann</field>
+    <field alias="email">larissa-jswann@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:12:54" date="25/04/2015">
+    <field alias="name">Vivian</field>
+    <field alias="email">vivianhn2@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:45:50" date="28/04/2015">
+    <field alias="name">Alyson </field>
+    <field alias="email">alyson.hood@ngatea.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:45:58" date="28/04/2015">
+    <field alias="name">Sophie</field>
+    <field alias="email">sophie.duggan@ngatea.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:47:22" date="28/04/2015">
+    <field alias="name">Paige</field>
+    <field alias="email">paige.welsh@ngatea.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:47:23" date="28/04/2015">
+    <field alias="name">Paige</field>
+    <field alias="email">paige.welsh@ngatea.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:25:43" date="30/04/2015">
+    <field alias="name">olivia leaning</field>
+    <field alias="email">olivia_leaning@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:29:20" date="01/05/2015">
+    <field alias="name">Stephen Autagavaia </field>
+    <field alias="email">careers@wesley.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:57:02" date="04/05/2015">
+    <field alias="name">Deirdre Green </field>
+    <field alias="email">dmgprojects@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:58:42" date="05/05/2015">
+    <field alias="name">Vicki</field>
+    <field alias="email">complete.health@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:45:36" date="05/05/2015">
+    <field alias="name">Sophia</field>
+    <field alias="email">Sophie.duggan@ngatea.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:43:47" date="29/10/2015">
+    <field alias="name">Jay Harkness</field>
+    <field alias="email">harkness.jay@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:20:43" date="15/11/2015">
+    <field alias="name">ann thompson</field>
+    <field alias="email">amthompson@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:46:53" date="16/11/2015">
+    <field alias="name">Rodney</field>
+    <field alias="email">rodneymccardle@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:16:11" date="26/11/2015">
+    <field alias="name">Castro.pompey</field>
+    <field alias="email">Castro.pompey@tkcoll.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:40:00" date="03/12/2015">
+    <field alias="name">Sam Heggie-Gracie</field>
+    <field alias="email">frurters1@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:37:27" date="05/12/2015">
+    <field alias="name">Helen Fu</field>
+    <field alias="email">hfu123@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:42:01" date="05/12/2015">
+    <field alias="name">Frank Fassbender</field>
+    <field alias="email">frank@schreiner-fassbender.de</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:06:36" date="09/12/2015">
+    <field alias="name">Gina Ferguson</field>
+    <field alias="email">gferguson@unitec.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:34:37" date="13/12/2015">
+    <field alias="name">Glenn Browne</field>
+    <field alias="email">glenn@rocketevents.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:23:01" date="17/12/2015">
+    <field alias="name">Fraser Mackie</field>
+    <field alias="email">frasertmackie@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:05:13" date="02/01/2016">
+    <field alias="name">Fraser Mackie</field>
+    <field alias="email">frasertmackie@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:04:54" date="04/01/2016">
+    <field alias="name">Duncan Goodall</field>
+    <field alias="email">Jazzxd@yahoo.co.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:57:01" date="05/01/2016">
+    <field alias="name">Beckie Trigg</field>
+    <field alias="email">beckie.trigg@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:02:29" date="13/01/2016">
+    <field alias="name">Bevan Moir</field>
+    <field alias="email">bmoir@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:12:38" date="18/01/2016">
+    <field alias="name">keith atwood</field>
+    <field alias="email">keith@agrisea.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:13:28" date="18/01/2016">
+    <field alias="name">keith atwood</field>
+    <field alias="email">keith@agrisea.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:07:15" date="19/01/2016">
+    <field alias="name">Jane Meiforth</field>
+    <field alias="email">jane.meiforth@pg.canterbury.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:21:41" date="21/01/2016">
+    <field alias="name">Ngaire Kingsbury</field>
+    <field alias="email">ngairekingsbury@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:51:37" date="21/01/2016">
+    <field alias="name">Ross Holland</field>
+    <field alias="email">r.holland1@massey.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:37:08" date="22/01/2016">
+    <field alias="name">Diane Yorke</field>
+    <field alias="email">yorkepayd@kinect.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="04:24:32" date="26/01/2016">
+    <field alias="name">Zammia Weatherall</field>
+    <field alias="email">zammia.weatherall@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:46:08" date="26/01/2016">
+    <field alias="name">Lydia Smith</field>
+    <field alias="email">lydian@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:16:45" date="29/01/2016">
+    <field alias="name">Richard Balm</field>
+    <field alias="email">richard@nrsolutions.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:22:49" date="02/02/2016">
+    <field alias="name">Keith Bishop</field>
+    <field alias="email">info@lonekaurilodge.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="04:29:26" date="03/02/2016">
+    <field alias="name">Dr Peter Curtis</field>
+    <field alias="email">fb3@pcurtis.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:22:18" date="17/02/2016">
+    <field alias="name">Shelley Heiss-Dunlop</field>
+    <field alias="email">heidun@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:13:44" date="28/02/2016">
+    <field alias="name">TeHaemata</field>
+    <field alias="email">tehaemata@aniwaniwa.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:14:13" date="05/03/2016">
+    <field alias="name">Paula Simpson</field>
+    <field alias="email">pf87simpson@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:19:25" date="07/03/2016">
+    <field alias="name">tiakina</field>
+    <field alias="email">tiakina201@email.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:57:20" date="10/03/2016">
+    <field alias="name">Gary Charland</field>
+    <field alias="email">gazalpaca7gec@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:36:15" date="14/03/2016">
+    <field alias="name">James Eruera</field>
+    <field alias="email">jameseruera@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:41:15" date="14/03/2016">
+    <field alias="name">Reuben</field>
+    <field alias="email">Rj46@mahurangi.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:42:12" date="14/03/2016">
+    <field alias="name">Oscar</field>
+    <field alias="email">Ok50@mahurangi.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:46:54" date="17/03/2016">
+    <field alias="name">ngakau</field>
+    <field alias="email">ngakaumaarie@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:10:49" date="21/03/2016">
+    <field alias="name">Francis Chandrahasen</field>
+    <field alias="email">chandraf@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:43:05" date="23/03/2016">
+    <field alias="name">tanisha sagisagi</field>
+    <field alias="email">tanishasagisagi@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:55:35" date="31/03/2016">
+    <field alias="name">Rex Croucher</field>
+    <field alias="email">rexlynette@actrix.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:34:48" date="01/04/2016">
+    <field alias="name">Tony Bedford</field>
+    <field alias="email">Tonybedfordnz@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:16:25" date="02/04/2016">
+    <field alias="name">Rex Croucher</field>
+    <field alias="email">rexlynette@actrix.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:32:38" date="05/04/2016">
+    <field alias="name">Carryn</field>
+    <field alias="email">carryn07@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:47:36" date="08/04/2016">
+    <field alias="name">James</field>
+    <field alias="email">zeta265344@fenrirfacts.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:56:07" date="11/04/2016">
+    <field alias="name">Mary Hedgcock</field>
+    <field alias="email">mhed6@juno.om</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:45:08" date="20/04/2016">
+    <field alias="name">Ian Lawson</field>
+    <field alias="email">Ianl@treescape.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:51:38" date="20/04/2016">
+    <field alias="name">Peter Mark Gay</field>
+    <field alias="email">pete.gay@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:08:59" date="30/04/2016">
+    <field alias="name">Zena</field>
+    <field alias="email">zenterprise@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:46:40" date="09/05/2016">
+    <field alias="name">Jacqui Williams</field>
+    <field alias="email">jacqui.williams2@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:46:41" date="09/05/2016">
+    <field alias="name">Jacqui Williams</field>
+    <field alias="email">jacqui.williams2@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="11:56:19" date="12/05/2016">
+    <field alias="name">Agarwal Packers and Movers Lucknow</field>
+    <field alias="email">suman.mehta002@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:21:28" date="20/05/2016">
+    <field alias="name">Pedro J. Perdomo S.</field>
+    <field alias="email">perdomo2806@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:57:48" date="21/05/2016">
+    <field alias="name">Kate Burchett</field>
+    <field alias="email">kre8@ihug.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:55:23" date="29/05/2016">
+    <field alias="name">Simon Gascoigne</field>
+    <field alias="email">foodecology@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:58:42" date="01/06/2016">
+    <field alias="name">Joy</field>
+    <field alias="email">joy@peoplepluspeople.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:53:32" date="01/06/2016">
+    <field alias="name">Jemma</field>
+    <field alias="email">jemmaod@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:08:36" date="02/06/2016">
+    <field alias="name">Rongo Bentson</field>
+    <field alias="email">rongo@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:47:34" date="02/06/2016">
+    <field alias="name">Peter King</field>
+    <field alias="email">pete@pjk.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:07:42" date="09/06/2016">
+    <field alias="name">Royden &amp; Alison. Hooker</field>
+    <field alias="email">Araldon@swingletree.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:08:15" date="22/06/2016">
+    <field alias="name">Isla Bailie</field>
+    <field alias="email">islaBAILIE@kowhai.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:10:04" date="22/06/2016">
+    <field alias="name">Shannon</field>
+    <field alias="email">shannon.douglas@outlook.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:26:55" date="29/06/2016">
+    <field alias="name">Meredith Cook</field>
+    <field alias="email">meredith.cook@mpi.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="04:59:20" date="04/07/2016">
+    <field alias="name">kimberley</field>
+    <field alias="email">kimberley.rothwell@parliament.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:57:21" date="05/07/2016">
+    <field alias="name">Beckie Trigg</field>
+    <field alias="email">beckie.trigg@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:33:26" date="08/07/2016">
+    <field alias="name">Evelyn</field>
+    <field alias="email">ewight@tnc.org</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:00:01" date="11/07/2016">
+    <field alias="name">texas</field>
+    <field alias="email">texasbusch@bhb.int.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:14:48" date="25/07/2016">
+    <field alias="name">Gaudence Lyaruu </field>
+    <field alias="email">glyaruu@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:25:00" date="25/07/2016">
+    <field alias="name">Genevieve Northey</field>
+    <field alias="email">genevieve.northey@tindall.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:54:59" date="26/07/2016">
+    <field alias="name">daechar</field>
+    <field alias="email">daecharfollas@gmail.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:30:35" date="01/08/2016">
+    <field alias="name">Ashley's revenge</field>
+    <field alias="email">bakkern@mbas.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:30:36" date="01/08/2016">
+    <field alias="name">Ashley's revenge</field>
+    <field alias="email">bakkern@mbas.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:30:38" date="01/08/2016">
+    <field alias="name">Ashley's revenge</field>
+    <field alias="email">bakkern@mbas.ac.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:32:35" date="01/08/2016">
+    <field alias="name">Toby</field>
+    <field alias="email">toby.bu@ptchev.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="04:24:49" date="08/08/2016">
+    <field alias="name">Marina</field>
+    <field alias="email">marina@hokainuku.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:14:20" date="09/08/2016">
+    <field alias="name">Justin Kary</field>
+    <field alias="email">justin.kary@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:04:00" date="11/08/2016">
+    <field alias="name">Chris Beals</field>
+    <field alias="email">goms13@outlook.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:51:30" date="11/08/2016">
+    <field alias="name">Kuruho Wereta</field>
+    <field alias="email">Kwereta@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:38:23" date="12/08/2016">
+    <field alias="name">michael ade</field>
+    <field alias="email">ade@hawaii.edu</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:44:01" date="19/08/2016">
+    <field alias="name">Penny Smart</field>
+    <field alias="email">pennyfsmart@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:01:27" date="21/08/2016">
+    <field alias="name">David English</field>
+    <field alias="email">denglish.cenglish@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:55:25" date="24/08/2016">
+    <field alias="name">Frazer Dale</field>
+    <field alias="email">frazer.dale@aucklandzoo.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:10:38" date="07/09/2016">
+    <field alias="name">Olivia Keane</field>
+    <field alias="email">olivia.m.keane@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:19:58" date="11/09/2016">
+    <field alias="name">Mia</field>
+    <field alias="email">miamoniquemorgan@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:15:18" date="18/09/2016">
+    <field alias="name">James Corban</field>
+    <field alias="email">capsltd2013@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:17:02" date="01/10/2016">
+    <field alias="name">Matt Elliott</field>
+    <field alias="email">mattell1@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:50:48" date="09/10/2016">
+    <field alias="name">satoxin</field>
+    <field alias="email">satoxinnz@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:52:41" date="11/10/2016">
+    <field alias="name">Bernie Coleman</field>
+    <field alias="email">bhcoleman87@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="13:57:23" date="18/10/2016">
+    <field alias="name">Megan Taylor</field>
+    <field alias="email">megan_p_taylor@yahoo.co.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:22:23" date="19/10/2016">
+    <field alias="name">Jahanna</field>
+    <field alias="email">jahannahollis@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:09:16" date="19/10/2016">
+    <field alias="name">Ross Jackson</field>
+    <field alias="email">mandyross@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:31:14" date="19/10/2016">
+    <field alias="name">Kai Lehnberg</field>
+    <field alias="email">kai.lehnberg@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:20:21" date="19/10/2016">
+    <field alias="name">Rhondell</field>
+    <field alias="email">rhondell@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:23:08" date="19/10/2016">
+    <field alias="name">Joy</field>
+    <field alias="email">pj.bennett@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:40:21" date="19/10/2016">
+    <field alias="name">Bronwyn Smth</field>
+    <field alias="email">Laingholm68@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:45:49" date="19/10/2016">
+    <field alias="name">denise batchelor</field>
+    <field alias="email">denise@denisebatchelor.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:19:49" date="19/10/2016">
+    <field alias="name">sarah allan</field>
+    <field alias="email">gearz72@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:39:15" date="20/10/2016">
+    <field alias="name">Chelsee Neverman</field>
+    <field alias="email">nev.chelsee@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:54:39" date="20/10/2016">
+    <field alias="name">Lisa brown</field>
+    <field alias="email">Brownylj@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="17:22:29" date="20/10/2016">
+    <field alias="name">Marisa</field>
+    <field alias="email">waimaori@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:59:13" date="20/10/2016">
+    <field alias="name">Craig </field>
+    <field alias="email">Craig.johnnyc@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:13:25" date="21/10/2016">
+    <field alias="name">peter ball</field>
+    <field alias="email">sara.ball@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:59:35" date="21/10/2016">
+    <field alias="name">Jess</field>
+    <field alias="email">Jess.bp@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:27:52" date="21/10/2016">
+    <field alias="name">Michelle</field>
+    <field alias="email">michelleherb@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:41:44" date="21/10/2016">
+    <field alias="name">sally garrod</field>
+    <field alias="email">sallygarrod@netscape.net</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:58:16" date="21/10/2016">
+    <field alias="name">Cameron Walker</field>
+    <field alias="email">Cameron@makomako.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:58:55" date="21/10/2016">
+    <field alias="name">Anthea Randell </field>
+    <field alias="email">anthea.r@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:45:12" date="21/10/2016">
+    <field alias="name">Shaun Collins </field>
+    <field alias="email">Shaun@lacticturkey.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:10:38" date="21/10/2016">
+    <field alias="name">Lisa Coleman</field>
+    <field alias="email">Lisa@lisacoleman.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:28:23" date="22/10/2016">
+    <field alias="name">Jim Wheeler</field>
+    <field alias="email">jim@jimwheelersculptor.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:01:55" date="22/10/2016">
+    <field alias="name">Corrie Cook</field>
+    <field alias="email">corrie@amcltd.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:23:42" date="22/10/2016">
+    <field alias="name">Tracy Mulholland </field>
+    <field alias="email">tmtracymulholland@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:21:57" date="22/10/2016">
+    <field alias="name">Janet Cole</field>
+    <field alias="email">manager@kaipatiki.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:57:53" date="22/10/2016">
+    <field alias="name">Leigh Mason</field>
+    <field alias="email">Leigh.mason@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:12:17" date="22/10/2016">
+    <field alias="name">Mary Jones</field>
+    <field alias="email">maryjoj53@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:34:19" date="22/10/2016">
+    <field alias="name">Lu Tyree </field>
+    <field alias="email">lutyree@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:58:27" date="22/10/2016">
+    <field alias="name">Marion</field>
+    <field alias="email">marionsteele@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:29:09" date="22/10/2016">
+    <field alias="name">Tom Clark</field>
+    <field alias="email">tclak@mac.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:06:46" date="23/10/2016">
+    <field alias="name">Marilyn Aucutt</field>
+    <field alias="email">desandmarilyn@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:36:21" date="23/10/2016">
+    <field alias="name">Fiona Lyttle</field>
+    <field alias="email">lyttleflea@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:21:39" date="23/10/2016">
+    <field alias="name">Georgina </field>
+    <field alias="email">Georgina.aotearoa@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:54:59" date="23/10/2016">
+    <field alias="name">Colin Gans </field>
+    <field alias="email">Colin@gans.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:01:28" date="23/10/2016">
+    <field alias="name">Deborah Yates</field>
+    <field alias="email">Deborahayates@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:31:09" date="23/10/2016">
+    <field alias="name">Aaron Kauhou Pearson</field>
+    <field alias="email">ecowolfaotearoa@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:07:29" date="23/10/2016">
+    <field alias="name">Lauren Roche </field>
+    <field alias="email">lauren.roche@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:32:40" date="23/10/2016">
+    <field alias="name">Natasha Prentice</field>
+    <field alias="email">tashmills1@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:09:49" date="23/10/2016">
+    <field alias="name">Karyn </field>
+    <field alias="email">hoksbergen@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:54:04" date="24/10/2016">
+    <field alias="name">Shalima</field>
+    <field alias="email">shalimaram@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:56:02" date="27/10/2016">
+    <field alias="name">Hera Linter-Cole</field>
+    <field alias="email">hera@teahoturoa.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:04:17" date="29/10/2016">
+    <field alias="name">Stephanie Winslade</field>
+    <field alias="email">littlepaua@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:12:42" date="08/11/2016">
+    <field alias="name">Elizabeth FitzGerald</field>
+    <field alias="email">Elizabeth.A.FitzGerald007@googlemail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:28:28" date="13/11/2016">
+    <field alias="name">Bob Macky</field>
+    <field alias="email">bobhmacky@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:29:44" date="15/11/2016">
+    <field alias="name">john langley</field>
+    <field alias="email">jl.viv@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:06:44" date="15/11/2016">
+    <field alias="name">Helen Todd</field>
+    <field alias="email">helen@mau.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="04:04:01" date="19/11/2016">
+    <field alias="name">Bev Brockelbank</field>
+    <field alias="email">brockelbank@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:04:35" date="27/11/2016">
+    <field alias="name">Amy Quinn</field>
+    <field alias="email">amy.quinn@boprc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:39:50" date="06/12/2016">
+    <field alias="name">John Round</field>
+    <field alias="email">banjoround@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:51:37" date="17/12/2016">
+    <field alias="name">Ross Jackson</field>
+    <field alias="email">rossjackson911@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:13:26" date="19/12/2016">
+    <field alias="name">Andy Lightowler</field>
+    <field alias="email">andy.lightowler@hotmail.co.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="04:52:18" date="21/12/2016">
+    <field alias="name">Elise Wood</field>
+    <field alias="email">elise_wood@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:28:31" date="21/12/2016">
+    <field alias="name">rod miller</field>
+    <field alias="email">hellorodmiller@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:02:28" date="21/12/2016">
+    <field alias="name">Robert Richards</field>
+    <field alias="email">richardsbrh@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:50:34" date="21/12/2016">
+    <field alias="name">Wellcome Ho</field>
+    <field alias="email">wellcome.ho@mpi.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:50:05" date="21/12/2016">
+    <field alias="name">Rebecca Riordan</field>
+    <field alias="email">REBECCA.RIORDAN@ROBERTSONFOUNDATION.ORG</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:34:23" date="23/12/2016">
+    <field alias="name">Melissa Nicole</field>
+    <field alias="email">mel_harnett@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:45:52" date="07/01/2017">
+    <field alias="name">Monique Wheat</field>
+    <field alias="email">Moniquew@4sight.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:41:01" date="08/01/2017">
+    <field alias="name">Carol Bannock</field>
+    <field alias="email">carol.bannock@nzta.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:23:27" date="10/01/2017">
+    <field alias="name">Robyn Simcock</field>
+    <field alias="email">simcockr@landcareresearch.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="19:43:02" date="10/01/2017">
+    <field alias="name">Andrew Kirk</field>
+    <field alias="email">akirk@fishandgame.org.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:35:32" date="18/01/2017">
+    <field alias="name">Jin-Hua</field>
+    <field alias="email">li_jinhua@yeah.net</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="04:39:54" date="18/01/2017">
+    <field alias="name">Liz Eaton</field>
+    <field alias="email">liz@ladybrook.co.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:32:52" date="18/01/2017">
+    <field alias="name">Jess Ayres-Greager </field>
+    <field alias="email">jessgreager@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:22:49" date="26/01/2017">
+    <field alias="name">Paul  Jarvis</field>
+    <field alias="email">everardpjeu@hotmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:01:46" date="27/01/2017">
+    <field alias="name">Deborah Quinn</field>
+    <field alias="email">dquinn@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:35:48" date="29/01/2017">
+    <field alias="name">James</field>
+    <field alias="email">final195418@fenrirfacts.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="07:18:24" date="31/01/2017">
+    <field alias="name">graham collins</field>
+    <field alias="email">stormypetrelco@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:15:58" date="01/02/2017">
+    <field alias="name">ian mcgowan</field>
+    <field alias="email">ianrose.mcgowan@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:32:22" date="01/02/2017">
+    <field alias="name">Talia Hochwimmer</field>
+    <field alias="email">talia.h@mac.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:26:33" date="08/02/2017">
+    <field alias="name">fredo</field>
+    <field alias="email">fredo47@email.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:18:09" date="08/02/2017">
+    <field alias="name">Roy Sillmann</field>
+    <field alias="email">bluehills65597@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:42:48" date="09/02/2017">
+    <field alias="name">Joanne Duval</field>
+    <field alias="email">Joanneduval69@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="04:43:58" date="14/02/2017">
+    <field alias="name">Mick Reynolds</field>
+    <field alias="email">mickreynolds@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:15:55" date="16/02/2017">
+    <field alias="name">Lizzy van Heugten</field>
+    <field alias="email">lizzy.vanh@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:18:21" date="17/02/2017">
+    <field alias="name">Gavin and Luana Sharp</field>
+    <field alias="email">Gavin.Brien.sharp@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:35:50" date="21/02/2017">
+    <field alias="name">Ellena Hough</field>
+    <field alias="email">ellena.hough@plantandfood.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:32:37" date="25/02/2017">
+    <field alias="name">Karla Allies K9 &amp; Cat NZ</field>
+    <field alias="email">karla@k9andcat.org</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:38:45" date="26/02/2017">
+    <field alias="name">fletcher McKay</field>
+    <field alias="email">fletchermckay50@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:26:37" date="03/03/2017">
+    <field alias="name">Andrew Landy</field>
+    <field alias="email">andrew_landy@yahoo.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:47:28" date="09/03/2017">
+    <field alias="name">Julian</field>
+    <field alias="email">julianward0@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:25:16" date="12/03/2017">
+    <field alias="name">shelby </field>
+    <field alias="email">shelbyn@elstow-wahiou.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:25:17" date="12/03/2017">
+    <field alias="name">caitlyn</field>
+    <field alias="email">caitlynh@elstow-waihou.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:27:26" date="12/03/2017">
+    <field alias="name">eva</field>
+    <field alias="email">evas@elstow-waihou.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:22:18" date="20/03/2017">
+    <field alias="name">Ryder</field>
+    <field alias="email">Rydert@wps.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:44:32" date="23/03/2017">
+    <field alias="name">christopher</field>
+    <field alias="email">christophr1524@pinehill.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="14:05:40" date="25/03/2017">
+    <field alias="name">Don Rowson</field>
+    <field alias="email">donrowson@yahoo.co.uk</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:22:50" date="26/03/2017">
+    <field alias="name">fleur coleman </field>
+    <field alias="email">fleur.coleman@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:22:51" date="26/03/2017">
+    <field alias="name">fleur coleman </field>
+    <field alias="email">fleur.coleman@aucklandcouncil.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:19:10" date="27/03/2017">
+    <field alias="name">caitlyn</field>
+    <field alias="email">caitlynh@elstow-waihou.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:19:47" date="27/03/2017">
+    <field alias="name">caitlyn</field>
+    <field alias="email">caitlynh@elstow-waihou.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="06:20:25" date="27/03/2017">
+    <field alias="name">caitlyn</field>
+    <field alias="email">caitlynh@elstow-waihou.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:27:14" date="05/04/2017">
+    <field alias="name">Ella</field>
+    <field alias="email">2016ellah@kamoint.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:18:30" date="05/04/2017">
+    <field alias="name">bob</field>
+    <field alias="email">bob.mac@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:21:11" date="05/04/2017">
+    <field alias="name">megh</field>
+    <field alias="email">megh.me@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:24:58" date="05/04/2017">
+    <field alias="name">bob</field>
+    <field alias="email">bob.ba@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="01:59:16" date="08/04/2017">
+    <field alias="name">Tracey</field>
+    <field alias="email">tracey@pahoia.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:59:21" date="18/04/2017">
+    <field alias="name">Samantha Cortes</field>
+    <field alias="email">samcortes121@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:18:40" date="19/04/2017">
+    <field alias="name">Robynn </field>
+    <field alias="email">admin@dcrail.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:18:40" date="19/04/2017">
+    <field alias="name">Robynn </field>
+    <field alias="email">admin@dcrail.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="23:19:19" date="19/04/2017">
+    <field alias="name">kim</field>
+    <field alias="email">kim.parker@waikatoregion.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:11:24" date="05/05/2017">
+    <field alias="name">Tracey Lankshear</field>
+    <field alias="email">tracey@pahoia.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="00:17:56" date="06/05/2017">
+    <field alias="name">Niamh Swannack</field>
+    <field alias="email">niamh.swannack@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:23:42" date="16/05/2017">
+    <field alias="name">Thomas</field>
+    <field alias="email">jackforeman192@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:23:43" date="16/05/2017">
+    <field alias="name">Thomas</field>
+    <field alias="email">jackforeman192@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:23:46" date="16/05/2017">
+    <field alias="name">Thomas</field>
+    <field alias="email">jackforeman192@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:23:47" date="16/05/2017">
+    <field alias="name">Thomas</field>
+    <field alias="email">jackforeman192@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:27:43" date="16/05/2017">
+    <field alias="name">Thomas</field>
+    <field alias="email">thomas.for17@my.geis.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:28:34" date="16/05/2017">
+    <field alias="name">Thomas</field>
+    <field alias="email">jackforeman192@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:39:08" date="16/05/2017">
+    <field alias="name">Adrian</field>
+    <field alias="email">adrian.tol17@my.geis.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:44:09" date="16/05/2017">
+    <field alias="name">Dumm </field>
+    <field alias="email">Damien87@konini.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="18:44:17" date="17/05/2017">
+    <field alias="name">Amylea Neylon</field>
+    <field alias="email">amylea.neylon@outlook.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:36:52" date="24/05/2017">
+    <field alias="name">Courtney Davis</field>
+    <field alias="email">cdavis@waipoua.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:39:55" date="29/05/2017">
+    <field alias="name">benjamin</field>
+    <field alias="email">benjamin50@konini.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="09:51:39" date="01/06/2017">
+    <field alias="name">Sophie Anderson</field>
+    <field alias="email">sofisandy@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="12:21:48" date="05/06/2017">
+    <field alias="name">Hans Klüche</field>
+    <field alias="email">Hans@Hans-Klueche.de</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:56:02" date="11/06/2017">
+    <field alias="name">Cliff Morris</field>
+    <field alias="email">morris.mob@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="21:29:07" date="12/06/2017">
+    <field alias="name">Murray Stevens</field>
+    <field alias="email">stevensassocs@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:51:59" date="13/06/2017">
+    <field alias="name">Bec</field>
+    <field alias="email">rebecca.nadge@thenews.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:46:40" date="15/06/2017">
+    <field alias="name">Lawrence Watt</field>
+    <field alias="email">lawrence.watt@clear.net.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:22:22" date="19/06/2017">
+    <field alias="name">Max Watkins</field>
+    <field alias="email">janet.mw@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:48:11" date="20/06/2017">
+    <field alias="name">daisy</field>
+    <field alias="email">daisyoc@helensville.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:56:21" date="21/06/2017">
+    <field alias="name">Damien</field>
+    <field alias="email">Damien.dri17@my.geis.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:58:57" date="21/06/2017">
+    <field alias="name">Poo</field>
+    <field alias="email">Damien.Dri17@my.geis.school.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="16:13:01" date="04/07/2017">
+    <field alias="name">Helen Wilson</field>
+    <field alias="email">sharpadze@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:26:30" date="05/07/2017">
+    <field alias="name">Drina</field>
+    <field alias="email">drina.paratene@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="20:32:02" date="06/07/2017">
+    <field alias="name">andrea sugar</field>
+    <field alias="email">angsuga22@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:43:20" date="07/07/2017">
+    <field alias="name">martin Herbert</field>
+    <field alias="email">herbone@xtra.co.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="08:17:09" date="07/07/2017">
+    <field alias="name">Tracey Mackay</field>
+    <field alias="email">traceymackay12@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="03:54:33" date="10/07/2017">
+    <field alias="name">Nadia</field>
+    <field alias="email">babypanda1597@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="02:42:49" date="18/07/2017">
+    <field alias="name">A (Drew) G Stewart</field>
+    <field alias="email">kestrel1949@gmail.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="05:19:20" date="18/07/2017">
+    <field alias="name">Pip Mandis</field>
+    <field alias="email">pip@awesomewalks.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="22:26:34" date="23/07/2017">
+    <field alias="name">Deborah Quinn</field>
+    <field alias="email">dquinn@doc.govt.nz</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+  <log time="10:47:07" date="26/07/2017">
+    <field alias="name">layla justice</field>
+    <field alias="email">laylajustice1@yahoo.com</field>
+    <field alias="question"><![CDATA[Hananui Website: Unit Location Floor Plan Map Request]]></field>
+  </log>
+</logs>

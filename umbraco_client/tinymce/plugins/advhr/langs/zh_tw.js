@@ -1,0 +1,1 @@
+tinyMCE.addToLang("",{insert_advhr_desc:"插入或編輯水末u",insert_advhr_width:"寬",insert_advhr_size:"高",insert_advhr_noshade:"無陰影"});

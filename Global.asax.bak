@@ -1,0 +1,97 @@
+﻿<%@ Application Language="C#" %>
+<script runat="server">
+
+    protected Timer publishingTimer;
+    protected Timer pingTimer;
+    
+    void Application_Start(object sender, EventArgs e) 
+    {
+        // Code that runs on application startup
+
+    }
+    
+    void Application_End(object sender, EventArgs e) 
+    {
+        //  Code that runs on application shutdown
+        umbraco.BusinessLogic.Log.Add(umbraco.BusinessLogic.LogTypes.System, umbraco.BusinessLogic.User.GetUser(0), -1, "Application shutted down at " + DateTime.Now);
+
+    }
+
+    protected void Application_Error(object sender, EventArgs e)
+    {
+        //   Code that runs when an unhandled error occurs
+        if (ConfigurationSettings.AppSettings["BKA.Error.ShowFriendlyErrors"].ToLower() == "true")
+        {            
+            Exception x = Server.GetLastError().GetBaseException();
+
+            /*if (Request.Browser.Browser != "Unknown")
+            {
+                
+                BKA.ErrorManagement.ErrorReport er = new BKA.ErrorManagement.ErrorReport(x);
+                er.BrowserVersion = Request.Browser.Browser + ":" + Request.Browser.Platform + ":" + Request.Browser.Version;
+                er.JavaScriptEnabled = Request.Browser.JavaScript.ToString();                
+                er.SendReport();                    
+  
+            }*/
+            if (Request.Browser.Browser != "Unknown")
+            {
+                string body = "<p><b>Exception Details:</b> " + x.ToString() + "</p>"
+                        + "<p><b>Raw URL:</b> " + Request.RawUrl + "</p>"
+                        + "<p><b>Browser Version:</b> " + Request.Browser.Browser + ":" + Request.Browser.Platform + ":" + Request.Browser.Version + "</p>"
+                        + "<p><b>JavaScript Enabled:</b> " + Request.Browser.JavaScript.ToString() + "</p>";
+
+                try
+                {
+                    //MS 20081111 {
+
+                    System.Net.Mail.MailMessage myemail = new System.Net.Mail.MailMessage();
+                    myemail.From = new System.Net.Mail.MailAddress(ConfigurationSettings.AppSettings["BKA.Error.MailFrom"]);
+                    myemail.To.Add(ConfigurationSettings.AppSettings["BKA.Error.MailTo"]);
+                    myemail.Subject = ConfigurationSettings.AppSettings["BKA.Error.MailSubject"];
+                    myemail.Body = body;
+                    myemail.IsBodyHtml = true;
+
+                    System.Net.Mail.SmtpClient smtp = new System.Net.Mail.SmtpClient();
+                    smtp.Host = ConfigurationSettings.AppSettings["EmailSmtpServer"].ToString();
+                    smtp.Send(myemail);
+                }
+                catch (Exception)
+                {
+
+                }
+            }
+            
+            Response.Write(
+                System.IO.File.ReadAllText(Server.MapPath(ConfigurationSettings.AppSettings["BKA.Error.Path"]))
+                );
+            Response.End();            
+        }
+    }
+
+    void Session_Start(object sender, EventArgs e) 
+    {
+        // Code that runs when a new session is started
+        if (umbraco.GlobalSettings.EnableStat)
+        {
+            try
+            {
+                new umbraco.cms.businesslogic.stat.Session();
+            }
+            catch (Exception state)
+            {
+                umbraco.BusinessLogic.Log.Add(umbraco.BusinessLogic.LogTypes.Error, umbraco.BusinessLogic.User.GetUser(0), -1, "Error initializing stat: " + state);
+            }
+        }
+
+    }
+
+    void Session_End(object sender, EventArgs e) 
+    {
+        // Code that runs when a session ends. 
+        // Note: The Session_End event is raised only when the sessionstate mode
+        // is set to InProc in the Web.config file. If session mode is set to StateServer 
+        // or SQLServer, the event is not raised.
+
+    }
+       
+</script>

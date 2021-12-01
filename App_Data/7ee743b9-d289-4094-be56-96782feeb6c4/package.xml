@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>uComponents.Core.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uComponents.Core.dll</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>uComponents</name>
+      <version>v1.0</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://ucomponents.codeplex.com</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>uComponents Team</name>
+      <website>http://ucomponents.codeplex.com</website>
+    </author>
+    <readme><![CDATA[uComponents is a collaborative project for creating components for Umbraco  including data types, XSLT extensions, controls and more. 
+
+Currently uComponents  consists of 15 data types, 3 very useful XSLT extension libraries, and some great utilities to make consistent data types.
+
+DataTypes:
+
+* Auto Complete
+* Dropdown CheckList
+* Elastic TextBox
+* FilePicker
+* Image DropDown
+* Incremental TextBox
+* Multi-Node Tree Picker
+* Multiple Dates
+* Radiobutton List with Images
+* Related Links with Media
+* Slider
+* Styled TextBox
+* ToggleBox
+* Unique Property
+* User Picker
+
+XSLT Extesions:
+
+* CMS
+* Strings
+* Xml
+
+Visit the CodePlex site for full details, documentation, roadmap and source code.
+
+http://ucomponents.codeplex.com
+
+...Version 2.0 will be even bigger and better so stay tuned for more.]]></readme>
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros />
+  <DictionaryItems />
+  <Languages />
+  <DataTypes />
+</umbPackage>

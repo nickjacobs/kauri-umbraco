@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dictionary>
+  <item>
+    <key>
+      <EXAFields>Name</EXAFields>
+    </key>
+    <value>
+      <string>BKA-PC-11</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>Created</EXAFields>
+    </key>
+    <value>
+      <string>2010-07-27 08:05:16.995</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>Updated</EXAFields>
+    </key>
+    <value>
+      <string>2010-09-03 08:00:32.088</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <EXAFields>IsMaster</EXAFields>
+    </key>
+    <value>
+      <string>True</string>
+    </value>
+  </item>
+</dictionary>

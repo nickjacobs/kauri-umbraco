@@ -1,0 +1,865 @@
+<umbPackage>
+	<info>
+		<package>
+			<name>umbraco Website Wizard</name>
+			<version>1.0</version>
+			<license url="http://umbraco.org/gpl.aspx">umbraco gpl</license>
+			<url>http://umbraco.org/packages/websiteWizard.aspx</url>
+			<requirements>
+				<major>2</major>
+				<minor>1</minor>
+				<patch>0</patch>
+			</requirements>
+		</package>
+		<author>
+			<name>Niels Hartvig</name>
+			<website>http://hartvig.com</website>
+		</author>
+		<readme><![CDATA[
+			This will install a sample website. You'll be able to choose different configuration settings in the end.<br/><br/>
+			I'd love feedback, so mail me any comments, ideas or improvements at
+			hartvig@umbraco.org!<br/><br/>
+			Cheers,<br/>
+			Niels Hartvig, Copenhagen, Denmark 2006
+			]]></readme>
+	</info>
+	<macros>
+		<macro>
+			<name>Wizard 2nd Level Navigation</name>
+			<alias>2ndLevelNavigation</alias>
+			<scriptType/>
+			<scriptAssembly/>
+			<xslt>2ndLevelNavigation.xslt</xslt>
+			<useInEditor>false</useInEditor>
+			<refreshRate>0</refreshRate>
+		</macro>
+		<macro>
+			<name>Wizard Top Navigation</name>
+			<alias>WizardTopNavigation</alias>
+			<scriptType/>
+			<scriptAssembly/>
+			<xslt>wizardTopNavigation.xslt</xslt>
+			<useInEditor>false</useInEditor>
+			<refreshRate>0</refreshRate>
+		</macro>
+		<macro>
+			<name>Wizard Pull Down Navigation</name>
+			<alias>WizardPullDownNavigation</alias>
+			<scriptType/>
+			<scriptAssembly/>
+			<xslt>wizardPullDownNavigation.xslt</xslt>
+			<useInEditor>false</useInEditor>
+			<refreshRate>0</refreshRate>
+		</macro>
+		<macro>
+			<name>Wizard Breadcrum</name>
+			<alias>Breadcrum</alias>
+			<scriptType/>
+			<scriptAssembly/>
+			<xslt>breadcrum.xslt</xslt>
+			<useInEditor>false</useInEditor>
+			<refreshRate>0</refreshRate>
+		</macro>
+		<macro>
+			<name>Wizard Display News</name>
+			<alias>DisplayNews</alias>
+			<scriptType/>
+			<scriptAssembly/>
+			<xslt>DisplayNews.xslt</xslt>
+			<useInEditor>false</useInEditor>
+			<refreshRate>0</refreshRate>
+			<properties>
+				<property show="true" propertyType="number" alias="numberOfItems" name="Number of news to display"/>
+			</properties>
+		</macro>
+	</macros>
+	<files>
+		<file>
+			<guid>0BF321A6-7F81-4C90-994E-338D8E49238B.dll</guid>
+			<orgPath>/bin</orgPath>
+			<orgName>websiteWizard.dll</orgName>
+		</file>
+		<file>
+			<guid>E60B0FD6-A315-487A-98D3-3AB59A0218F6.ascx</guid>
+			<orgPath>/usercontrols/umbracoWebsiteWizard</orgPath>
+			<orgName>RunWizard.ascx</orgName>
+		</file>
+		<file>
+			<guid>E60B0FD6-A3b1-317A-98D3-3AB59A0218F6.xslt</guid>
+			<orgPath>/xslt</orgPath>
+			<orgName>wizardTopNavigation.xslt</orgName>
+		</file>
+		<file>
+			<guid>F0486610-BE2D-4B03-8BEE-C700BAA66E3F.xslt</guid>
+			<orgPath>/xslt</orgPath>
+			<orgName>2ndLevelNavigation.xslt</orgName>
+		</file>
+		<file>
+			<guid>F0486610-BE2D-4B03-8BEE-C723BFC66E3F.xslt</guid>
+			<orgPath>/xslt</orgPath>
+			<orgName>wizardPullDownNavigation.xslt</orgName>
+		</file>
+		<file>
+			<guid>F0486610-BE2D-4B03-8BEE-C732BFC66E3F.xslt</guid>
+			<orgPath>/xslt</orgPath>
+			<orgName>breadcrum.xslt</orgName>
+		</file>
+		<file>
+			<guid>F0486610-BE2D-4B03-8BEE-B100BFC66E3F.xslt</guid>
+			<orgPath>/xslt</orgPath>
+			<orgName>DisplayNews.xslt</orgName>
+		</file>
+		<file>
+			<guid>F0486610-AAAA-4B03-8BEE-B100BFC66E3F.png</guid>
+			<orgPath>/css/wizard</orgPath>
+			<orgName>pullBackground.png</orgName>
+		</file>
+		<file>
+			<guid>F0486610-ABAA-4B03-8BEE-B100BFC66E3F.gif</guid>
+			<orgPath>/css/wizard</orgPath>
+			<orgName>background_top.gif</orgName>
+		</file>
+		<file>
+			<guid>F0486610-ACAA-4B03-8BEE-B100BFC66E3F.gif</guid>
+			<orgPath>/css/wizard</orgPath>
+			<orgName>background_bottom.gif</orgName>
+		</file>
+		<file>
+			<guid>AA486610-ACAA-4B03-8BEE-B100BFC66E3F.png</guid>
+			<orgPath>/media/21</orgPath>
+			<orgName>header.png</orgName>
+		</file>
+		<file>
+			<guid>AB486610-ACAA-4B03-8BEE-B100BFC66E3F.jpg</guid>
+			<orgPath>/media/21</orgPath>
+			<orgName>header_thumb.jpg</orgName>
+		</file>
+		<file>
+			<guid>AA434610-ACAA-4B03-8BEE-B100BFC66E3F.png</guid>
+			<orgPath>/media/38</orgPath>
+			<orgName>menubg.png</orgName>
+		</file>
+		<file>
+			<guid>ABC86610-ACAA-4B03-8BEE-B100BFC66E3F.jpg</guid>
+			<orgPath>/media/38</orgPath>
+			<orgName>menubg_thumb.jpg</orgName>
+		</file>
+	</files>
+	<commands>
+	</commands>
+	<control>/usercontrols/umbracoWebsiteWizard/RunWizard.ascx</control>
+	<DocumentTypes>
+		<DocumentType>
+			<Info>
+				<Name>Textpage</Name>
+				<Alias>wwTextpage</Alias>
+				<Icon>doc.gif</Icon>
+				<AllowedTemplates>
+					<Template>wwTextpage</Template>
+				</AllowedTemplates>
+				<DefaultTemplate>wwTextpage</DefaultTemplate>
+			</Info>
+			<Structure>
+				<DocumentType>wwTextpage</DocumentType>
+			</Structure>
+			<Tabs>
+				<Tab>
+					<Id>114</Id>
+					<Caption>Content</Caption>
+				</Tab>
+			</Tabs>
+			<GenericProperties>
+				<GenericProperty>
+					<Name>Content</Name>
+					<Alias>bodyText</Alias>
+					<Type>a3776494-0574-4d93-b7de-efdfdec6f2d1</Type>
+					<Tab>Content</Tab>
+					<Mandatory>False</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+				<GenericProperty>
+					<Name>Header (optional)</Name>
+					<Alias>headerImage</Alias>
+					<Type>f8d60f68-ec59-4974-b43b-c46eb5677985</Type>
+					<Tab>0</Tab>
+					<Mandatory>False</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+			</GenericProperties>
+		</DocumentType>
+		<DocumentType>
+			<Info>
+				<Name>News item</Name>
+				<Alias>wwNewsItem</Alias>
+				<Icon>folder.gif</Icon>
+				<AllowedTemplates>
+					<Template>wwNewsItem</Template>
+				</AllowedTemplates>
+				<DefaultTemplate>wwNewsItem</DefaultTemplate>
+			</Info>
+			<Structure/>
+			<Tabs>
+				<Tab>
+					<Id>117</Id>
+					<Caption>Content</Caption>
+				</Tab>
+				<Tab>
+					<Id>118</Id>
+					<Caption>Teaser</Caption>
+				</Tab>
+			</Tabs>
+			<GenericProperties>
+				<GenericProperty>
+					<Name>Content</Name>
+					<Alias>bodyText</Alias>
+					<Type>a3776494-0574-4d93-b7de-efdfdec6f2d1</Type>
+					<Tab>Content</Tab>
+					<Mandatory>False</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+				<GenericProperty>
+					<Name>Teaser</Name>
+					<Alias>teaser</Alias>
+					<Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+					<Tab>Teaser</Tab>
+					<Mandatory>True</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+			</GenericProperties>
+		</DocumentType>
+		<DocumentType>
+			<Info>
+				<Name>News</Name>
+				<Alias>wwNews</Alias>
+				<Icon>docPic.gif</Icon>
+				<AllowedTemplates>
+					<Template>wwNews</Template>
+				</AllowedTemplates>
+				<DefaultTemplate>wwNews</DefaultTemplate>
+			</Info>
+			<Structure>
+				<DocumentType>wwNewsItem</DocumentType>
+			</Structure>
+			<Tabs>
+				<Tab>
+					<Id>116</Id>
+					<Caption>Intro</Caption>
+				</Tab>
+			</Tabs>
+			<GenericProperties>
+				<GenericProperty>
+					<Name>Content</Name>
+					<Alias>bodyText</Alias>
+					<Type>a3776494-0574-4d93-b7de-efdfdec6f2d1</Type>
+					<Tab>Intro</Tab>
+					<Mandatory>False</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+			</GenericProperties>
+		</DocumentType>
+		<DocumentType>
+			<Info>
+				<Name>Frontpage</Name>
+				<Alias>wwFrontpage</Alias>
+				<Icon>folder.gif</Icon>
+				<AllowedTemplates>
+					<Template>wwFrontpage</Template>
+				</AllowedTemplates>
+				<DefaultTemplate>wwFrontpage</DefaultTemplate>
+			</Info>
+			<Structure>
+				<DocumentType>wwTextpage</DocumentType>
+				<DocumentType>wwNews</DocumentType>
+			</Structure>
+			<Tabs>
+				<Tab>
+					<Id>112</Id>
+					<Caption>Content</Caption>
+				</Tab>
+				<Tab>
+					<Id>113</Id>
+					<Caption>Layout</Caption>
+				</Tab>
+			</Tabs>
+			<GenericProperties>
+				<GenericProperty>
+					<Name>Content</Name>
+					<Alias>bodyText</Alias>
+					<Type>a3776494-0574-4d93-b7de-efdfdec6f2d1</Type>
+					<Tab>Content</Tab>
+					<Mandatory>False</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+				<GenericProperty>
+					<Name>Header</Name>
+					<Alias>headerImage</Alias>
+					<Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+					<Tab>Layout</Tab>
+					<Mandatory>False</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+				<GenericProperty>
+					<Name>Top Navigation Background</Name>
+					<Alias>topBg</Alias>
+					<Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+					<Tab>Layout</Tab>
+					<Mandatory>False</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+				<GenericProperty>
+					<Name>Footer</Name>
+					<Alias>footer</Alias>
+					<Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+					<Tab>Layout</Tab>
+					<Mandatory>False</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+				<GenericProperty>
+					<Name>Sitename (appears in title)</Name>
+					<Alias>siteName</Alias>
+					<Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+					<Tab>Layout</Tab>
+					<Mandatory>True</Mandatory>
+					<Validation/>
+					<Description><![CDATA[]]></Description>
+				</GenericProperty>
+			</GenericProperties>
+		</DocumentType>
+	</DocumentTypes>
+	<Templates>
+		<Template>
+			<Name>Frontpage</Name>
+			<Alias>wwFrontpage</Alias>
+			<Master>wwMain</Master>
+			<Design><![CDATA[<div id="newsBox">
+<h2><?UMBRACO_GETITEM field="#LatestNews"/>:</h1>
+<?UMBRACO_MACRO macroAlias="DisplayNews" numberOfItems="2"></?UMBRACO_MACRO>
+</div>
+<h1><?UMBRACO_GETITEM field="pageName"/></h1>
+<?UMBRACO_GETITEM field="bodyText"/>
+]]></Design>
+		</Template>
+		<Template>
+			<Name>Main</Name>
+			<Alias>wwMain</Alias>
+			<Master/>
+			<Design><![CDATA[<!doctype html public "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd">
+<html>
+	<head>
+		<title><?UMBRACO_GETITEM field="siteName" recursive="true"/> - <?UMBRACO_GETITEM field="pageName"/></title>
+		<link rel="stylesheet" href="/css/wizard.css" type="text/css">
+		<link rel="stylesheet" href="/css/umbracoAutoForm.css" type="text/css">
+		<LINK rel="stylesheet" type"text/css" href="/css/wizardPrint.css" media="print">
+%%METADATA%%
+
+	</head>
+	<body>
+
+<?ASPNET_FORM>
+		<div id="container">
+			<div id="main">
+<a href="/" title="Back to front page" id="header" style="background: url(<?UMBRACO_GETITEM field="headerImage" recursive="true"/>)">
+</a>
+<div id="naviHolder" style="background: url(<?UMBRACO_GETITEM field="topBg" recursive="true"/>)">
+<?UMBRACO_MACRO macroAlias="WizardTopNavigation" ></?UMBRACO_MACRO>
+</div>
+
+				<div id="content">
+<?UMBRACO_TEMPLATE_LOAD_CHILD/>
+				</div>
+				<div id="bottom"><?UMBRACO_GETITEM field="footer" recursive="true"/></div>
+				<div id="bottomShadow"><br/></div>
+			</div>
+		</div>
+<a title="Visit the umbraco.org site" href="http://umbraco.org" style="font-size: 10px; text-decoration: none; color: #999">Powered by umbraco</a>
+</?ASPNET_FORM>
+	</body>
+</html>
+]]></Design>
+		</Template>
+		<Template>
+			<Name>News</Name>
+			<Alias>wwNews</Alias>
+			<Master>wwMain</Master>
+			<Design><![CDATA[%%BREADCRUM_TOP%%
+<h1><?UMBRACO_GETITEM field="pageName"/></h1>
+<?UMBRACO_GETITEM field="bodyText"/>
+<?UMBRACO_MACRO macroAlias="DisplayNews" numberOfItems="30"></?UMBRACO_MACRO>
+%%BREADCRUM_BOTTOM%%
+]]></Design>
+		</Template>
+		<Template>
+			<Name>News item</Name>
+			<Alias>wwNewsItem</Alias>
+			<Master>wwMain</Master>
+			<Design><![CDATA[%%BREADCRUM_TOP%%
+<h1><?UMBRACO_GETITEM field="pageName"/></h1>
+<h3><?UMBRACO_GETITEM field="teaser"/></h3>
+<?UMBRACO_GETITEM field="bodyText"/>
+%%BREADCRUM_BOTTOM%%
+<p id="bottomInfo">
+<?UMBRACO_GETITEM field="#LastUpdate"/> <?UMBRACO_GETITEM field="updateDate" formatAsDate="true"/>, <?UMBRACO_GETITEM field="#createdBy"/> <?UMBRACO_GETITEM field="writerName"/>
+</p>]]></Design>
+		</Template>
+		<Template>
+			<Name>Textpage</Name>
+			<Alias>wwTextpage</Alias>
+			<Master>wwMain</Master>
+			<Design><![CDATA[<?UMBRACO_MACRO macroAlias="2ndLevelNavigation" ></?UMBRACO_MACRO>
+<div id="textContent">
+%%BREADCRUM_TOP%%
+<h1><?UMBRACO_GETITEM field="pageName"/></h1>
+<?UMBRACO_GETITEM field="bodyText"/>
+%%BREADCRUM_BOTTOM%%
+<p id="bottomInfo"><?UMBRACO_GETITEM field="#LastUpdate"/> <?UMBRACO_GETITEM field="updateDate" formatAsDate="true"/>, <?UMBRACO_GETITEM field="#createdBy"/> <?UMBRACO_GETITEM field="writerName"/></p>
+</div>]]></Design>
+		</Template>
+	</Templates>
+	<Stylesheets>
+		<Stylesheet>
+			<Name>Wizard</Name>
+			<FileName/>
+			<Content><![CDATA[/* Rich text editor styling start */
+#holderBody {
+	background: #fff;
+}
+
+#holder {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin: 5px;
+	text-align: left;
+}
+
+/* Rich text editor styling end */
+
+body,html {
+	margin:0;
+	padding:0;
+	background-color: #EFEFF6;
+	font-family: 'lucida grande', 'lucida sans', lucida, verdana;
+	font-size:12px;
+	text-align: center;
+	color:#333366;
+	}
+
+/* HEADERS */
+h2 {
+	font-size:30px;
+	margin: 5px 0;
+	padding: 0;
+	font-weight: bold;
+	font-size: 140%;
+	text-decoration: none;
+}
+
+/* NEWS*/
+.newsDate {
+	margin: 0;
+	padding: 5px 0 0 0;
+	font-size: 90%;
+}
+.newsResume {
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+
+#newsBox {
+	width: 200px;
+	float: right;
+	padding: 10px;
+	margin: 5px;
+	border: 1px dotted #ddd;
+}
+
+#newsBox .newsDate {
+	border-top: 1px solid #ddd;
+}
+
+/* header */
+#header {
+width: 775px;
+height: 103px;
+border-bottom:1px #333366 solid;
+padding: 0;
+display: block;
+}
+
+/* Navigation */
+
+#secondLevelNavigation {
+    float: left;
+    width: 110px;
+    list-style:none;
+    padding:0;
+    margin: 0;  
+    border-top: 1px solid #ddd;
+}
+
+#secondLevelNavigation li {
+    margin: 0;
+    border-bottom: 1px solid #ddd;
+}
+
+#secondLevelNavigation li .selected {
+	font-weight: bold;
+}
+
+#secondLevelNavigation a {
+    display: block;
+    padding: 5px 0;
+    text-decoration: none;
+}
+
+#secondLevelNavigation a:hover {
+    background-color: #eee;
+}
+
+#naviHolder{
+    float: left;
+    padding:0;
+    width:775px;
+    height: 30px;
+    margin: 0;    
+}
+
+#naviList {
+    list-style:none;
+    margin: 0;    
+    padding: 0;
+}
+
+#naviList li {
+    width:95px;
+    float:left;
+    border-left:#ddd9cc solid 1px;
+    border-right:#888477 solid 1px;
+}
+
+#naviList .selected {
+	font-weight: bold;
+}
+
+#naviList a{
+    padding: 8px 0;
+    text-align: center;
+    text-decoration:none;
+    color:#ffffff;
+    display: block;
+}
+
+#naviList a:hover{
+    color:#ddd9cc;
+}
+/* Pull */
+#nav ul, #nav {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+#nav a {
+    padding: 8px 0;
+    text-align: center;
+    text-decoration:none;
+    color:#ffffff;
+    display: block;
+}
+
+#nav .current {
+	font-weight: bold;
+}
+
+#nav a {
+	text-decoration: none;
+}
+
+#nav a:hover {
+	color: white;
+}
+
+#nav li li a {
+	display: block;
+	font-weight: normal;
+	color: #060;
+	padding: 0.5em 0;
+}
+
+#nav li {
+	float: left;
+	position: relative;
+	width: 10em;
+	text-align: center;
+	cursor: default;
+    border-left:#ddd9cc solid 1px;
+    border-right:#888477 solid 1px;
+}
+
+
+li ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+
+	font-weight: normal;
+	background: url(wizard/pullBackground.png);
+	padding: 2em 0;
+	border-bottom: 1px solid #888477;
+}
+
+li>ul {
+	top: auto;
+	left: auto;
+}
+
+li li {
+	display: block;
+	float: none;
+	background-color: transparent;
+	border: 0;
+}
+
+li:hover ul, li.over ul {
+	display: block;
+}
+
+/* BREADCRUM */
+#umbBreadcrum {
+    list-style:none;
+    padding: 0;
+    margin: 0;
+    color: #aaa;
+    font-size: smaller;
+}
+
+#umbBreadcrum li {
+    float:left;
+    margin: 0 3px 3px 0;  
+    padding: 0;
+}
+
+/* BOXES */
+a {
+color:#339933;
+}
+
+#textContent {
+	width: 600px;
+	border-left: 1px solid #ddd;
+	float: right;
+	padding-left: 10px;
+	min-height: 280px;
+	_height: 280px;
+}
+
+#bottomInfo {
+	border-top: 1px solid #ccc;
+	padding-top: 5px;
+	color: #aaa;
+	font-size: smaller;
+}
+
+#container {
+	margin: 10px auto;
+	width: 782px;
+        background: #fff;
+}
+
+#main {
+	width:782px;
+	margin:0;
+	padding:0;
+	text-align:left;
+}
+
+#bottom {
+	clear: both;
+	border-top: 1px solid #333366;
+	width:765px;
+	margin:5px 0;
+	padding:5px 0;
+	text-align:center;
+	font-size: x-small;
+}
+
+#content {
+	float: left;
+	padding-top:15px;
+	padding-left:17px;
+	padding-right:25px;
+	padding-bottom:15px;
+}
+
+#content img {
+margin:0 0 20px 20px;
+}
+
+
+#main {
+
+	background-image:url(wizard/background_top.gif);
+}
+#bottomShadow {
+	background-image:url(wizard/background_bottom.gif);
+}
+]]></Content>
+			<Properties>
+				<Property>
+					<Name>Header</Name>
+					<Alias>h1</Alias>
+					<Value>	font-size:20px;
+	font-weight: bold;</Value>
+				</Property>
+				<Property>
+					<Name>Small Header</Name>
+					<Alias>h3</Alias>
+					<Value>	font-size:12px;
+	font-weight: bold;</Value>
+				</Property>
+			</Properties>
+		</Stylesheet>
+		<Stylesheet>
+			<Name>umbracoAutoForm</Name>
+			<FileName/>
+			<Content><![CDATA[/* GENERAL STYLES */
+  #umbracoAutoForm fieldset {border:none;}
+  #umbracoAutoForm legend {display:none;}
+  #umbracoAutoForm label {float: left; width: 15em;}
+  .umbracoAutoFormAlert {color: red;margin-left: 15em;}
+  #umbracoAutoForm input, textarea {width: 17em;}
+  .umbracoAutoFormValidationSummary {display: none;}
+.umbracoAutoFormRowDescription {
+	font-weight: normal;
+	font-size: 80%;
+	color: #999;
+}
+
+/* EDITOR PROPERTIES */
+]]></Content>
+		</Stylesheet>
+	</Stylesheets>
+	<Documents>
+		<DocumentSet importMode="root">
+			<node id="1220" version="d7e28ff3-d948-4692-baee-249894d9295e" parentID="-1" level="1" writerID="0" creatorID="0" nodeType="1211" template="1206" sortOrder="2" createDate="2005-12-30T14:01:12" updateDate="2006-01-08T04:59:11" nodeName="Frontpage" urlName="frontpage" writerName="umbraco_system" creatorName="umbraco_system" nodeTypeAlias="wwFrontpage" path="-1,1220">
+				<data versionID="d7e28ff3-d948-4692-baee-249894d9295e" alias="bodyText"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In quis arcu vel neque vehicula dapibus. Donec quis est sit amet neque aliquet eleifend. Aenean eu nisl. Donec tincidunt eleifend diam. Maecenas feugiat tincidunt erat. Donec sapien. Quisque blandit dolor nec dolor. Nulla est nunc, convallis nec, accumsan vel, consectetuer sit amet, justo. Nunc quis enim. Duis et erat ut enim scelerisque interdum. Quisque vel turpis in odio malesuada luctus.</p>
+
+<p>Pellentesque quis est. Fusce eu nisi ac risus adipiscing interdum. Pellentesque lobortis urna eu ante facilisis porta. Vivamus interdum convallis mi. Mauris ante sem, tincidunt ac, facilisis varius, convallis suscipit, sapien. Nunc semper scelerisque lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi nunc nulla, malesuada eget, elementum eu, molestie id, urna. Aliquam erat volutpat. Aliquam erat volutpat.</p>
+
+<p>Aliquam diam libero, pulvinar nec, rutrum nec, vestibulum quis, metus. Cras lorem diam, tincidunt sit amet, tincidunt ut, ullamcorper et, odio. Aliquam in nibh at lectus pharetra ornare. Curabitur vel quam. Nulla a mi eu eros condimentum semper. Suspendisse porta hendrerit turpis. Etiam convallis suscipit augue. Nam ornare mauris vel leo. Nulla molestie. Quisque eget arcu sit amet libero rhoncus posuere. Nunc neque. Nullam laoreet fringilla nisi. Nunc nisi urna, volutpat eget, pulvinar nec, vehicula sed, nulla. Etiam justo libero, sollicitudin egestas, porttitor non, convallis non, nulla. Aliquam dapibus.</p>
+
+]]></data>
+				<data versionID="d7e28ff3-d948-4692-baee-249894d9295e" alias="headerImage">/media/21/header.png</data>
+				<data versionID="d7e28ff3-d948-4692-baee-249894d9295e" alias="topBg">/media/38/menubg.png</data>
+				<data versionID="d7e28ff3-d948-4692-baee-249894d9295e" alias="footer"><![CDATA[This is the footer - you can use this to add an address or likewise]]></data>
+				<data versionID="d7e28ff3-d948-4692-baee-249894d9295e" alias="siteName">Created by umbraco WebSiteWizard</data>
+				<node id="1221" version="01b8ec86-fd1b-4ba6-a518-703bd3daba9b" parentID="1220" level="2" writerID="0" creatorID="0" nodeType="1212" template="1210" sortOrder="1" createDate="2005-12-30T14:01:21" updateDate="2006-01-08T04:59:12" nodeName="About" urlName="about" writerName="umbraco_system" creatorName="umbraco_system" nodeTypeAlias="wwTextpage" path="-1,1220,1221">
+					<data versionID="01b8ec86-fd1b-4ba6-a518-703bd3daba9b" alias="bodyText"><![CDATA[<p>This is a dummy website created by the umbraco Website Wizard. It&#39;s very easy to change the design of this website, most of it can be done just by changing the css.</p>
+
+<p><strong>Changing the header image and the footer text</strong></p>
+
+<p>Login to <a href="/umbraco/umbraco">umbraco</a>, click on the Frontpage folder in the left pane. Select the &quot;layout&quot; tab and upload a new header. The format is 775px wide and 103px heigh. To change the footer, all you need to do is change the text in the textbox just below the header upload field.</p>
+
+<p><strong>Modifying the css</strong></p>
+
+<p>The css can easily be modified by logging into umbraco, click the &quot;Settings&quot; icon in the bottom right pane, open the&quot;stylesheets&quot; folder and click the &quot;wizard&quot; stylesheet.</p>
+
+<p><strong>Modifying the html</strong></p>
+
+<p>You can also modify the whole html output by changing the templates. To do so, go to the &quot;Settings&quot; section, open the &quot;templates&quot; folder and modify the appropriate template. The main layout is placed in the template named &quot;Main&quot;. </p>
+
+<p><strong>Modifying the bottom info on textpages</strong></p>
+
+<p>You can also change the small text info in the bottom of the text pages (Created at or Written By). These small texts are created as Dictionary items, which means that they can be language versioned. To change the date formatting and the text, go to the settings section in umbraco: </p>
+
+<ul>
+<li>Create a new language that you wish to use (ie: French).</li>
+
+<li>Open the &quot;Dictionary&quot; folder and edit the items &quot;CreatedAt&quot; and &quot;WrittenBy&quot; in that language (ie: French).</li>
+
+<li>Finally, go to the content section right click the first node (ie: Frontpage) and select &quot;Assign Domain&quot;. Type the domainname for your site (or just loremipsum.com) and select your language (ie: French).</li>
+</ul>
+
+<p>Then umbraco will write date formats according to that language and use the keys from the dictionary. This makes it easy to re-use templates on multiple languages.</p>
+
+<p><strong>Adding more functionality</strong></p>
+
+<p>You can easily add more functionality to your website than this simple Wizard includes. If you visit the package section of umbraco.org you&#39;ll find packages like Search, Weblog and RSS.</p>
+
+<p><strong>Getting help</strong></p>
+
+<p>You can use our <a href="http://groups.yahoo.com/groups/umbraco">mailing list at yahoo</a> (free) for questions or <a href="http://umbraco.org/support.aspx">our professional services</a> (they cost money though).</p>
+
+]]></data>
+					<data versionID="01b8ec86-fd1b-4ba6-a518-703bd3daba9b" alias="headerImage"/>
+				</node>
+				<node id="1222" version="4231d5b2-1c8a-4b6c-a6a7-c538662683f6" parentID="1220" level="2" writerID="0" creatorID="0" nodeType="1212" template="1210" sortOrder="2" createDate="2006-01-06T13:04:01" updateDate="2006-01-08T04:59:13" nodeName="Products" urlName="products" writerName="umbraco_system" creatorName="umbraco_system" nodeTypeAlias="wwTextpage" path="-1,1220,1222">
+					<data versionID="4231d5b2-1c8a-4b6c-a6a7-c538662683f6" alias="bodyText"><![CDATA[]]></data>
+					<data versionID="4231d5b2-1c8a-4b6c-a6a7-c538662683f6" alias="headerImage"/>
+					<node id="1223" version="66fdb7ea-92b6-46ee-b1b1-69f3483a70de" parentID="1222" level="3" writerID="0" creatorID="0" nodeType="1212" template="1210" sortOrder="1" createDate="2006-01-06T13:04:19" updateDate="2006-01-08T04:59:13" nodeName="Hest" urlName="hest" writerName="umbraco_system" creatorName="umbraco_system" nodeTypeAlias="wwTextpage" path="-1,1220,1222,1223">
+						<data versionID="66fdb7ea-92b6-46ee-b1b1-69f3483a70de" alias="bodyText"><![CDATA[]]></data>
+						<data versionID="66fdb7ea-92b6-46ee-b1b1-69f3483a70de" alias="headerImage"/>
+					</node>
+				</node>
+				<node id="1224" version="1d0e5d7f-f039-400a-bc53-9de76dc100ad" parentID="1220" level="2" writerID="0" creatorID="0" nodeType="1214" template="1208" sortOrder="3" createDate="2005-12-30T14:01:55" updateDate="2006-01-08T04:59:14" nodeName="News" urlName="news" writerName="umbraco_system" creatorName="umbraco_system" nodeTypeAlias="wwNews" path="-1,1220,1224">
+					<data versionID="1d0e5d7f-f039-400a-bc53-9de76dc100ad" alias="bodyText"><![CDATA[<p>This is the latest news. You can change the number of news shown, by changing the &quot;numberOfItems&quot; attribute on the &quot;News&quot; template (the settings section of umbraco).<br />
+</p>
+
+]]></data>
+					<node id="1225" version="c7597f67-2e54-41a4-8b9b-b9b3be0a9a6d" parentID="1224" level="3" writerID="0" creatorID="0" nodeType="1215" template="1209" sortOrder="1" createDate="2006-01-05T12:30:28" updateDate="2006-01-08T04:59:15" nodeName="Lorem Ipsum" urlName="lorem-ipsum" writerName="umbraco_system" creatorName="umbraco_system" nodeTypeAlias="wwNewsItem" path="-1,1220,1224,1225">
+						<data versionID="c7597f67-2e54-41a4-8b9b-b9b3be0a9a6d" alias="bodyText"><![CDATA[<p>Proin luctus blandit nulla. Nam in pede. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vestibulum vestibulum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc a erat quis neque lacinia consequat. Integer nisl. Morbi pretium tempor elit. Quisque et neque. Maecenas sit amet dui nec mi euismod posuere. Sed porttitor justo vel lorem.</p>
+
+<p>Ut consectetuer consectetuer odio. Donec dictum tincidunt orci. Pellentesque tristique tincidunt dui. Integer lectus. Etiam quis magna dignissim arcu suscipit mattis. Cras ornare ipsum ac ligula. Vivamus euismod. Nunc varius. Proin feugiat, ligula id rhoncus varius, dui tortor pulvinar eros, in porttitor elit purus a lorem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut vel leo vitae purus euismod tincidunt. Etiam quis arcu. Nullam vel turpis iaculis nulla sagittis porttitor. Vivamus vitae elit quis pede mollis luctus. Nam bibendum egestas lectus. Aliquam sollicitudin augue. Donec odio. In ac dui. Donec facilisis elit eget tortor.</p>
+
+<p>Proin at enim non massa euismod consequat. Integer nisl eros, dignissim eu, semper id, lacinia id, neque. Nulla congue turpis et massa. Nulla gravida est vel mauris. In hac habitasse platea dictumst. Integer tempus tortor eu felis. Nam consequat, arcu sit amet iaculis pretium, enim felis tincidunt leo, vel rutrum mauris lorem eget arcu. In non dui a enim bibendum vestibulum. Nulla quam lectus, feugiat id, tempor sed, pretium ut, ipsum. Nullam tempus sem vitae mauris. Suspendisse congue nisl vitae enim. Quisque neque. Fusce interdum ultricies arcu.</p>
+
+<p>Sed ac tellus. Donec sollicitudin ligula. Nulla facilisi. Donec mi. Vestibulum dictum nisl vel risus elementum tristique. Praesent fringilla erat vitae sem. Quisque non magna ut dui faucibus condimentum. Sed elementum nibh id lacus. Vestibulum id sem. Mauris vitae nisi. Proin pulvinar faucibus magna. Maecenas erat dui, placerat vel, ultrices ac, porttitor quis, diam. In hac habitasse platea dictumst. Nullam non justo. Proin cursus sollicitudin mauris. Proin est. Ut lobortis, dui ut mattis convallis, ligula felis ullamcorper nisi, eu dapibus mi tellus quis magna. Phasellus adipiscing.</p>
+
+<p>Quisque consectetuer sollicitudin sem. Vivamus non urna a enim iaculis sagittis. Curabitur id tortor nec elit cursus auctor. Aenean quis elit in velit interdum tincidunt. Etiam sem ante, dapibus id, tempus et, condimentum eu, sapien. Fusce auctor, nulla ac facilisis vulputate, dui ante imperdiet tellus, ac lobortis augue massa in est. Vestibulum dignissim rutrum arcu. Pellentesque porta massa ut justo. Suspendisse mattis, leo sit amet dapibus venenatis, diam metus rhoncus elit, dapibus dignissim nisi ipsum id magna. Sed vitae nisl. Fusce rutrum. Etiam vitae est eu ipsum congue semper. Proin ultricies quam. Integer vel neque. Aenean malesuada. Phasellus blandit nisi sit amet tellus. Suspendisse lacinia tortor et urna. Duis lobortis pellentesque odio. Nullam pretium condimentum neque.</p>
+
+]]></data>
+						<data versionID="c7597f67-2e54-41a4-8b9b-b9b3be0a9a6d" alias="teaser"><![CDATA[Morbi pretium tempor elit. Quisque et neque. Maecenas sit amet dui nec mi euismod posuere. Sed porttitor justo vel lorem. 
+]]></data>
+					</node>
+					<node id="1226" version="52e522e2-b14a-40d8-86f7-58e538b8a546" parentID="1224" level="3" writerID="0" creatorID="0" nodeType="1215" template="1209" sortOrder="2" createDate="2006-01-05T12:30:41" updateDate="2006-01-08T04:59:16" nodeName="Fusce eu nisi ac risus adipiscing interdum" urlName="fusce-eu-nisi-ac-risus-adipiscing-interdum" writerName="umbraco_system" creatorName="umbraco_system" nodeTypeAlias="wwNewsItem" path="-1,1220,1224,1226">
+						<data versionID="52e522e2-b14a-40d8-86f7-58e538b8a546" alias="bodyText"><![CDATA[<p>Curabitur leo ante, blandit at, venenatis et, dignissim vel, erat. Integer venenatis turpis faucibus ante. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In tempor, dui sit amet viverra mollis, leo risus elementum dui, quis dictum nibh mauris posuere urna. Praesent condimentum. Etiam sit amet lacus in justo venenatis dapibus. Pellentesque justo metus, fringilla at, faucibus non, fermentum vel, quam. Maecenas varius. Mauris at turpis. Curabitur bibendum nulla nec massa. Nullam vulputate odio sed justo. Proin hendrerit posuere eros. Vivamus blandit. Donec molestie libero eget arcu. Suspendisse potenti. Nam tortor velit, hendrerit id, lobortis vitae, sollicitudin eu, felis. Aliquam nisl. Etiam rhoncus lorem lobortis turpis. In mattis dictum leo.</p>
+
+<p>Nam felis dolor, dignissim a, sodales nec, sodales sollicitudin, justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean nisl felis, rutrum vitae, venenatis vehicula, vehicula nec, neque. Integer elementum convallis magna. In massa purus, euismod non, vulputate quis, cursus sed, turpis. Nulla sed arcu. Morbi congue. Quisque iaculis felis non velit. In pede. Vivamus sapien pede, dapibus eget, tincidunt a, pellentesque sed, nunc. Vestibulum felis. Aenean in ipsum. Fusce varius. Nunc consequat ipsum sed nunc. Proin feugiat fermentum dui. Proin tellus. Suspendisse justo. Donec a purus. Morbi augue purus, lobortis in, pellentesque et, blandit vitae, turpis.</p>
+
+<p>Fusce nec mauris. Pellentesque a nisl. Praesent in dolor non tellus hendrerit molestie. Nullam at dui. In sed lorem ac nunc mollis lacinia. Vivamus tempus turpis ac felis. Nullam ac arcu laoreet justo adipiscing laoreet. Vivamus in purus. Maecenas at nunc. Morbi quis urna. Ut molestie, mi vestibulum gravida placerat, justo sapien facilisis magna, et rhoncus sapien ante ac lacus. Ut a justo. Praesent vel metus sed nibh adipiscing congue. Integer ac diam accumsan neque ultrices mollis. Duis sit amet elit vestibulum magna scelerisque feugiat. Fusce at enim. Quisque tincidunt mi non velit posuere eleifend. Donec congue euismod turpis. Mauris sodales, ligula sit amet egestas dignissim, pede nulla dapibus quam, ac aliquam erat velit a metus.</p>
+
+<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi ultricies, nibh at lobortis varius, tortor risus consectetuer massa, in porta arcu lacus quis urna. Proin quis purus nec magna interdum volutpat. Proin dapibus bibendum lectus. Praesent euismod velit. Praesent eget eros sit amet lacus malesuada porta. Nullam fermentum dapibus velit. Vivamus eget enim. Aliquam sit amet massa vitae ante convallis accumsan. Vestibulum varius. Etiam vulputate, nulla et tincidunt aliquam, lectus mauris ultrices elit, eget tempor risus magna nec massa. Phasellus quis nibh vel mi tempor mollis. Pellentesque quam dui, mollis ut, volutpat ac, placerat sed, turpis. Nullam mollis libero quis massa. Etiam tristique purus ac diam. Curabitur sed turpis tempus est consequat dignissim. Etiam scelerisque, nulla et ornare varius, neque velit fermentum nisi, eget interdum felis erat at augue.</p>
+
+]]></data>
+						<data versionID="52e522e2-b14a-40d8-86f7-58e538b8a546" alias="teaser"><![CDATA[Pellentesque lobortis urna eu ante facilisis porta. Vivamus interdum convallis mi. Mauris ante sem, tincidunt ac, facilisis varius, convallis suscipit, sapien. Nunc semper scelerisque lacus. ]]></data>
+					</node>
+				</node>
+				<node id="1227" version="1aeceeb4-a7db-4b00-83d9-d4bbaabcfba2" parentID="1220" level="2" writerID="0" creatorID="0" nodeType="1212" template="1210" sortOrder="4" createDate="2005-12-30T14:01:33" updateDate="2006-01-08T04:59:16" nodeName="Contact" urlName="contact" writerName="umbraco_system" creatorName="umbraco_system" nodeTypeAlias="wwTextpage" path="-1,1220,1227">
+					<data versionID="1aeceeb4-a7db-4b00-83d9-d4bbaabcfba2" alias="bodyText"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In quis arcu vel neque vehicula dapibus. Donec quis est sit amet neque aliquet eleifend. Aenean eu nisl. Donec tincidunt eleifend diam. Maecenas feugiat tincidunt erat. Donec sapien. Quisque blandit dolor nec dolor. Nulla est nunc, convallis nec, accumsan vel, consectetuer sit amet, justo. Nunc quis enim. Duis et erat ut enim scelerisque interdum. Quisque vel turpis in odio malesuada luctus.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In quis arcu vel neque vehicula dapibus. Donec quis est sit amet neque aliquet eleifend. Aenean eu nisl. Donec tincidunt eleifend diam. Maecenas feugiat tincidunt erat. Donec sapien. Quisque blandit dolor nec dolor. Nulla est nunc, convallis nec, accumsan vel, consectetuer sit amet, justo. Nunc quis enim. Duis et erat ut enim scelerisque interdum. Quisque vel turpis in odio malesuada luctus.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In quis arcu vel neque vehicula dapibus. Donec quis est sit amet neque aliquet eleifend. Aenean eu nisl. Donec tincidunt eleifend diam. Maecenas feugiat tincidunt erat. Donec sapien. Quisque blandit dolor nec dolor. Nulla est nunc, convallis nec, accumsan vel, consectetuer sit amet, justo. Nunc quis enim. Duis et erat ut enim scelerisque interdum. Quisque vel turpis in odio malesuada luctus.</p>
+
+<p><strong>Donec sapien:</strong><br />
+Ilentesque quis est 15<br />
+8720 Fusce eu nisi<br />
+Dolor Amet<br />
+<br />
++45 12345678</p>
+
+]]></data>
+					<data versionID="1aeceeb4-a7db-4b00-83d9-d4bbaabcfba2" alias="headerImage"/>
+				</node>
+			</node>
+		</DocumentSet>
+	</Documents>
+</umbPackage>

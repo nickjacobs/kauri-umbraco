@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="HeadContent" runat="server">
+	<style type="text/css">
+
+	</style>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+	<div class="content clearfix">
+    <h1><umbraco:Item ID="Item2" field="pageName" stripParagraph="true" runat="server"></umbraco:Item></h1>
+    <div class="col w540 mr60">
+         <umbraco:Macro ID="Macro1" Alias="Supporters" runat="server"></umbraco:Macro>
+    </div>
+    <div class="col w300">
+        <umbraco:Macro ID="Macro5" Alias="[XSLT]NewsAndMediaSubMenu" runat="server"></umbraco:Macro> 
+      <umbraco:Macro ID="Macro2" Alias="[XSLT]RightPanelAdverts" runat="server"></umbraco:Macro>
+    </div>
+  </div> 
+</asp:content>

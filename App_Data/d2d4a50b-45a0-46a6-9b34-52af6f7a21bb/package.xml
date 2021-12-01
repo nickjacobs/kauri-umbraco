@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>treeMultiPicker.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>treeMultiPicker.dll</orgName>
+    </file>
+    <file>
+      <guid>treeMultiPickerInit.aspx</guid>
+      <orgPath>/umbraco</orgPath>
+      <orgName>treeMultiPickerInit.aspx</orgName>
+    </file>
+    <file>
+      <guid>treeMultiPickerNode.aspx</guid>
+      <orgPath>/umbraco</orgPath>
+      <orgName>treeMultiPickerNode.aspx</orgName>
+    </file>
+    <file>
+      <guid>treeMultiPicker.js</guid>
+      <orgPath>/umbraco_client/treeMultiPicker</orgPath>
+      <orgName>treeMultiPicker.js</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>TreeMultiPicker</name>
+      <version>0.7</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://our.umbraco.org/projects/backoffice-extensions/tree-multi-picker</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Marco Lusini</name>
+      <website>http://our.umbraco.org/member/1821</website>
+    </author>
+    <readme><![CDATA[TreeMultiPicker is a datatype for Umbraco 4 that allows the selection of multiple content or media nodes from a tree. 
+The selected nodes can be reordered with Drag & Drop. 
+You can restrict the selection tree to the children of a given parent node using an explicit node ID or an XPath expression. 
+It was developed as a replacement for Lefteris's Multiple Media and Node Pickers and can be configured to return a selected node set which is compatible with Lefteris Pickers or Ultimate Picker, in order to be as macro friendly as possible. ]]></readme>
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros />
+  <DictionaryItems />
+  <Languages />
+  <DataTypes>
+    <DataType Name="Multiple Content Picker" Id="88be02c6-e9b1-42ad-8f1c-8303c2d5956c" Definition="a0a1cc13-8f31-473f-ba96-34d522f12725">
+      <PreValues>
+        <PreValue Id="5" Value="Content Tree|-1||True|Ultimate Picker" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Multiple Media Picker" Id="88be02c6-e9b1-42ad-8f1c-8303c2d5956c" Definition="f99758dc-0e01-48ca-bfb4-f9c6e62ee61d">
+      <PreValues>
+        <PreValue Id="6" Value="Media Tree|-1||True|Ultimate Picker" />
+      </PreValues>
+    </DataType>
+  </DataTypes>
+</umbPackage>

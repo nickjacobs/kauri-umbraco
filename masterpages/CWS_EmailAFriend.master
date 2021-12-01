@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" MasterPageFile="/masterpages/CWS_Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderId="headerLinksContent" runat="server">
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="SideBarContent" runat="server">
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="ChildContent" runat="server">
+    <div class="content oneCol left clearfix">
+        <!-- One Column content -->
+        <umbraco:Macro EmailSubjectToFriend="[#emailSubjectToFriend]" EmailMessageToFriend="[#emailMessageToFriend]" EmailFrom="[#emailFrom]" EnableSSL="[#enableSSL]" FormHeader="[#headerText]" ThankYouHeaderText="[#thankYouHeaderText]" ThankYouMessageText="[#thankYouMessageText]" Alias="CWS_EmailAFriend" runat="server"></umbraco:Macro>
+    </div>    
+</asp:Content>

@@ -1,0 +1,1 @@
+function umbracoPasteCheck(A){var B=tinyMCE.getContent();if(B.indexOf("<FONT")>0||B.indexOf("MsoNormal")>0||B.indexOf("mso-")>0||B.indexOf("style=")>0){var C=new Array();C.file="../../../../umbraco/plugins/tinymce/paste.aspx";C.width=520;C.height=400;tinyMCE.openWindow(C,{editor_id:A})}};

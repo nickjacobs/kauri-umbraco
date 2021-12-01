@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>Decode.Umb.Pixlr.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>Decode.Umb.Pixlr.dll</orgName>
+    </file>
+    <file>
+      <guid>pixlr_minified.js</guid>
+      <orgPath>/usercontrols/pixlr</orgPath>
+      <orgName>pixlr_minified.js</orgName>
+    </file>
+    <file>
+      <guid>save.aspx</guid>
+      <orgPath>/umbraco/plugins/pixlr</orgPath>
+      <orgName>save.aspx</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>Pixlr</name>
+      <version>1.1</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://www.decode.dk/</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Bjørn Fridal</name>
+      <website>http://www.decode.dk/</website>
+    </author>
+    <readme><![CDATA[The Pixlr package makes it possible to edit your images directly in your browser. You can choose between two editors:
+- Pixlr Editor is a full image editor that comes with a ton of advanced image editing features.
+- Pixlr Express provides basic editing options through a simple interface.
+
+After installing:
+After you have installed the package a Pixlr Data Type will be available. To use Pixlr add the new Data Type to an image Media Type.
+It is recommend that you upload the Pixlr crossdomain.xml file to the root of the website. You activate it under "Developer > Data Types > Pixlr" where you can also read why it is a good idea to use the file.
+
+Before unintalling:
+Remember to remove the Pixlr Data Type from Media Types before uninstalling.
+
+Changelog:
+Version 1.1 (12 feb 2010):
+- Fixed bug that prevented creating new image media types.
+- Fixed bug that prevented creating new datatypes. 
+
+Version 1.0 (11 feb 2010):
+- First release.]]></readme>
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros />
+  <DictionaryItems />
+  <Languages />
+  <DataTypes>
+    <DataType Name="Pixlr" Id="3128ad7f-ef40-4a62-81b7-11bf8992217b" Definition="36d6cd0c-a20a-4dc5-afe4-285ef01fdec1">
+      <PreValues>
+        <PreValue Id="36" Value="editor" />
+        <PreValue Id="37" Value="1" />
+      </PreValues>
+    </DataType>
+  </DataTypes>
+</umbPackage>

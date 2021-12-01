@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" Inherits="masterpages_Unsubscribe" CodeFile="~/masterpages/Unsubscribe.master.cs" %>
+
+<asp:content ContentPlaceHolderId="HeadContent" runat="server">
+	
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+    <div id="contentContainer">
+        <!-- InstanceBeginEditable name="Content" -->
+        <div id="mainContentWrapper">
+            <div class="topSliver">&nbsp;</div>
+            <div id="mainContent">
+                <div class="contentHeader shortContentHeader">
+                    <h3>Unsubscribe</h3>
+                </div>
+                <div class="contentLeft">
+                    <asp:literal ID="litContent" runat="server"></asp:literal>
+                </div>
+                <div class="contentRight">
+                    <umbraco:Macro ID="Macro4" Alias="BlogLatestPosts" runat="server"></umbraco:Macro>
+                    <umbraco:Macro ID="Macro5" Alias="BlogTags" runat="server"></umbraco:Macro>
+                    <umbraco:Macro ID="Macro6" Alias="BlogArchive" runat="server"></umbraco:Macro>
+                    <umbraco:Macro ID="Macro9" Alias="BlogSocial" runat="server"></umbraco:Macro>
+                </div>
+                <div class="clearer">&nbsp;</div>
+                <div id="pageLinks">
+                    <a href="#" class="topLink">Top of Page</a>
+                    <div class="clearer">&nbsp;</div>
+                </div>
+            </div>
+            <div class="bottomSliver">
+            </div>
+            <div class="clearer">&nbsp;</div>
+        </div>
+        <!-- InstanceEndEditable -->
+        <div class="clearer">&nbsp;</div>
+    </div>
+    <div class="clearer">&nbsp;</div>
+    <umbraco:Macro ID="Macro3" Alias="Footer" runat="server"></umbraco:Macro>
+</asp:content>

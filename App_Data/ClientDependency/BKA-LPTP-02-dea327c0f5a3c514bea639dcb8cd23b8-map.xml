@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L2luc3RhbGwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_5b842672e6f5462ab4d6354f77855d39.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\install\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L3Bhc3N3b3JkU3RyZW5ndGgvcGFzc3dvcmRzdHJlbmd0aC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOw==" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_51d9c1aae7a146ca9f5c642b61c12ab1.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\passwordStrength\passwordstrength.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_74e9ad5b99074209843f9126fa2f1250.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_2960e119aa0e4e19bab33636ea330e3e.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_d296f903767d476593d4df6ec9a188d3.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9HZW5lcmljUHJvcGVydHkvZ2VuZXJpY3Byb3BlcnR5LmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9UaGVtZXMvdW1icmFjby9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RkLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS90cmVlSWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOw==" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_9231d5fd79c547e7bc2939243f0f5154.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\GenericProperty\genericproperty.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\dd.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\propertypane\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnkuZGQuanM7L3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy9VbWJyYWNvQ2FzaW5nUnVsZXMuYXNweDs=" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_34854db437bf464b9fa9c965a651e684.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.dd.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\GenericProperty\genericproperty.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_e9528014469a4720a2fb460e20e0160f.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_e815c9eab78d43c5bffa29aacf7c07a5.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LWZpZWxkc2VsZWN0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9VbWJyYWNvRWRpdG9yLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9qYXZhc2NyaXB0LmpzOw==" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_33b351e8528b46229485427f63e6956f.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery-fieldselection.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\CodeArea\UmbracoEditor.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\CodeArea\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvL2Nzcy91bWJyYWNvR3VpLmNzczs=" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_639ce66e0a1f4844b34789e797f7f6eb.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco\css\umbracoGui.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjby9TZWFyY2gvcXVpY2tTZWFyY2guanM7L3VtYnJhY28vanMvZ3VpRnVuY3Rpb25zLmpzOy91bWJyYWNvL2pzL1VtYnJhY29TcGVlY2hCdWJibGVCYWNrZW5kLmpzOy91bWJyYWNvL2pzL2xhbmd1YWdlLmFzcHg7L3VtYnJhY29fY2xpZW50L3VpL2pRdWVyeVdyZXNpemUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkuYXV0b2NvbXBsZXRlLmpzOw==" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_5ab021315e0441cbb9003ab348c275de.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.ba-bbq.min.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\HistoryManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco\Search\quickSearch.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco\js\guiFunctions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco\js\UmbracoSpeechBubbleBackend.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jQueryWresize.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\JQuery\jquery.autocomplete.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOw==" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_09d3066e98b7448893be8e3ab0951645.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_2b7e57e006224c828d6c0b97babc54e3.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\propertypane\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOw==" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_749a0ef5b8174eaf8327aa8ca91897af.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_1c3a10fcc5184200b4f1622dd4e9084d.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\menuicon\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\propertypane\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\DateTimePicker\datetimepicker.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_bfe509709acb47ab83bff9a022370713.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco\js\umbracoCheckKeys.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\DateTimePicker\timepicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_75bae6906eb24204a05fa79baaff5d5b.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\treeIcons.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\menuIcons.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3RpbnlfbWNlX3BvcHVwLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3BsdWdpbnMvYWR2bGluay9qcy9hZHZsaW5rLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy91dGlscy9mb3JtX3V0aWxzLmpzOw==" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_4063f80d08524639b65cec80278c4e05.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\jquery.tree.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tabview\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tinymce3\tiny_mce_popup.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tinymce3\plugins\advlink\js\advlink.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\tinymce3\utils\form_utils.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczs=" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_3bc371fbfdc5416d81e254f149b316e3.cdC" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\propertypane\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\style.css" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LWZpZWxkc2VsZWN0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9VbWJyYWNvRWRpdG9yLmpzOw==" file="C:\DevelopmentProjects\Migrate Safe\development\www\App_Data\ClientDependency\1_35cc1ca5ce374fdda2e7a727eab07dce.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\NamespaceManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jquery.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\jqueryui.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\ui\default.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\modal\modal.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\panel\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\CodeArea\javascript.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\Application\jQuery\jquery-fieldselection.js" />
+      <file name="C:\DevelopmentProjects\Migrate Safe\development\www\umbraco_client\CodeArea\UmbracoEditor.js" />
+    </files>
+  </item>
+</map>

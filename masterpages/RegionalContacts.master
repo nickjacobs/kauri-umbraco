@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/BKA_Master.master" AutoEventWireup="true" %>
+
+<asp:content ContentPlaceHolderId="HeadContent" runat="server">
+	<style type="text/css">
+     .col {float: left;}
+.w220 {width: 220px;}
+.w280 {width: 280px;}
+.w300 {width: 300px;}
+.w540 {width: 600px;}
+.w560 {width: 560px;}
+
+.ml20 {margin-left: 20px;}
+.mr40 {margin-right: 40px;}
+.mr60 {margin-right: 0px;}
+	</style>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="ChildContent" runat="server">
+	<div class="content clearfix" id="mainContent">
+		<h1><umbraco:Item ID="Item1" field="pageName" stripParagraph="true" runat="server"></umbraco:Item></h1>
+		<div class="col w540 mr60">  
+            <umbraco:Macro ID="MacroRegionalContacts" Alias="RegionalContacts" runat="server"></umbraco:Macro>
+		</div>
+		<div class="col w300" id="rightContent">
+            <div id="floater" class="floater">
+                 <umbraco:Macro ID="Macro1" Alias="CWS_SubNavi" runat="server"></umbraco:Macro>
+                 <umbraco:Macro ID="Macro2" Alias="[XSLT]RightPanelAdverts" runat="server"></umbraco:Macro>
+            </div>
+		</div>
+	</div> 
+</asp:content>

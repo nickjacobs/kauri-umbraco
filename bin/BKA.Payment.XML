@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BKA.Payment</name>
+    </assembly>
+    <members>
+        <member name="F:BKA.Payment.PXPay.DPSTransaction.Currency">
+            <summary>
+            One Of The Following :
+            CAD  	Canadian Dollar
+            CHF 	Swiss Franc
+            EUR 	Euro
+            FRF 	French Franc
+            GBP 	United Kingdom Pound
+            HKD 	Hong Kong Dollar
+            JPY 	Japanese Yen
+            NZD 	New Zealand Dollar
+            SGD 	Singapore Dollar
+            USD 	United States Dollar
+            ZAR 	Rand
+            AUD 	Australian Dollar
+            WST 	Samoan Tala
+            VUV 	Vanuatu Vatu
+            TOP 	Tongan Pa'anga
+            SBD 	Solomon Islands Dollar
+            PNG 	Papua New Guinea Kina
+            MYR 	Malaysian Ringgit
+            KWD 	Kuwaiti Dinar
+            FJD 	Fiji Dollar
+            </summary>
+        </member>
+        <member name="M:BKA.Payment.PXPay.DPSTransaction.ProcessRequest(System.String,System.Double,System.Boolean,System.String@)">
+            <summary>
+            Post a request to DPS
+            </summary>
+            <param name="VulaDataObjectId">Vula Object to ref on post back from DPS</param>
+            <param name="OrderRef">Field appears on DPS transaction records</param>
+            <param name="Total">Amount to charge</param>
+        </member>
+        <member name="M:BKA.Payment.PXPay.DPSTransaction.ProcessRequest(System.String,System.Double,System.String,System.String,System.Boolean,System.String@)">
+            <summary>
+            Post a request to DPS
+            </summary>
+            <param name="VulaDataObjectId">Vula Object to ref on post back from DPS</param>
+            <param name="OrderRef">Appears on customers statment, must be 16 chars or less</param>
+            <param name="Total">Amount to charge</param>
+            <param name="Text1">Optional</param>
+            <param name="Text2">Optional</param>
+        </member>
+        <member name="M:BKA.Payment.PXPay.DPSTransaction.ProcessResponse(System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            Returns the Guid for the order 
+            NOTE: This response maybe trigged Multiple times !!!!
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:BKA.Payment.DPSTransaction.Currency">
+            <summary>
+            One Of The Following :
+            CAD  	Canadian Dollar
+            CHF 	Swiss Franc
+            EUR 	Euro
+            FRF 	French Franc
+            GBP 	United Kingdom Pound
+            HKD 	Hong Kong Dollar
+            JPY 	Japanese Yen
+            NZD 	New Zealand Dollar
+            SGD 	Singapore Dollar
+            USD 	United States Dollar
+            ZAR 	Rand
+            AUD 	Australian Dollar
+            WST 	Samoan Tala
+            VUV 	Vanuatu Vatu
+            TOP 	Tongan Pa'anga
+            SBD 	Solomon Islands Dollar
+            PNG 	Papua New Guinea Kina
+            MYR 	Malaysian Ringgit
+            KWD 	Kuwaiti Dinar
+            FJD 	Fiji Dollar
+            </summary>
+        </member>
+        <member name="M:BKA.Payment.DPSTransaction.ProcessRequest(System.Guid,System.String,System.Double,System.Boolean)">
+            <summary>
+            Post a request to DPS
+            </summary>
+            <param name="VulaObjectId">Vula Object to ref on post back from DPS</param>
+            <param name="OrderCode">Field appears on DPS transaction records</param>
+            <param name="Total">Amount to charge</param>
+        </member>
+        <member name="M:BKA.Payment.DPSTransaction.ProcessRequest(System.Guid,System.String,System.Double,System.String,System.String,System.Boolean,System.String@)">
+            <summary>
+            Post a request to DPS
+            </summary>
+            <param name="VulaObjectId">Vula Object to ref on post back from DPS</param>
+            <param name="OrderCode">Appears on customers statment, must be 16 chars or less</param>
+            <param name="Total">Amount to charge</param>
+            <param name="Text1">Optional</param>
+            <param name="Text2">Optional</param>
+        </member>
+        <member name="M:BKA.Payment.DPSTransaction.ProcessResponse(System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            Returns the Guid for the order 
+            NOTE: This response maybe trigged Multiple times !!!!
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:BKA.Payment.DPSResult">
+            <summary>
+            Object used to return DPS result with some autocomplete goodness
+            </summary>
+        </member>
+        <member name="F:BKA.Payment.DPSResult.VulaDataObjectId">
+            <summary>
+            The Vula Object ID that was passed into the transaction
+            </summary>
+        </member>
+        <member name="F:BKA.Payment.DPSResult.DpsBillingId">
+            <summary>
+            When output, contains the Payment Express generated BillingId. Only returned for transactions that are requested by the application with the EnableAddBillCard value is set to true indicating a token billing entry should be created.
+            </summary>
+        </member>
+        <member name="F:BKA.Payment.DPSResult.DpsTxnRef">
+            <summary>
+            Returned for every transaction. If the transaction was approved, DpsTxnRef can be used as input to a Refund transaction. Used to specify a transaction for refund without supplying the original card number and expiry date.
+            </summary>
+        </member>
+        <member name="F:BKA.Payment.DPSResult.Success">
+            <summary>
+            Was the transaction a success
+            </summary>
+        </member>
+        <member name="F:BKA.Payment.DPSResult.AmountSettlement">
+            <summary>
+            Total Purchase, Refund, Auth or Completion amount that was settled with your bank.
+            </summary>
+        </member>
+    </members>
+</doc>

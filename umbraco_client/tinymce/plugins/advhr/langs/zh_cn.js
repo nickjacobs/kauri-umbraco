@@ -1,0 +1,1 @@
+tinyMCE.addToLang("",{insert_advhr_desc:"≤Â»Î/±‡º ÀÆ∆Ω±Í≥ﬂ",insert_advhr_width:"øÌ∂»",insert_advhr_size:"∏ﬂ∂»",insert_advhr_noshade:"Œﬁ“ı”∞"});
